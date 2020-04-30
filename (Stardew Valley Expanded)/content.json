@@ -1,4 +1,4 @@
-﻿{
+{
   "Format": "1.11",
   "_COMMENT": "Hey. You. Yes you. The person who opened the Content Json. There are spoilers in here! - Oui je confirme à tes risques et périls tu risques de te faire spoil, mais si c'est pour de la Trad tu es le bienvenue bien entendu :)",
   "ConfigSchema": {
@@ -614,7 +614,7 @@
           "7": 15
         },
         "34": {
-          "1": "Iridium ore fired from this are given cosmic energy"
+          "1": "Ce minerai d'iridium vous donne de l'énergie cosmique "
         },
         "49": {
           "2": 1,
@@ -1182,7 +1182,7 @@
         "SusanMelonSeeds": "@ !^^Mes melons poussent comme une traînée de poudre cette année! Voilà quelques graines supplémentaires que j'ai obtenues quand j'ai fait sauter un certain nombre d'entre elles dans mon semencier. Ne cherche pas à essayer de rivaliser avec moi pour le marché du melon... Je gagnerai !^^  -Susan %item object 479 5 %%",
         "VictorDewey": "Cher @,^^Je t'écris pour te remercier de m'avoir écouté au cimetière. Je sais que ce genre de conversations peuvent être stressantes. Si jamais Dewey revenait, je suis sûr qu'il serait aussi heureux de t'avoir pour ami que je le suis.^^  Sincerely, Victor",
         "OliviaWine": "Cher @,^^Le marché a été de mon côté et j'ai encaissé certaines de mes actions qui m'ont apporté une fortune! Pour fêter ça, j'ai commandé un pack contenant mes bouteilles de vin préférées, Et je me suis dit que j'avais envie de partager quelques bouteilles avec toi. Prenons un verre ensemble dans les temps!^^  -Olivia %item object 348 5 %%",
-        "OliviaCellar": "Cher @,^^Je voulais te remercier d'avoir été si attentionné avec moi et de m'avoir écoutée l'autre jour. Je sais que je peux être un peu pleurnicharde quand je prends quelques verres. La prochaine fois que nous prendrons un verre ensemble, je te parlerai de quelques lieux merveilleux que j'ai visité. Il est facile d'oublier qu'il y a tout un monde au delà de la vallée parfois, en tout cas j'ai beaucoup d'histoires à te raconter.^^  Avec tout mon amour, Olivia",
+        "OliviaCellar": "Cher @,^^Je voulais te remercier d'avoir été si attentionné avec moi et de m'avoir écoutée l'autre jour. Je sais que je peux être un peu pleurnicharde quand je m'enfile quelques verres. La prochaine fois que nous prendrons un verre ensemble, je te parlerai de quelques lieux merveilleux que j'ai visité. Il est facile d'oublier qu'il y a tout un monde au delà de la vallée parfois, en tout cas j'ai beaucoup d'histoires à te raconter.^^  Avec tout mon amour, Olivia",
         "GusSophia": "Salut @,^^Je t'écris juste ce petit mot rapide pour te demander de ne pas parler de notre petite conversation à Sophia. Je compte sur toi pour rester discret. C'est important que nous restions sur la même longueur d'onde. En espérant te revoir bientôt au saloon.^^  -Gus",
         "HaleyTalk": "@,^^Merci pour ta gentilesse l'autre jour. Je paniquais totalement et toi tu étais super patient. J'ai parlé Emily et elle est super aidante et compréhensive aussi. Je sais que je peux être une vraie gosse parfois. On pourrait reparler un de ces jours.^^  -Haley",
         "KentSummit": "Hey @,^^Désolé encore d'avoir été si énervé l'autre jour. Je voulais t'en parler, j'ai commencé à voir un professionnel à propos de ça. Depuis que je suis revenu, j'ignorais totalement ce qui pouvait me déclencher. Il est temps pour moi de remettre de l'ordre dans ma vie.^^  -Kent",
@@ -1829,7 +1829,7 @@
       "Entries": {
         "MovieInvite_Spouse_Victor": "Ah, mais bien sûr ! J'adorerais regarder un film avec toi !$3#$e#On pourrait faire route vers le cinéma ensemble ?$1",
         "MovieInvite_Spouse_Olivia": "Oh, tu veux qu'on aille au cinéma ensemble ? It'll be a lovely date night.$3",
-        "MovieInvite_Spouse_Sophia": "Oooh! A movie? Yay!$9#$b#I'll meet you there okay?$1#$e#I'm going to get cotton candy!$1"
+        "MovieInvite_Spouse_Sophia": "Oooh! Un film ? Oh ouais !$9#$b#On se voit là bas d'accord ?$1#$e#Je vais prendre de la barbapapa !$1"
       }
     },
     {
@@ -1850,11 +1850,11 @@
       "Entries": {
         "shop": "O 166 0 1 O 608 0 3 BL 746 0 1 BO 113 0 1",
         "set-up": "spirits_eve/-1000 -1000/farmer 1 54 1/changeToTemporaryMap Town-Halloween/loadActors Set-Up/advancedMove Maru true 1 5000 2 7000 3 3000 4 3500 1 2000 2 3000 3 1000 4 2000/advancedMove Alex true -3 0 4 4000 3 0 4 5000/advancedMove Jas true 1 1500 4 1000/advancedMove Abigail true 3 3500 2 3000 1 5000 3 5000 2 6000/advancedMove Harvey true 1 3500 4 5000 3 3000 2 5000 4 3000/advancedMove Pam true 0 1 1 5000 0 -1 1 5000/advancedMove Shane true -7 0 0 2 2 9000 0 -2 7 0 4 9000/advancedMove Demetrius true 3 18000 4 3000/addTemporaryActor Skeleton 16 32 30 59 2 false Monster/advancedMove Skeleton true 0 1 3 4000 2 0 0 -1 4 2000 -1 0 3 1000 2 2000 0 -1 4 4000 -1 0 0 1 2 5000/addTemporaryActor Skeleton 16 32 35 58 2 false Monster/addTemporaryActor Shadow_Brute 16 32 46 59 2 false Monster/addTemporaryActor Shadow_Brute 16 32 43 58 2 false Monster/advancedMove Shadow_Brute true -4 0 3 5000 4 0 2 5000 1 3000 2 1000/addTemporaryActor Skeleton_Mage 16 32 51 32 2 false Monster/advancedMove Skeleton_Mage true -2 0 0 2 1 6000 0 -2 2 0 2 5000/addTemporaryActor Wilderness_Golem 16 24 63 25 3 false Monster/advancedMove Wilderness_Golem true -9 0 0 2 2 1000 0 -2 9 0 2 1500/addTemporaryActor Stone_Golem 16 24 54 32 1 false Monster/advancedMove Stone_Golem true 9 0 4 1000 -9 0 4 400/addTemporaryActor Shadow_Shaman 16 24 68 23 2 false Monster/advancedMove Shadow_Shaman true 1 1500 2 2000 3 3000 2 5000 4 1000/addTemporaryActor Metal_Head 16 16 74 27 2 false Monster/advancedMove Metal_Head true -4 0 2 200 4 0 4 100/addTemporaryActor Mummy 16 32 74 24 2 false Monster/advancedMove Mummy true -2 0 3 200 2 0 2 6000/playerControl halloween",
-        "Pierre": "Joyeuse fête des esprits, @!$h#$b#The wizard who lives in the woods created this maze. Apparently, there are two treasure chests hidden in there!$0#$e#But to find the treasure you need to get past the creatures he summoned to guard it... So that'll be a no from me.$s#$b#Best of luck to you if you attempt to find the treasure, @!$h",
-        "Wizard": "Hello, @. Have you entered the maze? I deployed... surprises for anyone who dares enter.#0#$e#I might have gone a little overboard with the monsters!$h",
-        "Linus": "Salut, @. J'espère que cette soirée se passe bien pour toi.$0#$b#Many les brutes de l'ombre sont violentes, Mais celles-ci sont particulièrement agressives. Si l'occasion se présente, elles vous arracheraient les membres!$3#$e#Not all shadow people are violent, though.$0#$b#I'm good friends with one called 'Krobus'. I understand what it's like to be judged for being different.$h#$e#Enjoy the festival.$1",
-        "Krobus": "My friends... trapped in those cages...#$e#What will happen to them after the festival...?$2",
-        "Dwarf": "Quel curieux je suis...#$e#Tu as grimpé jusqu'ici pour me saluer?"
+        "Pierre": "Joyeuse fête des esprits, @!$h#$b#Le sorcier qui vit dans les bois a créé ce labyrinthe. Apparemment, il y a deux coffres au trésor cachés dedans!$0#$e#Mais pour trouver le trésor tu devras outrepasser les créatures qu'il a invoquées pour le garder... Donc ce sera un non pour moi.$s#$b#Bonne chance si tu essayes de trouver le trésor, @!$h",
+        "Wizard": "Bonjour, @. Es-tu entré dans le labyrinthe ? J'y ai mis... des surprises pour tous ceux qui osent y pénétrer.#0#$e#J'ai peut-être un peu exagéré avec les monstres!$h",
+        "Linus": "Salut, @. J'espère que cette soirée se passe bien pour toi.$0#$b#Many les brutes de l'ombre sont violentes, Mais celles-ci sont particulièrement agressives. Si l'occasion se présente, elles vous arracheraient les membres !$3#$e#Tous les êtres des ombres ne sont pas violents du moins.$0#$b#Je suis un bon ami avec un appelé 'Krobus'. Je comprends ce que c'est que d'être jugé  quand on est différent.$h#$e#Profite bien du festival.$1",
+        "Krobus": "Mes amis... sont piégés dans ces cages...#$e#Que va-t-il leur arriver après le festival...?$2",
+        "Dwarf": "Quel curieux je suis...#$e#Tu as grimpé jusqu'ici pour venir me saluer?"
       }
     },
     {
@@ -2013,7 +2013,7 @@
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Whoa!$1"
+                  "Text": "Ouah !$1"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
@@ -2087,7 +2087,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "C'était génial. Je veux jouer au jeu maintenant !$3"
+                  "Text": "C'était génial. Ca me donne envie de jouer au jeu maintenant !$3"
                 }
               },
               "ID": "reaction_3"
@@ -2147,7 +2147,7 @@
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "*awn*... c'est déjà fini ?$2"
+                  "Text": "*bâille*... c'est déjà fini ?$2"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
@@ -2166,7 +2166,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Victor": "I think Abigail is going to stomp everyone again. She always does.$0#$e#Mayor Lewis should consider asking her not to participate. It isn't fair for Vincent and Jas.$6#$e#Really, the same could be said about you too, @.$0"
+        "Victor": "Je pense qu'Abigail va encore battre tout le monde à plat de couture. C'est toujours elle qui gagne.$0#$e#Le maire Lewis devrait envisager de lui demander de ne pas participer. Ce n'est pas juste pour Vincent et Jas.$6#$e#Vraiment, on pourrait en dire autant pour toi, @.$0"
       }
     },
     {
@@ -2202,7 +2202,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Victor": "Ma mère et moi venons de jeter certains de nos vins les plus chers.Cela devrait rendre la soupe délicieuse.$1#$e#I don't think any of the children can have any now though. Whoops.$2"
+        "Victor": "Ma mère et moi venons de jeter certains de nos vins les plus chers. Cela devrait rendre la soupe délicieuse.$1#$e#Ca m'étonnerait que les enfants puissent en avoir maintenant. Ouups.$2"
       }
     },
     {
@@ -2238,14 +2238,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Victor": "Ce clown ne jongle qu'avec une balle... C'est bizarre.$0#$e#I might go look at the grange displays soon. Ca commence à devenir ennuyeux.$2#$e#Have you set your display up?$1"
+        "Victor": "Ce clown ne jongle qu'avec une balle... C'est bizarre.$0#$e#I might go look at the grange displays soon. Ca commence à devenir ennuyeux.$2#$e#Tu as mis en place ta présentation ?$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Victor": "Hey there, honey! I hope you do well in the grange display contest!$4"
+        "Victor": "Salut mon coeur ! Je compte sur toi pour gagner le concours d'exposition des granges !$4"
       },
       "When": {
         "Spouse:Victor": "True"
@@ -2274,14 +2274,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Victor": "I must say, I'm looking forward to seeing Willy show off his fishing skills.$1#$b#You can tell how talented he is. He's been fishing all of his life!$3"
+        "Victor": "Je dois dire, que j'ai hâte de voir Willy montrer ses talents de pêcheur.$1#$b#Tu peux le dire toi à quel point il est talentueux. Il a pêché toute sa vie !$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Victor": "Good luck in the fishing contest, sweetheart. You're going to do great!$4#$e#I'll be cheering for you!$1"
+        "Victor": "Bonne chance pour le concours de pêche mon chou à la crême. Tu vas y arriver !$4#$e#Je serai là pour t'encourager !$1"
       },
       "When": {
         "Spouse:Victor": "True"
@@ -2398,7 +2398,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Olivia": "Oh, my! For me? This is truly an exquisite gift. Thank you, dear!/124 125 348 220 221/This is so thoughtful of you, sweetie! Thank you./336 432 276 608 421/Oh? I don't like this.../18 16 20 22 24 408 80 416 414 412 296 398 410 152 396 397 399/This really isn't appropriate. I'll promptly throw this out!/330 284 149 151 459 346 304/This is a thoughtful gift, dear. Thank you./446 402 418/"
+        "Olivia": "Ooh ! Pour moi? C'est vraiment un cadeau exquis. Merci beaucoup !/124 125 348 220 221/C'est si gentil de ta part mon petit sucre ! Merci./336 432 276 608 421/Oh ? Je n'aime pas ça.../18 16 20 22 24 408 80 416 414 412 296 398 410 152 396 397 399/C'est vraiment pas approprié. Je vais jeter ça directement !/330 284 149 151 459 346 304/C'est un cadeau attentionné. Merci./446 402 418/"
       }
     },
     {
@@ -2476,10 +2476,10 @@
       "Action": "EditData",
       "Target": "strings/StringsFromCSFiles",
       "Entries": {
-        "Utility.cs.5367": "Quand @ venait d'arriver à Pélican Ville, no one knew if he'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Olivia in the bonds of marriage.",
-        "Utility.cs.5369": "When @ first arrived in Pélican Ville, no one knew if she'd fit in with our community...#$b#But from this day forward, @ is going to be as much a part of this town as any of us!$h#$b#It is my great honor on this day {0} of {1}, to unite @ and Olivia in the bonds of marriage.",
-        "Utility.cs.5371": "@... Olivia... #$b# As the mayor of Pélican Ville, and regional bearer of the matrimonial seal, I now pronounce you husband and wife!$h",
-        "Utility.cs.5377": "@... Olivia... #$b# As the mayor of Pélican Ville, and regional bearer of the matrimonial seal, I now pronounce you wife and..., well, wife!$h"
+        "Utility.cs.5367": "Quand @ venait d'arriver à Pélican Ville, personne ne savait qu'il allait si bien intégrer la communauté...#$b#Mais à partir de ce jour, @ va faire autant partie de cette ville que n'importe lequel d'entre nous!$h#$b#C'est mon grand honneur en ce jour {0} de {1}, d'unir @ et Olivia par les liens sacrés du mariage.",
+        "Utility.cs.5369": "Quand @ venait d'arriver à Pélican Ville, personne ne savait qu'il allait si bien intégrer la communauté...#$b#Mais à partir de ce jour, @ va faire autant partie de cette ville que n'importe lequel d'entre nous!$h#$b#C'est mon grand honneur en ce jour {0} de {1}, d'unir @ et Olivia par les liens sacrés du mariage.",
+        "Utility.cs.5371": "@... Olivia... #$b#En tant que maire de Pélican Ville, et porteur régional du sceau matrimonial, Je vou déclare maintenant, mari et femme et..., soyez, heureux !$h",
+        "Utility.cs.5377": "@... Olivia... #$b#En tant que maire de Pélican Ville, et porteur régional du sceau matrimonial, Je vou déclare maintenant, mari et femme et..., soyez, heureux !$h"
       },
       "When": {
         "Relationship:Olivia": "Engaged"
@@ -2536,7 +2536,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "My, my! My absolute favorite genre. Thank you for inviting me out, dear.$3"
+                  "Text": "Ohlalaa ! C'est mon type de film préféré. Merci de m'avoir invité.$3"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -2560,7 +2560,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Caroline said this movie was frightening! I'll be prepared for any jump scares.$1"
+                  "Text": "Caroline m'a dit que ce film était effrayant ! Je vais me préparer pour toutes les scènes où je vais sursauter.$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -2570,7 +2570,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I had a wonderful time. We should see another movie again sometime, dear.$3"
+                  "Text": "j'ai passé un moment merveilleux. On devrait revoir un autre film un jour.$3"
                 }
               },
               "ID": "reaction_3"
@@ -2583,17 +2583,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Let's head in early to get good seats, @.$0"
+                  "Text": "J'aimerais y aller tôt pour avoir les bons sièges @.$0"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
-                  "Script": "/shake Olivia 3000/pause 500/message \"Olivia is giggling!\"",
-                  "Text": "This is so enjoyable!$1"
+                  "Script": "/shake Olivia 3000/pause 500/message \"Olivia rigole!\"",
+                  "Text": "Hihihi c'est trop bien !$1"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The story was remarkable and engaging.$1"
+                  "Text": "L'histoire était remarquable et engageante.$1"
                 }
               },
               "ID": "reaction_4"
@@ -2606,13 +2606,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I've heard good reviews about this film.$3"
+                  "Text": "J'ai entendu du bon sur ce film.$3"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "The film was quite the experience, dear. Thank you for the invite.$1"
+                  "Text": "Ce film ça a été une véritable expérience. Merci pour l'invit'!$1"
                 }
               },
               "ID": "reaction_5"
@@ -2630,12 +2630,12 @@
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "My, my. How cheezy.$0"
+                  "Text": "Seigneur. C'est d'un ringard.$0"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "J'apprécie ta compagnie, mon cher.$3"
+                  "Text": "J'apprécie ta compagnie en tout cas.$3"
                 }
               },
               "ID": "reaction_6"
@@ -2649,14 +2649,14 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Olivia": "Ohlala. Quelle journée parfaite pour un festival.$0#$e#Vas-tu participer à la chasse aux œufs, @?$3"
+        "Olivia": "Ohlala. Quelle journée parfaite pour un festival.$0#$e#Tu vas participer à la chasse aux œufs @?$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Olivia": "I just love celebrating the spring, don't you, sweetie?$1#$b#Are you going on the egg hunt? I'll be cheering for you.$3"
+        "Olivia": "Juste, j'adore la célébration du  printemps, pas toi chéri ?$1#$b#Tu vas participer à la chasse aux oeufs ? Je serai ta supporter alors !$3"
       },
       "When": {
         "Spouse:Olivia": "True"
@@ -2667,14 +2667,14 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Olivia": "Gatherings such as this give me a great opportunity to talk to Caroline and Jodi.$3"
+        "Olivia": "Des rassemblements comme ceux-ci me donnent une excellente occasion de parler à Caroline et Jodi.$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Olivia": "Lovely of you to make it to the festival, honey.$3#$e#Let's partake in the buffet soon.$1"
+        "Olivia": "c'est chou de ta part de participer au festival mon chéri.$3#$e#Hâte qu'on aille au buffet.$1"
       },
       "When": {
         "Spouse:Olivia": "True"
@@ -2685,14 +2685,14 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Olivia": "The governor has honored us with his presence, @!$1#$b#I may try speaking with him after Mayor Lewis has finished his conversation. Perhaps he enjoys vintage wine?$3"
+        "Olivia": "Le gouverneur nous a fait l'honneur de sa présence @!$1#$b#Je pourrais essayer de lui parler après que le Maire Lewis aura fini sa conversation avec lui. Peut-être qu'il aime le vin vintage ?$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Olivia": "The soup smells delicious. I might even have seconds, sweetie. Don't tell anyone.$1#$e#I love you, honey.$4"
+        "Olivia": "La soupe sent délicieusement bon. Je pourrais même avoir quelques secondes mon chéri. Ne le dis à personne.$1#$e#Je t'aime mon coeur.$4"
       },
       "When": {
         "Spouse:Olivia": "True"
@@ -2703,14 +2703,14 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Olivia": "The sky is clear tonight. A flawless backdrop of moonlight for the jellies, wouldn't you say @?$3"
+        "Olivia": "Le ciel est dégagé cette nuit. Une toile de fond parfaite au clair de lune pour les méduses, n'est-ce pas @ ?$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Olivia": "The sea is beautiful at night. I'm so happy we can experience the moonlight jellies together.$3#$e#Maybe we can hold hands?$4"
+        "Olivia": "La mer est magnifique cette nuit. Je suis si heureuse que nous puissions voir ensemble les méduses au clair de lune.$3#$e#... j'aimerais te tenir la main.$4"
       },
       "When": {
         "Spouse:Olivia": "True"
@@ -2721,14 +2721,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Olivia": "Are you enjoying the fair, sweetie?$3"
+        "Olivia": "Tu profites bien du festival mon chéri ?$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Olivia": "Are you putting on a Grange Display, sweetie?$0#$b#Best of luck if you do. I know how hard you’ve worked this year.$3"
+        "Olivia": "Tu vas aussi faire ton exposition fermière mon bébé ?$0#$b#Je te souhaite le meilleur si tu y parcitipes. Je sais à quel point tu as travaillé dur cette année.$3"
       },
       "When": {
         "Spouse:Olivia": "True"
@@ -2739,7 +2739,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Olivia": "I heard screams coming from the maze. What could possibly be in there!?$2"
+        "Olivia": "J'ai entendu des cris provenant du labyrinthe. Qu'est-ce qu'il peut bien y avoir là dedans !?$2"
       }
     },
     {
@@ -2757,14 +2757,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Olivia": "Brr... I should have worn an extra layer.$2#$e#Are you participating in the fishing competition?$3"
+        "Olivia": "Brrr...J'aurais dû porter un quelque chose en plus.$2#$e#Dis-moi, tu participes au concours de pêche ?$3"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Olivia": "It’s quite chilly out here, isn't it, sweetie?$2#$b#When we go home, let's get cozy in some blankets. I'll mull some spiced wine for us.$4"
+        "Olivia": "Il fait un peu froid ici, n'est-ce pas mon amour ?$2#$b#Quand nous rentrons à la maison, on se mettra à l'aise sous des couvertures. Je nous servirai un bon verre de vin épicé.$4"
       },
       "When": {
         "Spouse:Olivia": "True"
@@ -2775,14 +2775,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Olivia": "Merry Winter Star, dear!$3#$e#Isn't it wonderful how happy everyone is on a day such as this?$1"
+        "Olivia": "Joyeuse fête de l'étoile hivernale mon cher !$3#$e#N'est-ce pas merveilleux de voir l'euphorie sur le visage de tout le monde en un jour comme celui-ci ?$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Olivia": "This time of year makes me so appreciative of family.$3#$b#I'm glad you came into my life, @.$4"
+        "Olivia": "Cette période de l'année me rend tellement reconnaissante envers ma famille.$3#$b#Je suis si heureuse que tu sois entré dans ma vie @.$4"
       },
       "When": {
         "Spouse:Olivia": "True"
@@ -3638,17 +3638,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Je ne peux pas croire qu'ils ont fait un film sur Prairie King... J'espère qu'il est bien!"
+                  "Text": "Je ne peux pas croire qu'ils ont fait un film sur Prairie King... J'espère que ça va être bien !"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "C'est mon cosplay!$9"
+                  "Text": "C'est mon cosplay !$9"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Le film était tellement cool! Merci de m'avoir emmenée!$1"
+                  "Text": "Ce film était tellement cool! Merci de m'avoir emmenée !$1"
                 }
               },
               "ID": "reaction_2"
@@ -3661,17 +3661,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "J'espère que ce film est bien! Je pense en plus qu'il y a un mignon personnage dedans!$1"
+                  "Text": "J'espère que ce film est bien ! En plus je crois qu'il y a un mignon dans ce film !$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ohh! C'est intéressant!$1"
+                  "Text": "Ohh! C'est intéressant !$1"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Les ratons laveurs sont tellement adorables!$1"
+                  "Text": "Les ratons laveurs sont tellement aadooraables !$1"
                 }
               },
               "ID": "reaction_3"
@@ -3688,13 +3688,13 @@
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
-                  "Script": "/shake Sophia 3000/pause 500/message \"Sophia is giggling!\"",
-                  "Text": "Hehe!$9"
+                  "Script": "/shake Sophia 3000/pause 500/message \"Sophia se fend la poire !\"",
+                  "Text": "Hehehe !$9"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "What part was your favorite?$1"
+                  "Text": "C'était quoi ta partie préférée ?$1"
                 }
               },
               "ID": "reaction_4"
@@ -3707,13 +3707,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hey, you! Thanks for inviting me, I love going to the movies.$1"
+                  "Text": "Hé toi ! Merci de m'avoir invitée, J'adore aller au cinéma.$1"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "There were some silly parts, but I liked it.$9"
+                  "Text": "Il y avait des scènes bizarres, mais j'ai bien aimé.$9"
                 }
               },
               "ID": "reaction_5"
@@ -3726,17 +3726,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I-I don't know about this one. I'm just here for the snacks.$1"
+                  "Text": "Je-je... enfin ça ne me dit pas grand chose. Je suis juste là pour manger des cochonneries.$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Mmm. A little boring...$2"
+                  "Text": "Mmm. Un peu ennuyeux...$2"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I think I'd rate that a 5 out of 10.$0"
+                  "Text": "Si je pouvais mettre une note je lui aurais seulement mis 5 sur 10.$0"
                 }
               },
               "ID": "reaction_6"
@@ -4126,7 +4126,7 @@
         "HasSeenEvent: 8185295": true
       },
       "Entries": {
-        "HaleyHouse_2_18": "Yay! You're here, Sophia!$1",
+        "HaleyHouse_2_18": "Yay! You're here Sophia!$1",
         "HaleyHouse_7_5": "Sophia! Look at these new makeup palettes.$1",
         "HaleyHouse_8_5": "Looks beautiful on you.$0",
         "HaleyHouse_6_20": "Bye, Sophia!$1"
@@ -4173,10 +4173,10 @@
         "HasSeenEvent: 8185295": true
       },
       "Entries": {
-        "HaleyHouse_14_23": "Hurray, Sophia! Let's start sewing! There's a new pattern I want to show you.$1",
+        "HaleyHouse_14_23": "Hurray, Sophia! Let's start sewing ! There's a new pattern I want to show you.$1",
         "HaleyHouse_16_25": "I'm happy Sophia is visiting! We don't see each other often.$0",
-        "HaleyHouse_13_22": "OooOo! You're great at this!$1",
-        "HaleyHouse_14_7": "You're excellent at cutting fabric, Sophia!$0"
+        "HaleyHouse_13_22": "OooOo! You're great at this !$1",
+        "HaleyHouse_14_7": "You're excellent at cutting fabric Sophia !$0"
       }
     },
     {
@@ -4184,7 +4184,7 @@
       "Action": "EditData",
       "Target": "Data/Events/SophiaHouse",
       "Entries": {
-        "8185296/f Sophia 2500/e 8185295/w sunny": "kindadumbautumn/-500 -500/Sophia -200 -200 2 farmer 17 26 3 Pam -199 -199 2/addTemporaryActor SophiaJPK 16 32 10 23 0/pause 1000/viewport 17 26 true/skippable/viewport move -1 0 3500/move farmer -7 0 0 true/pause 4000/faceDirection SophiaJPK 1 true/pause 200/faceDirection SophiaJPK 2 true/pause 700/jump SophiaJPK/pause 1000/speak Sophia \"Howdy!$19#$b#This is my Journey of the Prairie King cosplay!$15#$b#I've been working on it for a while now. Got it done just in time for the Zuzu City Comicon!$15\"/pause 900/move SophiaJPK 0 1 2/pause 300/speak Sophia \"H-hey. I have a skit I want to show you.$15#$b#*Ahem* Let's head on outside, partner.$17\"/pause 400/globalFade/viewport -1000 -1000/stopMusic/pause 100/changeLocation BlueMoonVineyard/pause 50/warp SophiaJPK 31 22/warp farmer 31 28/pause 50/viewport 31 25 true/pause 1500/speak Sophia \"Just pretend there are enemies around me, okay?$18#$b#*Ahem*$17\"/pause 1250/playSound dwop/showFrame SophiaJPK 19/pause 200/playMusic cowboy_outlawsong/pause 1250/speak Sophia \"Heh. So. Been a while since I've seen your face around these parts.$17#$b#Brought friends too. How kind of ya...$17\"/pause 1200/speak Sophia \"You leave me no choice...$17\"/pause 1600/playSound dwop/showFrame SophiaJPK 16/pause 350/playSound Cowboy_gunshot/pause 250/playSound Cowboy_gunshot/pause 250/playSound Cowboy_gunshot/pause 250/faceDirection SophiaJPK 1 true/pause 250/showFrame SophiaJPK 17/pause 250/playSound Cowboy_gunshot/pause 250/playSound Cowboy_gunshot/pause 250/playSound Cowboy_gunshot/pause 250/faceDirection SophiaJPK 2 true/pause 250/faceDirection SophiaJPK 3 true/pause 250/showFrame SophiaJPK 18/pause 200/playSound Cowboy_gunshot/pause 250/playSound Cowboy_gunshot/pause 250/playSound Cowboy_gunshot/pause 250/faceDirection SophiaJPK 2 true/pause 900/showFrame SophiaJPK 19/pause 1000/speak Sophia \"Heh. That was my dead eye.$17#$b#Don't look so tough without your weapons!$17\"/pause 1200/showFrame SophiaJPK 20/pause 600/showFrame SophiaJPK 19/pause 300/showFrame SophiaJPK 21/pause 700/showFrame SophiaJPK 19/pause 700/speak Sophia \"Your buddies ran off scared.$17#$b#I'm the prairie queen, got it?$17\"/pause 700/emote SophiaJPK 16 true/pause 300/playSound dwop/showFrame SophiaJPK 16/pause 400/speak Sophia \"Crafty fella! You had a hidden weapon all this time...$17\"/pause 1000/speak Sophia \"We can do this the easy way or the hard way.$17\"/pause 700/showFrame SophiaJPK 0/playSound dwop/playMusic Cowboy_singing/pause 800/viewport move 0 1 3000 true/move SophiaJPK 0 4 2/pause 300/speak Sophia \"So. Um. That's the first part of the skit.$18#$b#Second part involves me rolling around but I don't wanna get my cosplay dirty.$18#$b#The bad guy brandishes a secret weapon!$19\"/pause 1000/jump SophiaJPK/emote SophiaJPK 16 true/pause 1000/speak Sophia \"Oh! I need to run to the bus!$19#$b#Um. Come with me, @!$15\"/globalFade/viewport -1000 -1000/stopMusic/playMusic 50s/pause 50/changeLocation Busstop/warp SophiaJPK 12 12/warp farmer 13 12/warp Pam 12 10/faceDirection SophiaJPK 0 true/faceDirection farmer 0 true/pause 50/positionOffset farmer 0 28/viewport 17 12 true/pause 1000/speak Pam \"Alright, kiddo! Let's get drivin' to Zuzu City!$1\"/pause 300/faceDirection Pam 1 true/pause 200/faceDirection Pam 0 true/pause 300/move Pam 0 -1 0/warp Pam -99 -99/pause 900/faceDirection SophiaJPK 1 true/pause 450/faceDirection farmer 3 true/pause 300/speak Sophia \"Sorry you can't come, silly.$16#$b#Um. Next time we'll need to get you tickets in advance.$16\"/pause 200/emote farmer 28/pause 300/speak Sophia \"Hey. Come a little closer.$18\"/pause 900/showFrame farmer 101 true/showFrame SophiaJPK 22 true/emote SophiaJPK 20 true/emote farmer 20 true/pause 1000/faceDirection farmer 3 true/pause 100/showFrame SophiaJPK 4 true/pause 500/speak Sophia \"Bye, you.$18\"/pause 500/faceDirection SophiaJPK 0 true/pause 350/faceDirection SophiaJPK 0 true/pause 300/move SophiaJPK 0 -2 0 true/pause 500/faceDirection farmer 0 true/pause 1100/faceDirection SophiaJPK 1 true/pause 250/faceDirection SophiaJPK 2 true/pause 500/playSound dwop/showFrame SophiaJPK 19/pause 400/speak Sophia \"Until next time, partner.$17\"/pause 1000/showFrame SophiaJPK 0/pause 500/faceDirection SophiaJPK 1 true/pause 250/faceDirection SophiaJPK 0 true/pause 400/move SophiaJPK 0 -1 0/warp SophiaJPK -80 -80/globalFade/viewport -1000 -1000/playSound busDriveOff/pause 3000/message \"Maybe next time I'll join Sophia at the Zuzu City Convention Center!\"/pause 200/friendship Sophia 125/end dialogue Sophia \"Hey, you! I had so much fun at the convention center! Met up with Scarlett and some other friends.#$b#My skit was a huge hit! I won 3rd place, can you believe that?$9#$e#Oh. Um. I still need to do that skit for you later...$4#$e#*smooch*$9\""
+        "8185296/f Sophia 2500/e 8185295/w sunny": "kindadumbautumn/-500 -500/Sophia -200 -200 2 farmer 17 26 3 Pam -199 -199 2/addTemporaryActor SophiaJPK 16 32 10 23 0/pause 1000/viewport 17 26 true/skippable/viewport move -1 0 3500/move farmer -7 0 0 true/pause 4000/faceDirection SophiaJPK 1 true/pause 200/faceDirection SophiaJPK 2 true/pause 700/jump SophiaJPK/pause 1000/speak Sophia \"Howdy!$19#$b#This is my Journey of the Prairie King cosplay!$15#$b#I've been working on it for a while now. Got it done just in time for the Zuzu City Comicon!$15\"/pause 900/move SophiaJPK 0 1 2/pause 300/speak Sophia \"H-hey. I have a skit I want to show you.$15#$b#*Ahem* Let's head on outside, partner.$17\"/pause 400/globalFade/viewport -1000 -1000/stopMusic/pause 100/changeLocation BlueMoonVineyard/pause 50/warp SophiaJPK 31 22/warp farmer 31 28/pause 50/viewport 31 25 true/pause 1500/speak Sophia \"Just pretend there are enemies around me, okay?$18#$b#*Ahem*$17\"/pause 1250/playSound dwop/showFrame SophiaJPK 19/pause 200/playMusic cowboy_outlawsong/pause 1250/speak Sophia \"Heh. So. Been a while since I've seen your face around these parts.$17#$b#Brought friends too. How kind of ya...$17\"/pause 1200/speak Sophia \"You leave me no choice...$17\"/pause 1600/playSound dwop/showFrame SophiaJPK 16/pause 350/playSound Cowboy_gunshot/pause 250/playSound Cowboy_gunshot/pause 250/playSound Cowboy_gunshot/pause 250/faceDirection SophiaJPK 1 true/pause 250/showFrame SophiaJPK 17/pause 250/playSound Cowboy_gunshot/pause 250/playSound Cowboy_gunshot/pause 250/playSound Cowboy_gunshot/pause 250/faceDirection SophiaJPK 2 true/pause 250/faceDirection SophiaJPK 3 true/pause 250/showFrame SophiaJPK 18/pause 200/playSound Cowboy_gunshot/pause 250/playSound Cowboy_gunshot/pause 250/playSound Cowboy_gunshot/pause 250/faceDirection SophiaJPK 2 true/pause 900/showFrame SophiaJPK 19/pause 1000/speak Sophia \"Heh. That was my dead eye.$17#$b#Don't look so tough without your weapons!$17\"/pause 1200/showFrame SophiaJPK 20/pause 600/showFrame SophiaJPK 19/pause 300/showFrame SophiaJPK 21/pause 700/showFrame SophiaJPK 19/pause 700/speak Sophia \"Your buddies ran off scared.$17#$b#I'm the prairie queen, got it?$17\"/pause 700/emote SophiaJPK 16 true/pause 300/playSound dwop/showFrame SophiaJPK 16/pause 400/speak Sophia \"Crafty fella! You had a hidden weapon all this time...$17\"/pause 1000/speak Sophia \"We can do this the easy way or the hard way.$17\"/pause 700/showFrame SophiaJPK 0/playSound dwop/playMusic Cowboy_singing/pause 800/viewport move 0 1 3000 true/move SophiaJPK 0 4 2/pause 300/speak Sophia \"So. Um. That's the first part of the skit.$18#$b#Second part involves me rolling around but I don't wanna get my cosplay dirty.$18#$b#The bad guy brandishes a secret weapon!$19\"/pause 1000/jump SophiaJPK/emote SophiaJPK 16 true/pause 1000/speak Sophia \"Oh! I need to run to the bus!$19#$b#Um. Come with me, @!$15\"/globalFade/viewport -1000 -1000/stopMusic/playMusic 50s/pause 50/changeLocation Busstop/warp SophiaJPK 12 12/warp farmer 13 12/warp Pam 12 10/faceDirection SophiaJPK 0 true/faceDirection farmer 0 true/pause 50/positionOffset farmer 0 28/viewport 17 12 true/pause 1000/speak Pam \"Alright, kiddo! Let's get drivin' to Zuzu City!$1\"/pause 300/faceDirection Pam 1 true/pause 200/faceDirection Pam 0 true/pause 300/move Pam 0 -1 0/warp Pam -99 -99/pause 900/faceDirection SophiaJPK 1 true/pause 450/faceDirection farmer 3 true/pause 300/speak Sophia \"Sorry you can't come, silly.$16#$b#Um. Next time we'll need to get you tickets in advance.$16\"/pause 200/emote farmer 28/pause 300/speak Sophia \"Hé. approche-toi encore un peu.$18\"/pause 900/showFrame farmer 101 true/showFrame SophiaJPK 22 true/emote SophiaJPK 20 true/emote farmer 20 true/pause 1000/faceDirection farmer 3 true/pause 100/showFrame SophiaJPK 4 true/pause 500/speak Sophia \"Bye, you.$18\"/pause 500/faceDirection SophiaJPK 0 true/pause 350/faceDirection SophiaJPK 0 true/pause 300/move SophiaJPK 0 -2 0 true/pause 500/faceDirection farmer 0 true/pause 1100/faceDirection SophiaJPK 1 true/pause 250/faceDirection SophiaJPK 2 true/pause 500/playSound dwop/showFrame SophiaJPK 19/pause 400/speak Sophia \"Until next time, partner.$17\"/pause 1000/showFrame SophiaJPK 0/pause 500/faceDirection SophiaJPK 1 true/pause 250/faceDirection SophiaJPK 0 true/pause 400/move SophiaJPK 0 -1 0/warp SophiaJPK -80 -80/globalFade/viewport -1000 -1000/playSound busDriveOff/pause 3000/message \"Maybe next time I'll join Sophia at the Zuzu City Convention Center!\"/pause 200/friendship Sophia 125/end dialogue Sophia \"Hey, you! I had so much fun at the convention center! Met up with Scarlett and some other friends.#$b#My skit was a huge hit! I won 3rd place, can you believe that?$9#$e#Oh. Um. I still need to do that skit for you later...$4#$e#*smooch*$9\""
       }
     },
     {
@@ -4201,7 +4201,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "MarlonFay": "This is a mighty gift, @. Thank you./244 413 437 439 680/Thanks. I'll find some use of this./346 303 348 459 205 422 287 288/Hmmm... that will be a hard pass. My apologies./-81/This unfortunately doesn't suit me./-80 283 233/Thanks./286 424 426 436 438 803 184 186 420 -28/"
+        "MarlonFay": "Ceci est un cadeau puissant @. Merci./244 413 437 439 680/Merci. Ca me sera utile./346 303 348 459 205 422 287 288/Hmmm... Ca ne passe pas vraiment. Mes excuses./-81/Tson ne me convient malheureusement pas./-80 283 233/Merci./286 424 426 436 438 803 184 186 420 -28/"
       }
     },
     {
@@ -4325,17 +4325,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Horror films test my integrity. Let us procure our seats.$0"
+                  "Text": "Les films d'horreur testent mon intégrité. Allons prendre nos places.$0"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "No jump scare will get to me...$2"
+                  "Text": "Aucun sursaut ne me prendra...$2"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Thank you kindly for the invite, @. That was quite enjoyable.$0"
+                  "Text": "Thank you kindly for the invite, @. C'était très sympatique.$0"
                 }
               },
               "ID": "reaction_2"
@@ -4348,7 +4348,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "This genre of film is not my favorite, but I'll give it a go...$2"
+                  "Text": "Ce n'est pas trop mon genre de film, mais je vais quand même essayer...$2"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -4358,7 +4358,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hmm. I don't have much to say about the film...$0"
+                  "Text": "Hmm. Je n'ai pas grand chose à dire sur le film...$0"
                 }
               },
               "ID": "reaction_3"
@@ -4371,13 +4371,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Well. Let us grab seats post haste, @."
+                  "Text": "Bien. Allons vite prendre nos sièges @."
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Interesting film. Acting was a little sub-par, though."
+                  "Text": "Film intéressant. Le jeu était un peu vieux-jeu ceci dit."
                 }
               },
               "ID": "reaction_4"
@@ -4715,7 +4715,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Morgan": "Um. H-how did you get here?$5#$e#I knew it. You're a wizard too!$3#$e#Actually. No. You're just a cheater.$1#$e#%Morgan has destroyed your will to continue the conversation."
+        "Morgan": "Um. C-comment es tu venu ici ?$5#$e#Je le savais. Tu est un sorcier toi aussi !$3#$e#En fait. Non. Tu es juste un tricheur.$1#$e#%Morgan a détruit votre envie de continuer la conversation."
       }
     },
     {
@@ -4723,7 +4723,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Morgan": "Do you see them?$1#$e#'Them'!$3#$e#I'm hungry. Is food ready yet?$0"
+        "Morgan": "Es-ce que tu les vois ?$1#$e#'Eux'!$3#$e#J'ai faim. La nourriture prête ?$0"
       }
     },
     {
@@ -4731,7 +4731,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Morgan": "Um. Good evening, @.$0"
+        "Morgan": "Hum. Bonsoir @.$0"
       }
     },
     {
@@ -4739,7 +4739,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Morgan": "Welwick is soooo boring.$2#$e#I wanna go pet the animals with Jas and Vincent.$0"
+        "Morgan": "Welwick est teeellement barbant.$2#$e#Je veux aller caresser les animaux avec Jas et Vincent.$0"
       }
     },
     {
@@ -4747,7 +4747,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Morgan": "Psst. The monsters in the maze are fake.$1#$e#These ones in the cages are real, though...$2"
+        "Morgan": "Psst. Les monstres du labyrinthe sont faux.$1#$e#Ceux-ci dans les cages sont réels cependant...$2"
       }
     },
     {
@@ -4755,7 +4755,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Morgan": "The concentration of magic in this spot is incredible!$3#$e#Can you feel it too?$1"
+        "Morgan": "La concentration de magie dans ce spot est incroyable !$3#$e#Tu peux la sentir aussi ?$1"
       }
     },
     {
@@ -4763,7 +4763,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Morgan": "Um. Merry Winter Star, @!$1"
+        "Morgan": "Hum. Joyeuse Etoile Hivernale, @!$1"
       }
     },
     {
@@ -5652,7 +5652,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "MorrisTod": "Ah! A gift worthy of my attention. Thank you, @./730 727 432 578/This is delightful!/72 348 430 428/I don't like this.../346 459 303 -81/What a despicable gift. Get this away from me./167 -74/That's generous of you./-75 -79 -80/"
+        "MorrisTod": "Ah! Un cadeau digne de mon attention. Je te remercie, @./730 727 432 578/This is delightful!/72 348 430 428/Je n'aime pas ça.../346 459 303 -81/What a despicable gift. Get this away from me./167 -74/C'est généreux de ta part./-75 -79 -80/"
       }
     },
     {
@@ -5712,7 +5712,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "MorrisTod": "Those Joja gift cards just may provide the store with more loyal customers!$1"
+        "MorrisTod": "Ces cartes-cadeaux Joja devraient apporter au magasin des clients plus fidèles !$1"
       }
     },
     {
@@ -5774,12 +5774,12 @@
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Haha! Fantastic!$1"
+                  "Text": "Haha! Fantastique !$1"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I felt youthful again watching that film! Certainly a gratifying experience!$1"
+                  "Text": "Je me suis senti tout jeune en regardant ce film ! Une une expérience agréable !$1"
                 }
               },
               "ID": "reaction_2"
@@ -5792,12 +5792,12 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Thank you for inviting me to the cinema, @. Best to get use out of the theater you paid for.$1"
+                  "Text": "Merci de m'avoir invité au cinéma @. Best to get use out of the theater you paid for.$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Haha! Splendid!$1"
+                  "Text": "Haha! Splendide !$1"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
@@ -5815,17 +5815,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "It's good to present yourself at the cinema, @. Everyone knows you single-handely paid for the establishment!$1"
+                  "Text": "C'est bon de te voir au cinéma, @. Everyone knows you single-handely paid for the establishment!$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
-                  "Script": "/shake MorrisTod 2000/pause 500/message \"Morris is laughing.\"",
-                  "Text": "Haha! Quite the show this is!$1"
+                  "Script": "/shake MorrisTod 2000/pause 500/message \"Morris se met à rire.\"",
+                  "Text": "Haha! Cette scène est trop folle !$1"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Well, I must say that was quite entertaining. Until next time, @.$0"
+                  "Text": "Eh bien, je dois dire que c'était assez intéressant. A la prochaine @.$0"
                 }
               },
               "ID": "reaction_4"
@@ -5838,13 +5838,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "After the countless hours I've put into work, I'm looking forward to this delightful film.$0"
+                  "Text": "Après l'éternité que j'ai passée au travail, j'ai trop hâte de voir ce film ! Après l'effort, le récofort.$0"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "A magnificent film that certainly was. Thank you for the invite.$1"
+                  "Text": "Quel magnifique film. Merci pour l'invitation.$1"
                 }
               },
               "ID": "reaction_5"
@@ -5857,17 +5857,17 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ah, yes. I've heard... poor reviews of this movie but never had the chance to inspect it yet...$0"
+                  "Text": "Ah, oui. J'ai entendu ... de mauvaises critiques de ce film mais je n'ai jamais encore eu l'occasion de l'inspecter...$0"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "What. No! That makes no sense!$3"
+                  "Text": "Quoi. Non ! Ça n'a aucun sens !$3"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I will look into removing this movie from the master show list. Can't have poor films ruining our establishment!$3"
+                  "Text": "Je devrais envisager de retirer ce film de la liste principale.Je ne peux pas laisser de mauvais films ruiner notre établissement !$3"
                 }
               },
               "ID": "reaction_6"
@@ -6638,9 +6638,9 @@
         "Town_107_100": "Salut à toi @. Je vérifie l'état du jardin communautaire. Tout à l'air d'être bien entretenu.$1",
         "Town_104_104": "Salut à toi @. Je vérifie l'état du jardin communautaire. Tout à l'air d'être bien entretenu.$1",
         "Town_99_100": "Salut à toi @. Je vérifie l'état du jardin communautaire. Tout à l'air d'être bien entretenu.$1",
-        "Town_38_14": "Kegs seem to be in good order. Susan is quite skilled at crafting kegs.$0",
-        "Town_47_87": "Sorry, @. It isn't the best time to strike up conversation...$2",
-        "Summit_15_16": "Hi, @. I hiked up here as well to take in the view.$1"
+        "Town_38_14": "Les fûts semblent être en bon état. Susan est assez habile pour fabriquer des fûts.$0",
+        "Town_47_87": "Désolé, @.Ce n'est pas le meilleur moment pour entamer une conversation...$2",
+        "Summit_15_16": "salut @. Je suis aussi monté ici pour admirer la vue.$1"
       }
     },
     {
@@ -6660,11 +6660,11 @@
         "Town_37_16": "Salut, @. Les fûts sont en bon état. Le prochain lot de boissons de Stardrop Saloon est bientôt prêt.$1",
         "Town_37_14": "Salut, @. Les fûts sont en bon état. Le prochain lot de boissons de Stardrop Saloon est bientôt prêt.$1",
         "Town_41_14": "Salut, @. Les fûts sont en bon état. Le prochain lot de boissons de Stardrop Saloon est bientôt prêt.$1",
-        "Town_109_101": "Mes plantes sont en très bonne santé!$1",
-        "Town_107_100": "Mes plantes sont en très bonne santé!$1",
-        "Town_106_100": "Mes plantes sont en très bonne santé!$1",
-        "Town_105_100": "Mes plantes sont en très bonne santé!$1",
-        "Town_104_100": "Mes plantes sont en très bonne santé!$1"
+        "Town_109_101": "Mes plantes sont en excellente santé!$1",
+        "Town_107_100": "Mes plantes sont en excellente santé!$1",
+        "Town_106_100": "Mes plantes sont en excellente santé!$1",
+        "Town_105_100": "Mes plantes sont en excellente santé!$1",
+        "Town_104_100": "Mes plantes sont en excellente santé!$1"
       }
     },
     {
@@ -6768,10 +6768,10 @@
         "Forest_55_21": "Mes plantes sont en pleine santé cette saison ! Je m'attends d'elles qu'elles me le rendent bien.$1",
         "Forest_56_21": "Mes plantes sont en pleine santé cette saison ! Je m'attends d'elles qu'elles me le rendent bien.$1",
         "Forest_80_15": "%Marnie is busy storing product in her shipping bin.",
-        "MarnieShed_7_5": "*sigh*... Mondays are when I do record keeping. I prefer taking care of my animals.$2",
+        "MarnieShed_7_5": "*soupire*... Lundi c'est je jour de la paperasse, Je préfère prendre soin de mes animaux.$2",
         "MarnieShed_14_7": "J'aurai du fromage à vendre bientôt.$1",
-        "MarnieShed_12_5": "%Marnie is busy storing tools in her chest.",
-        "MarnieShed_11_6": "These Grampleton looms work wonders on raw wool.$1#$b#I never invested time in crafting. I purchase my machines from Susan or other towns.$0"
+        "MarnieShed_12_5": "%Marnie est occupée à ranger des outils dans son coffre.",
+        "MarnieShed_11_6": "Ces métiers à tisser Grampleton font des merveilles sur la laine tout juste tondue.$1#$b#Je n'ai jamais vraiment consacré de temps dans la fabrication. J'achète mes machines à Susan ou dans d'autres villes.$0"
       }
     },
     {
@@ -6887,7 +6887,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pierre",
       "Entries": {
-        "Town_46_48": "Salut, @. Je stocke des produits dans mon bac d'expédition. Lewis les prendra tous tôt demain matin.$1"
+        "Town_46_48": "Salut, @. Je place des produits dans mon bac d'expédition. Lewis les prendra tous tôt demain matin.$1"
       }
     },
     {
@@ -6895,8 +6895,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jodi",
       "Entries": {
-        "Introduction": "Oh! You aren't exactly how I imagined... but that's okay! I'm Jodi.#$e#It's a quiet little town, so it's very exciting when someone new moves in!$1#$b#Have you met the other farmers in our community?",
-        "Thu": "So you're a farmer just starting out, huh?$0$k#$e#I'm sure Andy or Sophia could give you some pointers.$1"
+        "Introduction": "Oh! Oh tu n'es pas vraiment comme dans mon imagination... mais c'est ok ! Je m'appelle Jodi.#$e#C'est une petite ville tranquille, du coup c'est très excitant quand quelqu'un emménage !$1#$b#As-tu rencontré les autres fermiers de notre communauté?",
+        "Thu": "Donc tu es un fermier qui débute, hein ?$0$k#$e# Je suis sûr qu'Andy ou Sophia pourraient te donner quelques tuyaux.$1"
       }
     },
     {
@@ -7541,7 +7541,7 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Harvey",
       "Entries": {
-        "harvey_event1": "Oh, et bien, bonjour !$1",
+        "harvey_event1": "Oh, eh bien, bonjour !$1",
         "harvey_event2": "Eh bien, tu ne seras pas déçu. C'est de la top qualité, c'est fabriqué avec des ingrédients Bio.$1"
       }
     },
@@ -7550,9 +7550,9 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Sam",
       "Entries": {
-        "sam_event1": "Yeah, no kidding it is. It's nice to hear we're both in the same boat.$1",
-        "sam_event2": "Whoa! Get real. That's crazy! You're lucky you got that arcade machine. That's worth like... 15,000G at least!$8",
-        "sam_event3": "Oh... well, that's all right. To each their own, I guess.$2"
+        "sam_event1": "Et ouais, c'est pas de la rigolade. C'est cool d'entendre que nous sommes tous les deux dans le même bateau.$1",
+        "sam_event2": "Ouah! pince-moi je rêve. C'est ouf ! Une machine d'arcade, la chance ! Ca doit valoir 15,000PO au moins !$8",
+        "sam_event3": "Oh... eh bien, tout va bien. À chacun son dû, je présume.$2"
       }
     },
     {
@@ -7560,9 +7560,9 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Shane",
       "Entries": {
-        "shane_event1": "I guess I've been standing here for a while just thinking.$3",
-        "shane_event2": "Why am I at the railroad? Just thinking...$3",
-        "shane_event3": "Heh, nothing gets past you, does it?$3"
+        "shane_event1": "J'imagine je suis resté debout ici pendant un bon moment, j'y pense.$3",
+        "shane_event2": "Qu'est-ce que je fais sur ces rails de train ? J'y pense...$3",
+        "shane_event3": "Heh, nothing gets past you, does it ?$3"
       }
     },
     {
@@ -7573,13 +7573,13 @@
         "abigail_event1": "Je pensais que j'étais le seul à pouvoir les voir! C'est dingue !$7",
         "abigail_event2": "Je pensais que j'étais le seul à pouvoir les voir! C'est dingue !$7",
         "abigail_event3": "That's... that's a good idea.$2#$b#Sorry, I'm still trying to calm down. Ummm... let me think of a question.$0",
-        "abigail_event4": "Umm... I do. let me think... oh, so...$6",
-        "abigail_event5": "The Wizard told you? I've never met him...$9",
-        "abigail_event6": "I see. Maybe I could look at that book sometime too.$0",
+        "abigail_event4": "Umm... I do. laisse-moi réflechir... oh, donc...$6",
+        "abigail_event5": "Le magicien t'as dit ? Que je ne l'ai jamais rencontré...$9",
+        "abigail_event6": "je vois. Maybe I could look at that book sometime too.$0",
         "abigail_event7": "She is! Apples is very vocal. She's always excited to see me when I visit the forest.$1",
         "abigail_event8": "Umm... about a year ago, I think? I came to the forest to practice a song I was learning, and these little spirits confronted me.$6#$b#At first, I was scared. I thought they were going to hurt me... but Apples was the first Junimo to convey to me that they're peaceful.$0",
         "abigail_event9": "That's funny, you thought they were rats! I saw them as walking apples, which is how Apples got her nickname.$1",
-        "abigail_event10": "Oh, that was a long time ago. It makes me wonder if I stumbled across them when I was younger too.$9#$b#Maybe I did... but I can't remember.$2",
+        "abigail_event10": "Oh, that was a long time ago. It makes me wonder if I stumbled across them when I was younger too.$9#$b#Maybe I did... mais je ne m'en souviens plus.$2",
         "abigail_event11": "I can't read the language...$2#$b#I've seen it, though.$6#$b#Apples has drawn symbols on the ground and pointed to stone slabs written in it.$0#$b#I knew she was trying to tell me something, but I couldn't understand...$2",
         "abigail_event12": "I did tell my mom and she was... shocked?$2#$b#She told me I have an overactive imagination and that I'm just seeing things. She doesn't take me seriously$9#$b#I also told Sebastian. He laughed at me.$3",
         "abigail_event13": "The Wizard? Interesting... I don't know that much about him.$6#$b#My mom always told me to not talk to him. She even forbids me to go near his tower. I never understood why...$2",
@@ -7587,13 +7587,13 @@
       }
     },
     {
-      "_COMMENT": "EMILY EVENT DIALOGUE ADDITIONS",
+      "_COMMENT": "EMILY EVENT DIALOGUE ADDITIONS - fr",
       "Action": "EditData",
       "Target": "characters/dialogue/Emily",
       "Entries": {
-        "emily_event1": "Oh ! C'est notre cocktail signature. Bon choix, @!$1",
+        "emily_event1": "Oh ! C'est notre cocktail spécial. Bon choix, @!$1",
         "emily_event2": "Tu dois vraiment aimer ton gin @. L'horizon lunaire est puissant !$1",
-        "emily_event3": "La Rosette Nebula est l'un de mes favorites ! Je suis contente que tu aies choisi celui-ci.$1",
+        "emily_event3": "La Rosette Nebula est l'une de mes favorites ! Je suis contente que tu aies choisi celui-ci.$1",
         "emily_event4": "Oh mon Dieu ! Le Big Bang est assez fort.$6#$b#Je suis sûr que tu peux y faire face du moins!$1",
         "emily_event5": "La Red Moon ? C'est la préférée de Robin ! Bon choix, @.$1"
       }
@@ -7630,7 +7630,7 @@
       "Target": "characters/dialogue/Clint",
       "Entries": {
         "clint_event1": "J'admire les membres de la guilde des aventuriers. Vous éloignez les gens du danger des montres.$0",
-        "clint_event2": "...Yeah. I knew a couple of them. Fine adventurers with amazing skill.$2",
+        "clint_event2": "...Ouais. J'en connaissais deux. Beaux aventuriers aux compétences incroyables.$2",
         "clint_event3": "I've hiked up there myself. Some of those adventurers had quite the kill count on their tombstones. They were fine people.$0"
       }
     },
@@ -7641,10 +7641,10 @@
       "Entries": {
         "demetrius_event1": "Robin told me she constructed some new buildings on your farm. I hope they're working out for you!$1",
         "demetrius_event2": "C'est une très bonne idée ! L'automatisation du process devrait te faire gagner du temps !$1",
-        "demetrius_event3": "I ran into Marlon recently and he told me you're an Adventurers Guild member.$0#$b#You must show promise as a skilled swordsman!$1",
+        "demetrius_event3": "J'ai rencontré Marlon récemment et il m'a dit que tu étais membre de la guilde des aventuriers.$0#$b#Cela veut dire que tu dois être sacrément bon à l'épée !$1",
         "demetrius_event4": "C'est correct, @!$1",
         "demetrius_event5": "Haha! Tu as essayé de deviner au moins, @.$1",
-        "demetrius_event6": "Permets-moi de te dire !$1"
+        "demetrius_event6": "Permets-moi de te le dire !$1"
       }
     },
     {
@@ -7663,8 +7663,8 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Evelyn",
       "Entries": {
-        "evelyn_event1": "My day is well. It's a bit on the chilly side, though.$0",
-        "evelyn_event2": "Be sure to wear several layers, sweetie! I wouldn't want you catching a cold.$0",
+        "evelyn_event1": "Je passe une bonne journée. Même si il fait un peu froid.$0",
+        "evelyn_event2": "Assures-toi de porter un bon manteau chéri ! Je ne voudrais pas que tu attrapes froid.$0",
         "evelyn_event3": "That's unfortunate to hear, dear. I'm optimistic your day will brighten up.$0",
         "evelyn_event4": "Oh dear... you don't know?$2",
         "evelyn_event5": "Oh dear... you don't know?$2",
@@ -7676,9 +7676,9 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Gus",
       "Entries": {
-        "gus_event1": "Elle était ici il n'y a pas longtemps. She left to run some errands though.$0",
-        "gus_event2": "I see! I was just there. Willy is fishing on the dock right now.$1",
-        "gus_event3": "Taking in the view of the Gem Sea, of course!$1",
+        "gus_event1": "Elle était ici il n'y a pas longtemps. Elle est partie faire ses courses.$0",
+        "gus_event2": "Je vois ! J'étais juste là. Willy pêche sur le quai en ce moment.$1",
+        "gus_event3": "En admirant la vue sur la Mer Diamantée, bien sûr !$1",
         "gus_event4": "I always make the effort to visit Sophia when I have free time. She really appreciates it.$2",
         "gus_event5": "Hmm... that's why Sophia hates Joja.$2#$b#She... blames them for the death of her parents.$2"
       }

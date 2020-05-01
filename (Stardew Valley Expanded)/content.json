@@ -1177,7 +1177,7 @@
         "GuntherGift": "Cher @,^^Tu trouveras ci-joint une partie du financement que nous avons récemment reçu du Secrétairiat Régional des Artéfacts. Merci beaucoup pour tes nombreux dons, le musée est devenu un contributeur majeur dans les efforts en cours pour conserver le patrimoine culturel de Ferngill. J'espère que ces fonds pourront t'aider pour tes futures aventures.^^ -Gunther %item money 40000 40001 %%",
         "AndyJojaCola": "Hey @,^^J'ai eu de la chance dans une tombola et j'ai décroché un approvisionnement de JojaCola à vie! Cela t'aidera à garder la forme pour le boulot à la ferme.^^  -Andy %item object 167 50 %%",
         "AndyAncientSeeds": "@,^Je les ai trouvés alors que je menais une petite expédition au fond de la forêt. Je ne suis pas certain de savoir ce que c'est exactement, mais je pense que tu es mieux équipé que moi pour les cultiver. Tiens-moi au courant de ce qui sort de terre si tu les fais pousser.^^  -Andy %item object 114 5 %%",
-        "SusanIntroduction": "Bonjour @,^^Je m'appelle Susan. Lewis m'a dit que tu es le nouveau fermier qui est arrivé en ville. Je suis pris au piège dans ma ferme dans les montagnes donc je ne peux pas passer dire bonjour en personne ! Espérons que le désordre que Joja a fait sera bientôt arrangé, Tout ça commence à me rendre un peu folle. En tout cas je suis impatiente de te rencontrer et de voir comment ta ferme prend forme !^^  -Susan",
+        "SusanIntroduction": "Bonjour @,^^Je m'appelle Susan. Lewis m'a dit que tu es le nouveau fermier qui est arrivé en ville. Je suis coincée dans ma ferme dans les montagnes pour le moment, donc je ne peux pas passer dire bonjour en personne ! Espérons que le désordre que Joja a fait sera bientôt arrangé, Tout ça commence à me rendre un peu folle. En tout cas je suis impatiente de te rencontrer et de voir comment ta ferme prend forme !^^  -Susan",
         "SusanFertilizer": "Bonjour @ !,^^C'est l'un des meilleurs engrais que j'ai fabriqués. Je compte sur toi pour faire pousser quelque chose de délicieux et de le partager avec moi!^^  -Susan %item object 369 20 %%",
         "SusanMelonSeeds": "@ !^^Mes melons poussent comme une traînée de poudre cette année! Voilà quelques graines supplémentaires que j'ai obtenues quand j'ai fait sauter un certain nombre d'entre elles dans mon semencier. Ne cherche pas à essayer de rivaliser avec moi pour le marché du melon... Je gagnerai !^^  -Susan %item object 479 5 %%",
         "VictorDewey": "Cher @,^^Je t'écris pour te remercier de m'avoir écouté au cimetière. Je sais que ce genre de conversations peuvent être stressantes. Si jamais Dewey revenait, je suis sûr qu'il serait aussi heureux de t'avoir pour ami que je le suis.^^  Sincerely, Victor",
@@ -1851,7 +1851,7 @@
         "shop": "O 166 0 1 O 608 0 3 BL 746 0 1 BO 113 0 1",
         "set-up": "spirits_eve/-1000 -1000/farmer 1 54 1/changeToTemporaryMap Town-Halloween/loadActors Set-Up/advancedMove Maru true 1 5000 2 7000 3 3000 4 3500 1 2000 2 3000 3 1000 4 2000/advancedMove Alex true -3 0 4 4000 3 0 4 5000/advancedMove Jas true 1 1500 4 1000/advancedMove Abigail true 3 3500 2 3000 1 5000 3 5000 2 6000/advancedMove Harvey true 1 3500 4 5000 3 3000 2 5000 4 3000/advancedMove Pam true 0 1 1 5000 0 -1 1 5000/advancedMove Shane true -7 0 0 2 2 9000 0 -2 7 0 4 9000/advancedMove Demetrius true 3 18000 4 3000/addTemporaryActor Skeleton 16 32 30 59 2 false Monster/advancedMove Skeleton true 0 1 3 4000 2 0 0 -1 4 2000 -1 0 3 1000 2 2000 0 -1 4 4000 -1 0 0 1 2 5000/addTemporaryActor Skeleton 16 32 35 58 2 false Monster/addTemporaryActor Shadow_Brute 16 32 46 59 2 false Monster/addTemporaryActor Shadow_Brute 16 32 43 58 2 false Monster/advancedMove Shadow_Brute true -4 0 3 5000 4 0 2 5000 1 3000 2 1000/addTemporaryActor Skeleton_Mage 16 32 51 32 2 false Monster/advancedMove Skeleton_Mage true -2 0 0 2 1 6000 0 -2 2 0 2 5000/addTemporaryActor Wilderness_Golem 16 24 63 25 3 false Monster/advancedMove Wilderness_Golem true -9 0 0 2 2 1000 0 -2 9 0 2 1500/addTemporaryActor Stone_Golem 16 24 54 32 1 false Monster/advancedMove Stone_Golem true 9 0 4 1000 -9 0 4 400/addTemporaryActor Shadow_Shaman 16 24 68 23 2 false Monster/advancedMove Shadow_Shaman true 1 1500 2 2000 3 3000 2 5000 4 1000/addTemporaryActor Metal_Head 16 16 74 27 2 false Monster/advancedMove Metal_Head true -4 0 2 200 4 0 4 100/addTemporaryActor Mummy 16 32 74 24 2 false Monster/advancedMove Mummy true -2 0 3 200 2 0 2 6000/playerControl halloween",
         "Pierre": "Joyeuse fête des esprits, @!$h#$b#Le sorcier qui vit dans les bois a créé ce labyrinthe. Apparemment, il y a deux coffres au trésor cachés dedans!$0#$e#Mais pour trouver le trésor tu devras outrepasser les créatures qu'il a invoquées pour le garder... Donc ce sera un non pour moi.$s#$b#Bonne chance si tu essayes de trouver le trésor, @!$h",
-        "Wizard": "Bonjour, @. Es-tu entré dans le labyrinthe ? J'y ai mis... des surprises pour tous ceux qui osent y pénétrer.#0#$e#J'ai peut-être un peu exagéré avec les monstres!$h",
+        "Wizard": "Bonjour, @. Es-tu entré dans le labyrinthe ? J'y ai placé... des surprises pour tous ceux qui osent y pénétrer.#0#$e#J'ai peut-être un peu exagéré avec les monstres!$h",
         "Linus": "Salut, @. J'espère que cette soirée se passe bien pour toi.$0#$b#Many les brutes de l'ombre sont violentes, Mais celles-ci sont particulièrement agressives. Si l'occasion se présente, elles vous arracheraient les membres !$3#$e#Tous les êtres des ombres ne sont pas violents du moins.$0#$b#Je suis un bon ami avec un appelé 'Krobus'. Je comprends ce que c'est que d'être jugé  quand on est différent.$h#$e#Profite bien du festival.$1",
         "Krobus": "Mes amis... sont piégés dans ces cages...#$e#Que va-t-il leur arriver après le festival...?$2",
         "Dwarf": "Quel curieux je suis...#$e#Tu as grimpé jusqu'ici pour venir me saluer?"
@@ -1894,7 +1894,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Victor": "Oh, wow! C'est absolument incroyable. Merci beaucoup, @!/224 787 444/C'est un cadeau pour moi ? Trop bien ! Merci, @./254 346 348 349 392 394/Oh? Pour moi? C'est... cool. Merci, @./18 16 20 22 24 408 80 416 414 412 296 398 410 152 396 397 399/Uhh... J'aime pas du tout ça, @. Désolé./205 404 420 422 609 610 196 213 218 219 225 403/Merci pour le cadeau, @. J'apprécie vraiment !/184 186 180 182 174 176 424 426/"
+        "Victor": "Oh, wow ! C'est absolument incroyable. Merci beaucoup, @!/224 787 444/C'est un cadeau pour moi ? Trop bien ! Merci, @./254 346 348 349 392 394/Oh? Pour moi? C'est... cool. Merci, @./18 16 20 22 24 408 80 416 414 412 296 398 410 152 396 397 399/Uhh... J'aime pas du tout ça, @. Désolé./205 404 420 422 609 610 196 213 218 219 225 403/Merci pour le cadeau, @. J'apprécie vraiment !/184 186 180 182 174 176 424 426/"
       }
     },
     {
@@ -2147,7 +2147,7 @@
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "*bâille*... c'est déjà fini ?$2"
+                  "Text": "*bâille*... c'est pas encore fini ?$2"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
@@ -2173,7 +2173,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Victor": "Hey, chérie! Bonne chance pour la chasse aux oeufs. Montre à tous ces gosses c'est qui le boss.$1"
+        "Victor": "Hey, chérie! Bonne chance pour la chasse aux oeufs. Montre à tous ces gosses qui c'est le boss.$1"
       },
       "When": {
         "Spouse:Victor": "True"
@@ -2299,7 +2299,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Victor": "Hey, @. Umm... J'ai un cadeau pour toi à la maison.$4#$b#Je te montrerai ce soir, Ok ?$4"
+        "Victor": "Hey @. Umm... J'ai un cadeau pour toi à la maison.$4#$b#Je te montrerai ce soir, Ok ?$4"
       },
       "When": {
         "Spouse:Victor": "True"
@@ -2692,7 +2692,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Olivia": "La soupe sent délicieusement bon. Je pourrais même avoir quelques secondes mon chéri. Ne le dis à personne.$1#$e#Je t'aime mon coeur.$4"
+        "Olivia": "La soupe sent délicieusement bon. Je crois bien que je vais me reservir plusieurs fois. Ne le dis à personne.$1#$e#Je t'aime mon coeur.$4"
       },
       "When": {
         "Spouse:Olivia": "True"
@@ -2703,7 +2703,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Olivia": "Le ciel est dégagé cette nuit. Une toile de fond parfaite au clair de lune pour les méduses, n'est-ce pas @ ?$3"
+        "Olivia": "Le ciel est dégagé cette nuit. Une toile de fond étoilée parfaite au clair de lune pour les méduses, n'est-ce pas @ ?$3"
       }
     },
     {
@@ -2958,13 +2958,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Heard about this here movie on the radio. Suppose' to be good!$0"
+                  "Text": "J'ai entendu parler du film à la radio. Aparemment il est bien !$0"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Now that is what I call a movie. Thank you kindly for invitin' me!$1"
+                  "Text": "Ca, c'est ce que j'appelle un film. Merci c'est gentil de m'avoir invité!$1"
                 }
               },
               "ID": "reaction_3"
@@ -2977,13 +2977,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That was a mighty good show.$1"
+                  "Text": "C'était un très bon film.$1"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Heh. Film was alright. Actin' could use some work.$1"
+                  "Text": "Heh. Le film était pas mal. Même si il y a encore un peu de boulot à faire sur le jeu d'acteur.$1"
                 }
               },
               "ID": "reaction_4"
@@ -2996,13 +2996,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Suppose I will give this genre a shot...$2"
+                  "Text": "Je pense que je vais essayer de m'intéresser à ce type de film...$2"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Was not a fan of that film. Brought back some memories I don't want to be doin' any thinkin' about...$2"
+                  "Text": "J'étais pas du tout fan. Ca m'a rappelé des souvenirs que je voulais oublier...$2"
                 }
               },
               "ID": "reaction_5"
@@ -3016,7 +3016,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Andy": "The food at these festivals ain't so bad.$1#$e#It'd taste even better if Pierre and Lewis used my crops.$2"
+        "Andy": "La nourriture dans ces festivals n'est pas si mauvaise.$1#$e#Ça aurait été encore meilleur si Pierre et Lewis avaient utilisé mes récoltes.$2"
       }
     },
     {
@@ -3024,7 +3024,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Andy": "I found some leeks durin' our walk over here! This stuff is better than most of the food here.$1#$e#Nothin' like some ale with a leek.$0"
+        "Andy": "J'ai trouvé des poireaux pendant notre promenade ici ! Ce truc est meilleur que la plupart des plats tous confondus.$1#$e#Rien ne vaut une bonne bière et du poireau.$0"
       }
     },
     {
@@ -3032,7 +3032,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Andy": "Mayor Lewis has been chattin' up the governor this entire festival. What are those two talkin' about?$2#$e#I hope they're not talkin' bout me. He's probably got nothin' good to say.$2"
+        "Andy": "Le maire Lewis a discuté avec le gouverneur pendant tout ce festival. Mais de quoi étaient-ils en train de parler ?$2#$e#J'espère qu'ils ne parlaient pas de moi. Il n'y a probablement rien de bon à dire à mon sujet.$2"
       }
     },
     {
@@ -3040,7 +3040,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Andy": "If these jellies don't show in the next 10 minutes, I'm gettin' outta here. Wastin' my evening.$2"
+        "Andy": "Si ces méduses n'apparaissent pas dans les 10 prochaines minutes, je me casse d'ici. Sinon j'aurai gâché ma soirée.$2"
       }
     },
     {
@@ -3048,7 +3048,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Andy": "I know I don't have a snowball's chance in you-know-where at winnin'. Just wanna show everyone how hard I've been workin' this season.$0#$e#I pride myself in what I do.$1"
+        "Andy": "Je sais que je n'ai aucune chance de gagner. Je veux juste montrer à tout le monde à quel point j'ai travaillé dur cette saison.$0#$e#Je suis fier de ce que je fais quoi que je fasse.$1"
       }
     },
     {
@@ -3056,7 +3056,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Andy": "Pierre's spiced pumpkin cider is amazin'! I wish he'd let me buy it off of him!$1#$e#He should at least sell some of it to Gus so I can get it at the saloon.$2#$e#Good luck in that there maze, farmer. I've heard some screams comin' from that direction.$0"
+        "Andy": "Le cidre de potiron épicé de Pierre est incroyable ! J'espère qu'il me laissera lui en acheter !$1#$e#Il pourrait au moins en vendre une partie à Gus pour que je puisse en boire au saloon.$2#$e#Bonne chance dans ce labyrinthe, fermier. J'ai entendu des cris venant de cette direction"
       }
     },
     {
@@ -3064,7 +3064,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Andy": "I overheard Willy talkin' about you. It'll be a close match between you two.$0#$e#Good luck fishin', @.$1"
+        "Andy": "J'ai entendu Willy parler de toi. Ce sera un match serré entre vous deux.$0#$e#Bonne chance bonne chance pour la pêche, @.$1"
       }
     },
     {
@@ -3072,7 +3072,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Andy": "Best part about today is the free food and drink. Don't care much about gift givin'.$2"
+        "Andy": "La meilleure partie de cet évènement est la nourriture et les boissons gratuites. Je ne m'intéresse pas trop aux cadeaux personnellement.$2"
       }
     },
     {
@@ -3154,7 +3154,7 @@
       }
     },
     {
-      "_COMMENT": "Susan's Gift Tastes",
+      "_COMMENT": "Susan's Gift Tastes - fr",
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
@@ -3349,12 +3349,12 @@
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "J'ai commence à avoir sommeil...$2"
+                  "Text": "Je commence à avoir sommeil...$2"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "*awn* Merci de m'avoir invitée, @.$0"
+                  "Text": "*bâille* Merci de m'avoir invitée, @.$0"
                 }
               },
               "ID": "reaction_6"
@@ -3368,7 +3368,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Susan": "Jas and Vincent are so excited to hunt for the eggs around town. I hope they find lots of them!$1#$e#I'm thinking about getting a second helping of ham and veggies.$0"
+        "Susan": "Jas et Vincent sont tellement excités d'aller chasser les œufs en ville. J'espère qu'ils en trouveront plein !$1#$e#J'hésite à reprendre une deuxième assiette de jambon et de légumes.$0"
       }
     },
     {
@@ -3376,7 +3376,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Susan": "What a beautiful day for the Flower Festival.$4#$e#Are you planning on dancing with someone?$1"
+        "Susan": "Quelle merveilleuse journée pour le festival des Fleurs.$4#$e#T'envisages de danser avec quelqu'un ?$1"
       }
     },
     {
@@ -3384,7 +3384,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Susan": "It's nice to have the governor in the valley. Mayor Lewis worked so hard to make the Luau perfect.$0#$e#I wonder if that slow roast ham Linus is making is almost ready.$1"
+        "Susan": "C'est agréable d'avoir le gouverneur dans la vallée. Le maire Lewis a travaillé si dur pour rendre le Luau parfait.$0#$e#Je me demande si le jambon rôti que Linus cuit à feu doux est presque prêt.$1"
       }
     },
     {
@@ -3392,7 +3392,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Susan": "I'm awfully afraid of large bodies of water. I'll be here on the beach, where it's safe.$0"
+        "Susan": "J'ai terriblement peur des grandes étendues d'eau. Je serai ici sur la plage, là où c'est sécurisé.$0"
       }
     },
     {
@@ -3400,7 +3400,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Susan": "I'm happy I get to showcase my best produce and artisan goods to everyone.$4#$b#Emerald Farm had a strong year!$1"
+        "Susan": "Je suis heureuse de pouvoir présenter mes meilleurs produits artisanaux à tout le monde.$4#$b#La ferme Emeraude connu une année en or !$1"
       }
     },
     {
@@ -3408,7 +3408,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Susan": "So these are shadow brutes? They look menacing...$2"
+        "Susan": "Ce sont donc ça des brutes des ombres ? Ils ont l'air menaçants...$2"
       }
     },
     {
@@ -3416,7 +3416,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Susan": "When I was younger, my father and I loved to fish together. Haven't fished at all since then.$0#$b#I think you'll do great in the contest, @.$1#$e#Best of luck to you, honey!$4"
+        "Susan": "Quand j'étais plus jeune, mon père et moi aimions pêcher ensemble. Je n'ai plus tenu aucune canne à pêche depuis.$0#$b#Je pense que tu vas bien t'en sortir pour le concours, @.$1#$e#Bonne chance à toi mon chou !$4"
       }
     },
     {
@@ -3424,7 +3424,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Susan": "He loved the gift I gave him! I knew he'd appreciate it.$1"
+        "Susan": "Il a adoré le cadeau que je lui ai fait! Je savais qu'il l'apprécierait.$1"
       }
     },
     {
@@ -3485,7 +3485,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Sophia": "Ooo! A fairy stone!? I love these rocks so much!/577/That's sweet of you! Thanks!/220 221 232 237 240 -80 428 373 376 74 797 279 446/Oh... thanks./-75 -81 18 20 22 16 396 406 408 404 399 398 372 393 397/N-no! Get it away from me!/346 303 459 149 798 151 155 -4/Um. Thanks!/-18 -79 -2 -7 -26 -75 -80 72 446 348 395 613 634 635 636 637 638 724 459 402/"
+        "Sophia": "Ooo! Une pierre féérique !? Je les aime tellement !/577/C'est trop mignon de te part ! Merci !/220 221 232 237 240 -80 428 373 376 74 797 279 446/Oh... sympa./-75 -81 18 20 22 16 396 406 408 404 399 398 372 393 397/N-no! Get it away from me!/346 303 459 149 798 151 155 -4/Hum. Merci !/-18 -79 -2 -7 -26 -75 -80 72 446 348 395 613 634 635 636 637 638 724 459 402/"
       }
     },
     {
@@ -3757,7 +3757,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Sophia": "Hey, you! Want to get some food with me?$4#$e#I already had a plate. This will be my second.$9"
+        "Sophia": "Hey, you! Ca te dis de manger avec moi ?$4#$e#J'ai déjà pris une assiette. Là ça va être ma deuxième.$9"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3775,7 +3775,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Sophia": "Hey, you!$9#$b#Want to eat lots and lots of food with me?$1#$e#D-don't ask me to dance. I get nervous.$2#$e#Um. Let's eat food instead and watch the others dance.$1#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing.#$e#%Sophia doesn't feel comfortable dancing."
+        "Sophia": "Hé, toi !$9#$b#Ca te dis de venir te goinfrer avec moi ?$1#$e#S-s'il te plaît ne m'invite pas à danser. Ca me gêne.$2#$e#Um. Allons manger de la bonne nourriture en regardant les autres danser.$1#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse.#$e#%Sophia ne se sent pas à l'aise à la danse."
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3793,7 +3793,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Sophia": "Want to go swimming after we eat?$1#$e#I have a new bikini.$4"
+        "Sophia": "Ca te dis d'aller nager après manger ?$1#$e#J'ai un nouveau bikini.$4"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3804,14 +3804,14 @@
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Sophia": "The jellyfish are so pretty!$1#$b#I love watching them every year.$9"
+        "Sophia": "Les méduses sont si jolies !$1#$b#J'adore les regarder chaque année.$9"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/summer28",
       "Entries": {
-        "Sophia": "Hey, you. See the faint glow out there?$4#$e#The moonlight jellyfish are coming to the shore!$9#$e#%You hold Sophia's hand. She smiles at you."
+        "Sophia": "Hey toi. Tu vois la faible lueur tout là-bas ?$4#$e#Les méduses au clair de lune arrivent vers la plage !$9#$e#%Vous tenez la main de Sophia. Elle elle vous sourit tendrement."
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3822,14 +3822,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Sophia": "I'm presenting my best aged wine from Blue Moon Vineyard!$1#$e#I worked hard to make these!$9#$e#Oh. Um. So what's in your grange display?$1"
+        "Sophia": "Je présente mon meilleur vin vieilli des vignes de Blue Moon !$1#$e#J'ai travaillé dur pour faire ceux là !$9#$e#Oh. Um. So what's in your grange display?$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Sophia": "We are competing against each other today.$1#$b#May the best one win!$3#$e#Oh. Um. I love you!$4#$b#Good luck!$9"
+        "Sophia": "Tu seras mon rival demain à la compétition.$1#$b#Que le meilleur gagne !$3#$e#Oh. Et Hum. Je t'aime !$4#$b#Bonne chance !$9"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3840,14 +3840,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Sophia": "I went into the maze and gave up.$2#$e#Why? Oh. I was hungry.$1#$e#Have you tried Pierre's spiced pumpkin cider?$9"
+        "Sophia": "Je suis entrée dans le labyrinthe et j'ai abandonné.$2#$e#Pourquoi ? Oh. J'avais trop faim.$1#$e#T'as essayé le cidre de potiron épicé de Pierre ?$9"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Sophia": "Hey, you. Getting food too?$1#$e#Hey! Um. Those monsters in the cages. Have you fought those before?$0#$e#You're so brave, my hero.$4"
+        "Sophia": "Hey, toi. Tu vas aussi prendre à manger ?$1#$e#Hey! Um. Ces monstres dans les cages. Tu en as déjà combattu auparavant ?$0#$e#Tu es si brave, mon héros.$4"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3858,14 +3858,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Sophia": "Mmm. So pretty here.$9#$e#There's no food, but that's okay. I brought snacks.$1"
+        "Sophia": "Mmm. C'est si beau ici.$9#$e#Il n'y a pas à manger, mais c'est pas grave J'ai apporté des bêtises.$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter8",
       "Entries": {
-        "Sophia": "I want to build a snowman!$9#$b#Come on! Let's make one, silly.$1#$e#Aww. Okay. After the fishing contest then!$1"
+        "Sophia": "Je veux faire un bonhomme de neige !$9#$b#Allez viens ! Allez on en fait un, banane.$1#$e#Aww. Ok. Après le concours de pêche alors !$1"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -3876,14 +3876,14 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Sophia": "Who's a good boy!? You are!$9#$e#Did you get a present yet?$1"
+        "Sophia": "C'est qui le bon chien !? C'est toi !$9#$e#Au fait, t'as reçu un cadeau depuis ?$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Sophia": "Hey, you! I thought I'd pet Dusty for a little bit.$1#$b#He's Pélican Ville's best boy!$9#$e#Oh. Um. I'll join you at a table soon. Save me a seat?$1"
+        "Sophia": "Hey, toi ! Je crois que je vais tenir encore un petit peu compagnie à Dusty.$1#$b#C'est le meilleur de tout Pélican Ville !$9#$e#Oh. Hum. Je te rejoins bientôt à table. Tu me gardes une place ?$1"
       },
       "When": {
         "Spouse:Sophia": "True"
@@ -4201,7 +4201,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "MarlonFay": "Ceci est un cadeau puissant @. Merci./244 413 437 439 680/Merci. Ca me sera utile./346 303 348 459 205 422 287 288/Hmmm... Ca ne passe pas vraiment. Mes excuses./-81/Tson ne me convient malheureusement pas./-80 283 233/Merci./286 424 426 436 438 803 184 186 420 -28/"
+        "MarlonFay": "C'est un cadeau vraiment symbolique @. Merci./244 413 437 439 680/Merci. Ca me sera utile./346 303 348 459 205 422 287 288/Hmmm... Ca ne passe pas vraiment. Mes excuses./-81/Tson ne me convient malheureusement pas./-80 283 233/Merci./286 424 426 436 438 803 184 186 420 -28/"
       }
     },
     {
@@ -4259,12 +4259,12 @@
       "Action": "EditData",
       "Target": "Strings/SpeechBubbles",
       "Entries": {
-        "AdventureGuild_Marlon_Greeting_Male": "He's back!",
-        "AdventureGuild_Marlon_Greeting_Female": "She's back!",
-        "AdventureGuild_Marlon_Greeting1": "Need a new sword?",
-        "AdventureGuild_Marlon_Greeting2": "Greetings.",
-        "AdventureGuild_Marlon_Greeting3": "Greetings.",
-        "AdventureGuild_Marlon_Greeting4": "Good evening."
+        "AdventureGuild_Marlon_Greeting_Male": "Il est de retour !",
+        "AdventureGuild_Marlon_Greeting_Female": "Elle est de retour !",
+        "AdventureGuild_Marlon_Greeting1": "Besoin d'une nouvelle épée ?",
+        "AdventureGuild_Marlon_Greeting2": "Salutations.",
+        "AdventureGuild_Marlon_Greeting3": "Salutations.",
+        "AdventureGuild_Marlon_Greeting4": "Bonsoir."
       }
     },
     {
@@ -4330,12 +4330,12 @@
                 "DuringMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Aucun sursaut ne me prendra...$2"
+                  "Text": "Aucun sursaut ne m'aura...$2"
                 },
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Thank you kindly for the invite, @. C'était très sympatique.$0"
+                  "Text": "Merci pour l'invitation, @. C'était très sympatique.$0"
                 }
               },
               "ID": "reaction_2"
@@ -4377,7 +4377,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Film intéressant. Le jeu était un peu vieux-jeu ceci dit."
+                  "Text": "Film intéressant. Les acteurs étaient un peu vieux-jeu ceci dit."
                 }
               },
               "ID": "reaction_4"
@@ -4390,13 +4390,13 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hmm. There's something magical about this theater. I can feel it in the air...$0"
+                  "Text": "Hmm.Il y a quelque chose de magique dans ce cinéma. Je peux ressentir son aura...$0"
                 },
                 "DuringMovie": null,
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "I was engrossed in the film. Thank you kindly for the invite, @."
+                  "Text": "J'étais absorbé par le film. Merci pour l'invitation @."
                 }
               },
               "ID": "reaction_5"
@@ -4409,7 +4409,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Well. Let's watch the movie, @.$1"
+                  "Text": "Bien. Allons voir ce film, @.$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -4419,7 +4419,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Hmm. I didn't pay too much attention.$0"
+                  "Text": "Hmm. Je n'étais pas très concentré.$0"
                 }
               },
               "ID": "reaction_6"
@@ -4433,49 +4433,49 @@
       "Action": "EditData",
       "Target": "Data/Festivals/spring13",
       "Entries": {
-        "MarlonFay": "Even with my bad leg, I never miss a town festival."
+        "MarlonFay": "Même avec ma jambe, je ne rate jamais un festival en ville."
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/spring24",
       "Entries": {
-        "MarlonFay": "Marnie looks lovely today..."
+        "MarlonFay": "Marnie est ravissante aujourd'hui..."
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/summer11",
       "Entries": {
-        "MarlonFay": "I'll be back here by the trees... the air is a lot cooler."
+        "MarlonFay": "Je serai de retour ici près des arbres... l'air y est beaucoup plus frais."
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall16",
       "Entries": {
-        "MarlonFay": "Clint's blades get sharper every year.#$e#So do his prices...$2"
+        "MarlonFay": "Les lames de Clint s'affûtent chaque année.#$e#Ses prix aussi...$2"
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/fall27",
       "Entries": {
-        "MarlonFay": "Took a mighty amount of effort to catch these monsters.$2#$b#Most of the credit goes to the Castle Village adventurers.#$e#Don't get too close to the cage."
+        "MarlonFay": "Il a fallu beaucoup d'efforts pour attraper ces monstres.$2#$b#La majeure partie des mérites reviennent aux aventuriers de Castle Village.#$e#Ne t'approche pas trop de la cage."
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/Winter8",
       "Entries": {
-        "MarlonFay": "If you spot any frost slimes, alert me.$0#$e#We're deep in the forest. Anything can be out there in the woods."
+        "MarlonFay": "Si tu repères ne serait-ce qu'un slime, alertes-moi.$0#$e#Nous sommes au fond de la forêt. N'importe quelle bête peut surgir des bois."
       }
     },
     {
       "Action": "EditData",
       "Target": "Data/Festivals/Winter25",
       "Entries": {
-        "MarlonFay": "Hey, good afternoon."
+        "MarlonFay": "Hey, bonne après-midi."
       }
     },
     {
@@ -4599,7 +4599,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "Morgan": "For me? You're amazing!/337 305 308/Nice to see you! Thanks!/268 155 768 769 773 772 392 394/Um. I don't want this./627 395 399 402 406 410 248 256 190 188 -75/I don't like it.../348 346 283 459 303/Thanks for the present./446 -18 -4 -80/"
+        "Morgan": "Pour moi ? Tu es incroyable !/337 305 308/Ravi de te voir ! Merci !/268 155 768 769 773 772 392 394/Hum. Je n'en veux pas./627 395 399 402 406 410 248 256 190 188 -75/Je n'aime pas ça.../348 346 283 459 303/Merci pour le cadeau./446 -18 -4 -80/"
       }
     },
     {
@@ -4715,7 +4715,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring24",
       "Entries": {
-        "Morgan": "Um. C-comment es tu venu ici ?$5#$e#Je le savais. Tu est un sorcier toi aussi !$3#$e#En fait. Non. Tu es juste un tricheur.$1#$e#%Morgan a détruit votre envie de continuer la conversation."
+        "Morgan": "Um. C-comment es tu venu ici ?$5#$e#Je le savais. Tu es un sorcier toi aussi !$3#$e#En fait. Non. Tu es juste un tricheur.$1#$e#%Morgan a détruit votre envie de continuer la conversation."
       }
     },
     {
@@ -4723,7 +4723,7 @@
       "Action": "EditData",
       "Target": "data/festivals/summer11",
       "Entries": {
-        "Morgan": "Es-ce que tu les vois ?$1#$e#'Eux'!$3#$e#J'ai faim. La nourriture prête ?$0"
+        "Morgan": "Es-ce que tu les vois ?$1#$e#'Eux'!$3#$e#J'ai faim. La nourriture est prête ?$0"
       }
     },
     {
@@ -4747,7 +4747,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Morgan": "Psst. Les monstres du labyrinthe sont faux.$1#$e#Ceux-ci dans les cages sont réels cependant...$2"
+        "Morgan": "Psst. Les monstres du labyrinthe sont faux.$1#$e#Ceux qui sont dans les cages sont réels par contre...$2"
       }
     },
     {
@@ -4796,8 +4796,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Wizard",
       "Entries": {
-        "AdventureGuild_4_13": "Adventurer guild business today. Many weapons need to be imbued with arcane properties.$0",
-        "ForestWest_52_117": "%Magnus is concentrating and doesn't notice you."
+        "AdventureGuild_4_13": "La Guilde des Aventuriers a du pain sur la planche aujourd'hui. De nombreuses armes doivent être imprégnées de propriétés arcaniques.$0",
+        "ForestWest_52_117": "%Magnus est trop concentré pour vous remarquer."
       }
     },
     {
@@ -4810,7 +4810,7 @@
       "Action": "EditData",
       "Target": "Data/Festivals/Winter8",
       "Entries": {
-        "Wizard": "There's a significant concentration of mana in this spot. I must analyze its origin.$0#$e#You should head back to the others, @.$0"
+        "Wizard": "Il y a une concentration importante de mana à cet endroit. Je devrais en analyser l'origine.$0#$e#Tu devrais aller rejoindre les autres, @.$0"
       }
     },
     {
@@ -5147,7 +5147,7 @@
       "Action": "EditData",
       "Target": "data/festivals/winter25",
       "Entries": {
-        "Apples": "J'ai décidé de visiter votre village pour le festival!#$e#Personne ici ne me voit! A part toi!$1"
+        "Apples": "J'ai décidé de visiter votre village pour le festival !#$e#Personne ici ne me voit! A part toi !$1"
       }
     },
     {
@@ -5246,11 +5246,11 @@
       "Target": "Strings/StringsFromMaps",
       "Entries": {
         "ClaireTheaterMessage1": "Coucou @! Je peux t'aider ?$1",
-        "ClaireTheaterMessage2": "Voir un film aujourd'hui ?$4#$b#Oh, yes, bon choix! Il est trop bien celui-là.$1",
+        "ClaireTheaterMessage2": "Alors ? Venu pour voir un film ?$4#$b#Oh, yes, bon choix! Il est excellent celui-là.$1",
         "ClaireTheaterMessage3": "Je regarde des films gratuitement !$1#$b#Les avantages de bosser ici !$5",
-        "ClaireTheaterMessage4": "Let me know if you want any concessions.$1",
+        "ClaireTheaterMessage4": "Fais le moi savoir si tu as besoin de quoi que ce soit.$1",
         "ClaireTheaterMessage5": "La gestion ici est bien meilleure que chez Joja.$4",
-        "ClaireTheaterMessage6": "The wildlife adds to the atmosphere of the theater.$1#$b#It's 'magical'!$4",
+        "ClaireTheaterMessage6": "La faune ajoute à l'atmosphère au ciné.$1#$b#C'est magique !$4",
         "ClaireTheaterMessage7": "Comment puis-je t'aider ?$4"
       }
     },
@@ -5482,14 +5482,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Alesia": "Hello, adventurer. We're inspecting your blacksmith's weapons.#$e#May Yoba guide you.$1"
+        "Alesia": "Bonjour, aventurier. Nous inspectons les armes de votre forgeron.#$e#Que Yoba vous guide.$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Alesia": "Hello, adventurer. With a joint effort, we captured these monsters.$0#$e#May Yoba guide you.$1"
+        "Alesia": "Bonjour, aventurier. Grâce à un effort collectif, nous avons capturé ces monstres.$0#$e#Que Yoba vous guide.$1"
       }
     },
     {
@@ -5544,7 +5544,7 @@
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Isaac": "Vaincre une brute des ombres est un jeu d'enfant.$0#$b#Le discours change quand on en amène un vivant...$3#$e#Rends-toi utile et apporte-moi du 'cidre de potiron épicé'.$0"
+        "Isaac": "Vaincre une brute des ombres est un jeu d'enfant.$0#$b#Le discours change quand on en amène un vivant...$3#$e#Rends-toi utile et ramène-moi du 'cidre de potiron épicé'.$0"
       }
     },
     {
@@ -5592,7 +5592,7 @@
       "Action": "EditData",
       "Target": "data/festivals/spring13",
       "Entries": {
-        "Scarlett": "I'm totally going to try this!$1#$e#Do you have a camera on you?$0#$e#Oh? I should ask Haley? Thanks for the tip!$1"
+        "Scarlett": "Je vais carrément essayer ça !$1#$e#Est-ce que tu as un appareil photo sur toi ?$0#$e#Oh? Je devrais demander à Haley ? Merci pour le conseil !$1"
       }
     },
     {
@@ -5606,14 +5606,14 @@
       "Action": "EditData",
       "Target": "data/festivals/fall16",
       "Entries": {
-        "Scarlett": "Sophia number one! You can win this!$1#$e#Hey, @! I lent Sophia a hand with setting up her grange display today.#$e#You're in for some tough competition this year!$1"
+        "Scarlett": "Sophia la Number One ! Tu peux gagner !$1#$e#Hey, @! J'ai donné un coup de main à Sophia pour installer son expo fermière aujourd'hui.#$e#Vous êtes en quelque sorte en compétition cette année !$1"
       }
     },
     {
       "Action": "EditData",
       "Target": "data/festivals/fall27",
       "Entries": {
-        "Scarlett": "La fête des esprits dans votre ville est vraiment cool !#$e#Our wizard who resides in Grampleton Fields makes a maze for us too.$0#$b#Maybe next year you can visit with Sophia?$1"
+        "Scarlett": "La fête des esprits dans votre ville est vraiment cool !#$e#Notre sorcier qui réside dans les champs de Grampleton fait un labyrinthe pour nous aussi.$0#$b#Peut-être que l'année prochaine vous pourrez venir nous visiter avec Sophia?$1"
       }
     },
     {
@@ -5652,7 +5652,7 @@
       "Action": "EditData",
       "Target": "Data/NPCGiftTastes",
       "Entries": {
-        "MorrisTod": "Ah! Un cadeau digne de mon attention. Je te remercie, @./730 727 432 578/This is delightful!/72 348 430 428/Je n'aime pas ça.../346 459 303 -81/What a despicable gift. Get this away from me./167 -74/C'est généreux de ta part./-75 -79 -80/"
+        "MorrisTod": "Ah! Un cadeau digne de mon attention. Je te remercie, @./730 727 432 578/This is delightful!/72 348 430 428/Je n'aime pas ça.../346 459 303 -81/C'est méprisable. Éloigne ça de moi./167 -74/C'est généreux de ta part./-75 -79 -80/"
       }
     },
     {
@@ -5769,7 +5769,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Ah, @. This film in particular strikes my interest! Shall we procure seats?$1"
+                  "Text": "Ah, @. Ce film en particulier a capté mon intérêt ! On réserve les places ?$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -5792,7 +5792,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Merci de m'avoir invité au cinéma @. Best to get use out of the theater you paid for.$1"
+                  "Text": "Merci de m'avoir invité au cinéma @. Voilà la meilleure façon d'utiliser une place de cinéma que tu as payée, hehe.$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -5802,7 +5802,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "That film presented a... unique perspective. Perahps I should follow it by example?$0"
+                  "Text": "Ce film était très... original. Je devrais peut-être le prendre pour exemple ?$0"
                 }
               },
               "ID": "reaction_3"
@@ -5815,7 +5815,7 @@
                 "BeforeMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "C'est bon de te voir au cinéma, @. Everyone knows you single-handely paid for the establishment!$1"
+                  "Text": "C'est bon de te voir au cinéma, @. On dit de toi que tu pourrais faire tourner le cinéma à toi tout seul !$1"
                 },
                 "DuringMovie": {
                   "ResponsePoint": null,
@@ -5867,7 +5867,7 @@
                 "AfterMovie": {
                   "ResponsePoint": null,
                   "Script": "",
-                  "Text": "Je devrais envisager de retirer ce film de la liste principale.Je ne peux pas laisser de mauvais films ruiner notre établissement !$3"
+                  "Text": "Je devrais envisager de retirer ce film de la liste principale. Je ne peux pas laisser des navets ruiner notre établissement !$3"
                 }
               },
               "ID": "reaction_6"
@@ -6640,7 +6640,7 @@
         "Town_99_100": "Salut à toi @. Je vérifie l'état du jardin communautaire. Tout à l'air d'être bien entretenu.$1",
         "Town_38_14": "Les fûts semblent être en bon état. Susan est assez habile pour fabriquer des fûts.$0",
         "Town_47_87": "Désolé, @.Ce n'est pas le meilleur moment pour entamer une conversation...$2",
-        "Summit_15_16": "salut @. Je suis aussi monté ici pour admirer la vue.$1"
+        "Summit_15_16": "Salut @. Je suis aussi monté ici pour admirer la vue.$1"
       }
     },
     {
@@ -6657,9 +6657,9 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Gus",
       "Entries": {
-        "Town_37_16": "Salut, @. Les fûts sont en bon état. Le prochain lot de boissons de Stardrop Saloon est bientôt prêt.$1",
-        "Town_37_14": "Salut, @. Les fûts sont en bon état. Le prochain lot de boissons de Stardrop Saloon est bientôt prêt.$1",
-        "Town_41_14": "Salut, @. Les fûts sont en bon état. Le prochain lot de boissons de Stardrop Saloon est bientôt prêt.$1",
+        "Town_37_16": "Salut  @. Les fûts sont en bon état. Le prochain lot de boissons de Stardrop Saloon est bientôt prêt.$1",
+        "Town_37_14": "Salut @. Les fûts sont en bon état. Le prochain lot de boissons de Stardrop Saloon est bientôt prêt.$1",
+        "Town_41_14": "Salut @. Les fûts sont en bon état. Le prochain lot de boissons de Stardrop Saloon est bientôt prêt.$1",
         "Town_109_101": "Mes plantes sont en excellente santé!$1",
         "Town_107_100": "Mes plantes sont en excellente santé!$1",
         "Town_106_100": "Mes plantes sont en excellente santé!$1",
@@ -6747,7 +6747,7 @@
         "Town_102_77": "Ravi de te dire bonjour depuis ma cour.",
         "Town_98_77": "Ravi de te dire bonjour depuis ma cour.",
         "Town_100_81": "%Clint vérifie la machine.",
-        "Town_103_98": "Les gens investissent beaucoup de temps dans le jardin communautaire. Je viens pour admirer le travail."
+        "Town_103_98": "Les gens investissent beaucoup de temps dans le jardin communautaire. Je viens pour admirer leur travail."
       }
     },
     {
@@ -6767,7 +6767,7 @@
         "Forest_55_27": "Mes plantes sont en pleine santé cette saison ! Je m'attends d'elles qu'elles me le rendent bien.$1",
         "Forest_55_21": "Mes plantes sont en pleine santé cette saison ! Je m'attends d'elles qu'elles me le rendent bien.$1",
         "Forest_56_21": "Mes plantes sont en pleine santé cette saison ! Je m'attends d'elles qu'elles me le rendent bien.$1",
-        "Forest_80_15": "%Marnie is busy storing product in her shipping bin.",
+        "Forest_80_15": "%Marnie est occupée à placer ses produits dans son bac d'expédition.",
         "MarnieShed_7_5": "*soupire*... Lundi c'est je jour de la paperasse, Je préfère prendre soin de mes animaux.$2",
         "MarnieShed_14_7": "J'aurai du fromage à vendre bientôt.$1",
         "MarnieShed_12_5": "%Marnie est occupée à ranger des outils dans son coffre.",
@@ -6887,7 +6887,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Pierre",
       "Entries": {
-        "Town_46_48": "Salut, @. Je place des produits dans mon bac d'expédition. Lewis les prendra tous tôt demain matin.$1"
+        "Town_46_48": "Salut, @. Je place des produits dans mon bac d'expédition. Lewis les prendra tous tôt demain matin, C'est quelqu'un de très matinal.$1"
       }
     },
     {
@@ -6895,7 +6895,7 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Jodi",
       "Entries": {
-        "Introduction": "Oh! Oh tu n'es pas vraiment comme dans mon imagination... mais c'est ok ! Je m'appelle Jodi.#$e#C'est une petite ville tranquille, du coup c'est très excitant quand quelqu'un emménage !$1#$b#As-tu rencontré les autres fermiers de notre communauté?",
+        "Introduction": "Oh! Oh tu n'es pas vraiment comme je l'imaginais... mais c'est ok ! Je m'appelle Jodi.#$e#C'est une petite ville tranquille, du coup c'est très excitant quand quelqu'un emménage !$1#$b#As-tu rencontré les autres fermiers de notre communauté?",
         "Thu": "Donc tu es un fermier qui débute, hein ?$0$k#$e# Je suis sûr qu'Andy ou Sophia pourraient te donner quelques tuyaux.$1"
       }
     },
@@ -6934,10 +6934,10 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Kent",
       "Entries": {
-        "Town_33_106": "I feel like all I can do now is think about the past. I can't move away from it...$2",
-        "Town8_33_106": "Jodi made my favorite meal last night. It made me... happy.$1",
-        "Summit_15_16": "The Gotoro Empire geography is somewhat similar to Stardew Valley.$2",
-        "Summit8_15_16": "Hiking to the summit has become a hobby of mine. Good workout and a pretty view.$1"
+        "Town_33_106": "J'ai l'impression que tout ce que je peux faire maintenant c'est de constamment ressasser le passé. J'ai du mal à tourner la page...$2",
+        "Town8_33_106": "Jodi à fait mon plat préféré hier soir. Ca m'a rendu... heureux.$1",
+        "Summit_15_16": "La géographie de l'Empire Gotoro est quelque peu similaire à celle de Stardew Valley.$2",
+        "Summit8_15_16": "La randonnée jusqu'au sommet est devenue un de mes passe-temps préférés. C'est une bonne occasion pour faire de l'exercice et on profite d'une jolie vue.$1"
       }
     },
     {
@@ -6966,8 +6966,8 @@
       "Action": "EditData",
       "Target": "Characters/Dialogue/Linus",
       "Entries": {
-        "Summit_33_106": "Nature isn't afraid of showing you her true beauty. The scene before you is proof enough.$1",
-        "Railroad_14_19": "Ketra... She was a dear friend of mine.$2#$b#I knew her before she joined the Adventurers Guild.$2"
+        "Summit_33_106": "La nature ne manque jamais une belle occasion pour montrer sa beauté. Le spéctacle qui se déroule devant toi en est la preuve.$1",
+        "Railroad_14_19": "Ketra... C'était une bonne amie à moi.$2#$b#Je la connaissais avant qu'elle rejoigne la Guilde des Aventuriers.$2"
       }
     },
     {
@@ -7017,7 +7017,7 @@
       "Action": "EditData",
       "Target": "data/events/forest",
       "Entries": {
-        "1000021/f Jas 2000/z winter/z fall/w sunny/d Mon Tue Wed Thu Sat/t 1200 1600": "none/-500 -500/Jas 27 12 0 farmer -400 -400 3/positionOffset Jas 15 5/pause 500/skippable/viewport 27 12 true/pause 250/playMusic jaunty/pause 1000/textAboveHead Jas \"How are you today, Suki?\"/pause 3300/jump Jas/pause 1500/textAboveHead Jas \"Ooh!\"/pause 3000/emote Jas 16/pause 750/textAboveHead Jas \"For me!? Thank you!!!\"/pause 3000/emote Jas 20/pause 500/globalFade/viewport -1000 -1000/pause 1000/playMusic spring_day_ambient/pause 500/warp Jas 38 11/warp farmer 48 13/move Jas 0 0 1/move farmer 0 0 3/pause 500/viewport 39 11 true/move farmer -3 0 3/textAboveHead Jas \"Hello!!\"/move farmer -1 0 3/move farmer -1 0 3/move farmer -3 0 0/move farmer 0 -2 3/pause 500/emote farmer 32/emote Jas 32/pause 500/speak Jas \"@!$1#$b#Suki is here today. She's so nice!$1#$b#She makes sure to bring me a treat whenever she visits!\"/pause 500/question fork0 \"#That's very sweet of her.#What did she give you?\"/fork 1000021_Treat/switchEvent 1000021_Treat",
+        "1000021/f Jas 2000/z winter/z fall/w sunny/d Mon Tue Wed Thu Sat/t 1200 1600": "none/-500 -500/Jas 27 12 0 farmer -400 -400 3/positionOffset Jas 15 5/pause 500/skippable/viewport 27 12 true/pause 250/playMusic jaunty/pause 1000/textAboveHead Jas \"Comment tu vas aujourd'hui Suki?\"/pause 3300/jump Jas/pause 1500/textAboveHead Jas \"Ooh!\"/pause 3000/emote Jas 16/pause 750/textAboveHead Jas \"C'est pour moi !? Merci !!!\"/pause 3000/emote Jas 20/pause 500/globalFade/viewport -1000 -1000/pause 1000/playMusic spring_day_ambient/pause 500/warp Jas 38 11/warp farmer 48 13/move Jas 0 0 1/move farmer 0 0 3/pause 500/viewport 39 11 true/move farmer -3 0 3/textAboveHead Jas \"Hello!!\"/move farmer -1 0 3/move farmer -1 0 3/move farmer -3 0 0/move farmer 0 -2 3/pause 500/emote farmer 32/emote Jas 32/pause 500/speak Jas \"@!$1#$b#Suki est là aujourd'hui. Elle est tellement gentille !$1#$b#Elle s'assure toujours de m'apporter un festin chaque fois qu'elle me visite!\"/pause 500/question fork0 \"#C'est vraiment gentil de sa part.#Qu'est-ce qu'elle t'a donné ?\"/fork 1000021_Treat/switchEvent 1000021_Treat",
         "1000021_Treat": "pause 500/jump Jas/pause 1000/speak Jas \"She gave me a Gotoro lollipop this time! She always brings me something new.$1\"/pause 900/move Jas 0 0 3/pause 700/emote Jas 28/pause 800/move Jas 0 0 1/pause 350/speak Jas \"I'm sad we're fighting the Gotoro Empire. I thought maybe they were evil, but Suki is nice. They're just like us.$3\"/emote farmer 16/pause 600/playMusic echos/pause 1000/speak Jas \"Why do we have to fight each other, @?$3\"/pause 500/question fork1 \"#War is complicated, but let's hope there will be peace again soon.#We'll finish the fight they started.\"/fork 1000021_GotoroFriends/pause 1000/stopMusic/speak Jas \"...$2\"/pause 500/shake Jas 1000/pause 1500/speed Jas 4/move Jas 0 3 1/move farmer 0 0 1/speed Jas 4/move Jas 16 0 1 true/pause 500/emote farmer 28/pause 200/shake Jas 3000/globalFade/viewport -1000 -1000/pause 700/friendship Jas -750/end dialogue Jas \"...$2#$e#%Jas looks sad.\"",
         "1000021_GotoroFriends": "pause 700/speak Jas \"...$3\"/pause 850/speak Jas \"That'd make me happy. I bet Suki would be happy too.$3#$b#I don't want anyone to be hurt. I want everyone to be friends.$0#$b#If I can be friends with Suki, maybe we can all make friends with the Gotoro Empire someday.$1\"/pause 750/move Jas 0 2 1/move farmer 0 0 2/move Jas 2 0 0/pause 500/speak Jas \"I'm going to go home and show Aunt Marnie this lollipop!$1#$b#You should visit Suki's cart. She brought a lot of good stuff today.$0\"/pause 1000/move Jas 6 0 1 true/pause 300/move farmer 0 0 1/pause 500/globalFade/viewport -1000 -1000 true/pause 1300/friendship Jas 50/end dialogue Jas \"Did you buy something from Suki? She has really rare stuff sometimes!$1\""
       },
@@ -7057,7 +7057,7 @@
       "Target": "data/events/town",
       "Entries": {
         "1000028/f Pierre 2500/y 3/e 1000013/t 2200 2600/z winter": "spring_night_ambient/-500 -500/farmer 34 58 1 Pierre -200 -200 2 Abigail -300 -300 2 Caroline -350 -350 2 Wizard -400 -400 2/pause 500/viewport 41 59 true/pause 300/move farmer 7 0 1/playSound doorClose/pause 200/warp Pierre 43 57/pause 300/speed Pierre 4/move Pierre 0 2 2/speed Pierre 4/move Pierre -5 0 3/move farmer 0 0 3/pause 600/move Pierre 0 0 1/pause 2550/speed Pierre 5/move Pierre -10 0 3/speed Pierre 5/move Pierre 0 4 2/move farmer 0 0 2/speed Pierre 5/move Pierre 0 10 2/emote Pierre 28/globalFade/viewport -2000 -2000/warp Pierre 7 91/move Pierre 0 0 3/warp farmer 29 91/faceDirection farmer 3/viewport 14 91 true/speed Pierre 4/move Pierre -7 0 3/warp Pierre -800 -800/pause 500/speed farmer 5/move farmer -22 0 3/pause 750/emote farmer 8/pause 500/question fork0 \"#Follow Pierre#Go to sleep\"/fork 1000028_FollowPierre/pause 500/globalFade/viewport -1000 -1000/pause 700/end newDay",
-        "1000028_FollowPierre": "pause 500/move farmer -7 0 3/warp farmer -550 -550/globalFade/viewport -2000 -2000/pause 1500/changeLocation Forest/pause 500/warp Pierre 5 28/warp farmer 5 38/move Pierre 0 0 0/move farmer 0 0 0/viewport 14 20 true/move Pierre 0 -7 0/move farmer 0 -8 0/pause 600/emote Pierre 40/pause 400/move Pierre 0 -3 0/pause 1500/playSound stoneStep/pause 300/playSound stoneStep/pause 350/playSound stoneStep/pause 1250/textAboveHead Pierre \"Hello?... It's me.\"/pause 3500/playSound doorCreak/pause 2200/warp Pierre -850 -850/playSound doorClose/pause 1000/move farmer 0 -8 0/pause 750/emote farmer 8/pause 1500/speed farmer 3/move farmer 0 -3 3/speed farmer 3/move farmer -2 0 0/speed farmer 3/move farmer 0 -2 1/pause 2500/emote farmer 40/pause 650/globalFade/viewport -3000 -3000/pause 1000/changeLocation WizardHouse/warp farmer -500 -500/warp Wizard 5 20/move Wizard 0 0 1/warp Abigail 9 18/move Abigail 0 0 2/warp Caroline 8 18/move Caroline 0 0 2/warp Pierre 8 22/move Pierre 0 0 0/playMusic cracklingFire/pause 500/viewport 7 20 true/pause 1000/emote Pierre 8/pause 300/move Pierre 0 -1 0/pause 500/speak Pierre \"W-what is the meaning of this?$4#$b#Abigail? The Wizard? Why did you tell me to come to the Wizard's Tower so late, Caroline?$4\"/pause 1000/move Caroline 0 1 2/pause 1250/speak Caroline \"Pierre... we... we need to talk.$2\"/pause 1000/move Pierre 0 -1 0/pause 1000/move Pierre 0 0 3/pause 1300/move Pierre 0 0 0/pause 1000/speak Pierre \"...!?$4\"/pause 1250/move Abigail 0 2 3/pause 350/move Pierre 0 0 1/pause 800/speak Abigail \"...$2\"/pause 1500/move Pierre 0 0 0/pause 1000/speak Pierre \"Talk about... what? What is this, Caroline? Why are you and Abigail here!?$4\"/pause 1500/emote Caroline 28/pause 1000/speak Caroline \"Pierre... honey...$2\"/pause 2000/speak Caroline \"Abigail isn't...$2\"/pause 1500/shake Caroline 999999/pause 2000/speak Caroline \"Abigail isn't your daughter...$2\"/shake Caroline 500/pause 300/emote Pierre 16/pause 400/speak Pierre \"!!?...$4#$b#W-what do you mean she isn't MY daughter!?$4\"/pause 500/move Pierre 0 0 1/pause 400/speak Pierre \"Abigail!?$4\"/pause 1000/emote Abigail 28/pause 500/speak Abigail \"...Dad It's true.$2#$b#Umm... there's no easy way to say this.$2\"/pause 1000/speak Caroline \"...$2\"/pause 1250/move Pierre 0 0 0/pause 500/speak Pierre \"I... I don't understand ANY of this!$4#$b#EXPLAIN!!!$3\"/pause 400/shake Caroline 1000/pause 1500/speak Caroline \"Honey... do you remember back when we... broke up?$2\"/pause 2500/speak Caroline \"I... I saw someone else before we got back together. That... that person was Magnus Rasmodius...$2\"/pause 500/speak Wizard \"Pierre, it wa-\"/pause 100/move Pierre 0 0 3/pause 100/shake Pierre 2000/speak Pierre \"YOU!!!$3\"/speed Pierre 4/move Pierre -2 0 3/move Caroline 0 0 3/animate Pierre true true 999999 17/pause 400/animate Pierre true true 999999 18/pause 400/stopAnimation Pierre/playSound healSound/screenFlash 3/showFrame Wizard 16/warp Wizard 7 16/pause 600/move Pierre 0 0 0/pause 300/showFrame Wizard 0/pause 100/move Caroline 0 0 0/pause 100/move Abigail 0 0 0/pause 1000/move Caroline 0 0 3/pause 400/speak Caroline \"PIERRE! STOP!!$3\"/pause 100/move Abigail 0 0 3/pause 250/move Pierre 0 0 1/pause 500/speak Caroline \"I know you're confused and hurt right now. But please, please let us explain. Please...$2\"/pause 2000/speed Pierre 2/move Pierre 0 -1 1/pause 1500/textAboveHead Pierre \"...Okay, Caroline.\"/pause 1000/move Caroline -1 0 3/pause 750/shake Caroline 800/pause 2250/speak Caroline \"When you were... when I found out you were with that girl in Grampleton... it... it hurt me so much.$2\"/pause 300/shake Pierre 700/emote Pierre 28/pause 1250/speak Caroline \"I reacted poorly to that by... doing the same thing.$2\"/pause 2500/speak Caroline \"...$2\"/pause 650/move Abigail -2 0 0/pause 700/move Abigail 0 0 3/pause 500/speak Caroline \"I... I thought Abigail was your child. After all these years I trusted-$2\"/pause 200/shake Caroline 1200/textAboveHead Caroline \"*sniff*...\"/pause 2000/speak Caroline \"I... I...$2\"/pause 500/shake Caroline 800/pause 1250/speak Caroline \"...I only recently figured it out when... when Abigail started developing special... powers.$2#$b#Abigail's purple hair, her interest in monsters and magic, and now her ability to see forest spirits...$2\"/pause 1500/speak Caroline \"Surely you noticed too, honey... $2#$b#I remember when you said you caught Abigail practicing sword stances in the graveyard late at night with @...$2#$b#We've also talked about her hair a few times...$2\"/pause 1500/shake Pierre 800/pause 1250/textAboveHead Pierre \"...Yes, that's true.\"/pause 3000/move Pierre 0 0 0/pause 500/emote Pierre 28/pause 1200/move Abigail -1 0 0/pause 1000/move Pierre 0 0 2/pause 2000/move Pierre 0 0 0/pause 1000/emote Pierre 28/pause 1000/speak Pierre \"M. Rasmodius, I'm... I'm sorry I attacked you. I... I let my anger get the best of me...$2\"/pause 1000/move Pierre 0 0 1/pause 1250/speak Pierre \"...$2\"/pause 1000/move Pierre 0 0 2/pause 1500/speak Pierre \"Is... is this your first-time hearing this, Abigail?$2\"/pause 1400/speak Abigail \"...No. The... three of us have already talked about it.$2\"/pause 1500/speak Abigail \"Dad... sometimes I suspected but to find out for sure... it... it was shocking to me too. I can imagine how hurt you feel.$2#$b#...But please. Don't put this all on Mom... it was a long time ago, and she doesn't deserve that...$2\"/pause 1750/speed Pierre 2/move Pierre -1 0 3/pause 150/move Abigail 0 0 3/pause 1100/shake Pierre 2000/pause 1000/emote Caroline 28/pause 600/emote Pierre 12/pause 3250/speak Pierre \"This... this is all my fault.$2#$b#I was so... stupid and young. I shouldn't have... I shouldn't have done what I did to you, Caroline.$2\"/pause 2000/speak Pierre \"I was a fool...$2\"/pause 1500/move Caroline -1 0 3/pause 750/move Pierre 0 0 1/pause 1500/speak Caroline \"Honey... we can't change the past...$2#$b#What we can do is make a brighter future. Together.$0\"/pause 1500/speak Pierre \"...$2\"/pause 1250/speak Pierre \"...$0\"/pause 1500/move Abigail -1 0 0/pause 750/move Pierre 0 0 2/pause 1500/move Wizard -1 0 2/move Wizard 0 1 2/pause 500/speak Wizard \"May I speak?$0\"/pause 600/move Caroline 0 0 0/pause 250/move Pierre 0 0 0/pause 1000/speak Pierre \"Yes, Magnus.$2#$b#I cut you off earlier... I apologize for that.$2\"/pause 1250/speak Wizard \"That's quite all right, Pierre. It's not surprising you'd be overcomed by your emotions.$0#$b#I don't blame you for your outburst. Thank you for your apologizing.$0\"/pause 1500/showFrame Wizard 18/pause 1250/speak Wizard \"Now, Pierre...$0#$b#I want you to understand that I may be Abigail's biological father, but I'm not her dad. You raised her, and you'll always be her dad.$0\"/pause 750/move Pierre 0 0 2/pause 1250/move Pierre 0 0 0/speak Wizard \"You and Caroline have done a wonderful job. She's grown up into a beautiful, kind person.#0#$b#Her compassion and curiosity is due to your efforts, not mine.$0\"/pause 1000/showFrame Wizard 0/pause 1250/speak Wizard \"I... I always had a feeling that I had a connection with someone in the valley. I could never explain it...$0#$b#Now I realize it's because of Abigail.$0\"/pause 750/move Abigail 2 0 0/move Abigail 0 -1 0/pause 1000/speak Wizard \"Abigail possesses the ability to see forest spirits called 'Junimos'. These spirits uniquely reside in the valley. They are completely harmless.$0#$b#Abigail also has a keen knack for swordsmanship and shows promise in arcane abilities.$0\"/pause 1500/move Abigail 0 0 3/pause 750/move Abigail 0 0 0/pause 500/speak Wizard \"Pierre, I understand this may be overwhelming and you may resent me...$0#$b#I'm sorry this is the way you had to find out.$0#$b#I hope you understand that we had to tell you. Once we knew, your family didn't want to deceive you.$0\"/pause 2000/speak Wizard \"And it's better to hear it from the people you love the most than to stumble on it by yourself.$0\"/pause 1500/move Caroline 0 0 3/pause 1000/speak Pierre \"...It sure is a lot to take in all at once.$2\"/pause 500/move Pierre 0 0 1/pause 300/move Abigail 0 0 3/pause 300/speak Caroline \"Honey... I want you to know that I love you and that will never change. We will get through this together, as a family.$0\"/pause 1000/speak Abigail \"Dad, I know we may not always get along... but I love you. You're one of the strongest people I know.$0\"/pause 1500/move Pierre 0 0 0/pause 1000/move Pierre 0 0 1/pause 1500/speak Pierre \"I don't know what to say.$2#$b#I... I have so many questions, and I don't know if there are any answers...$2\"/pause 1500/move Pierre 0 -2 1/move Wizard 0 0 3/pause 150/move Caroline 0 0 0/pause 300/move Abigail 0 0 0/pause 350/speak Pierre \"I want to make it clear to all of you that Abigail will always be my daughter in my eyes.$3\"/pause 500/speak Wizard \"Good. I wouldn't have it any other way, Pierre.$0\"/pause 500/move Abigail 0 -1 3/pause 400/move Wizard 0 0 2/pause 300/speak Abigail \"Dad, I want to learn how to use my magic. Magnus said that he would tutor me.$0\"/pause 100/emote Pierre 16/pause 200/speak Caroline \"Abigail! We talked about this. Now isn't the time to ask that!$3\"/pause 200/move Abigail 0 0 2/pause 350/speak Abigail \"But Mom, I feel like this is my DESTINY and it's calling to me. I wou-$2\"/speak Pierre \"Of course you can, Abigail.$0\"/pause 300/move Abigail 0 0 3/emote Caroline 16/emote Abigail 20/pause 350/speak Pierre \"I realize I need to... let go and let you decide what you want to do. You're an adult now.$2\"/pause 750/emote Pierre 40/pause 500/speak Pierre \"Your ability to do magic changes everything.$2\"/pause 500/move Pierre 0 0 1/pause 300/move Wizard 0 0 3/pause 500/speak Pierre \"We need discuss what happens next, Magnus. I want to know what to expect from Abigail's abilities.$2\"/pause 1000/textAboveHead Wizard \"Yes, I agree.\"/pause 800/move Wizard 3 0 1/move Abigail 0 0 1/pause 150/move Caroline 0 0 1/pause 300/move Wizard 0 1 3/pause 500/move Pierre 2 0 1/pause 150/move Caroline 1 0 1/pause 850/speak Wizard \"It's paramount we don't tell anybody about anything spoken here tonight, especially what I am about to tell you three.$0\"/pause 2000/speak Wizard \"It is imperative I introduce the Merlin Arcandium Laws and the Ze-\"/pause 200/playSound stoneStep/pause 100/emote Wizard 16/pause 500/speak Wizard \"A moment please. It seems we have a visitor.$0\"/pause 500/playSound healSound/screenFlash 3/showFrame Wizard 16/warp Wizard -700 -700/pause 300/move Caroline 0 0 1/pause 200/move Abigail 0 0 3/pause 150/move Pierre 0 0 0/pause 300/move Caroline 0 0 3/pause 200/move Pierre 0 0 2/pause 100/move Abigail -1 0 2/pause 250/move Pierre 1 0 3/pause 300/move Pierre 0 0 2/move Abigail 0 0 3/pause 250/move Caroline 0 0 1/pause 300/move Abigail 0 0 0/pause 300/move Pierre 0 0 2/pause 300/move Caroline 0 0 3/pause 400/move Abigail 0 0 1/pause 100/globalFade/viewport -5000 -5000/changeLocation Forest/pause 500/playMusic spring_night_ambient/pause 300/warp Caroline -200 -200/warp Pierre -205 -205/warp Abigail -210 -210/warp farmer 3 17/move farmer 0 0 1/pause 500/viewport 14 20 true/pause 700/emote farmer 16/speed farmer 4/move farmer 0 2 1/speed farmer 4/move farmer 2 0 2/speed farmer 4/move farmer 0 2 2/pause 100/startJittering/playSound healSound/screenFlash 3/showFrame Wizard 16/warp Wizard 5 23/pause 800/showFrame Wizard 0/move Wizard 0 0 0/pause 500/speak Wizard \"Spying, are we?$1\"/pause 1000/emote farmer 60/pause 2000/speak Wizard \"How long have you been standing out here, @?$0\"/pause 600/stopJittering/pause 600/emote farmer 40/emote farmer 40/pause 1000/speak Wizard \"I see... you've overheard everything.$0\"/pause 1500/speak Wizard \"As I understand, you are very close friends with Caroline and Pierre.$0#$b#Abigail is especially close to you. She has talked about you many times.$0\"/pause 750/emote Wizard 40/pause 750/speak Wizard \"I should cast a seal of promise on you, but I trust that you won't tell anyone anything you've heard here tonight, @.\"/pause 1000/speak Wizard \"There is much unfinished business we need to discuss.$0#$b#I'm sending you back to the town, @.$0#$b#Don't return here tonight.$0\"/pause 750/showFrame Wizard 17/pause 600/playSound healSound/screenFlash 3/warp farmer -200 -230/pause 700/showFrame Wizard 8/pause 1750/move Wizard 0 -5 0/pause 750/playSound doorCreak/pause 500/textAboveHead Wizard \"Sorry. Raccoons...\"/pause 2000/warp Wizard -300 -300/playSound doorClose/pause 1800/globalFade/viewport -1000 -1000/pause 700/end dialogue Pierre \"Sorry, @. I'm a bit out of it today. I am utterly emotionally exhausted.$2#$b#I would talk about it but... I can't. I hope you understand.$2\""
+        "1000028_FollowPierre": "pause 500/move farmer -7 0 3/warp farmer -550 -550/globalFade/viewport -2000 -2000/pause 1500/changeLocation Forest/pause 500/warp Pierre 5 28/warp farmer 5 38/move Pierre 0 0 0/move farmer 0 0 0/viewport 14 20 true/move Pierre 0 -7 0/move farmer 0 -8 0/pause 600/emote Pierre 40/pause 400/move Pierre 0 -3 0/pause 1500/playSound stoneStep/pause 300/playSound stoneStep/pause 350/playSound stoneStep/pause 1250/textAboveHead Pierre \"Hello?... It's me.\"/pause 3500/playSound doorCreak/pause 2200/warp Pierre -850 -850/playSound doorClose/pause 1000/move farmer 0 -8 0/pause 750/emote farmer 8/pause 1500/speed farmer 3/move farmer 0 -3 3/speed farmer 3/move farmer -2 0 0/speed farmer 3/move farmer 0 -2 1/pause 2500/emote farmer 40/pause 650/globalFade/viewport -3000 -3000/pause 1000/changeLocation WizardHouse/warp farmer -500 -500/warp Wizard 5 20/move Wizard 0 0 1/warp Abigail 9 18/move Abigail 0 0 2/warp Caroline 8 18/move Caroline 0 0 2/warp Pierre 8 22/move Pierre 0 0 0/playMusic cracklingFire/pause 500/viewport 7 20 true/pause 1000/emote Pierre 8/pause 300/move Pierre 0 -1 0/pause 500/speak Pierre \"W-what is the meaning of this?$4#$b#Abigail? The Wizard? Why did you tell me to come to the Wizard's Tower so late, Caroline?$4\"/pause 1000/move Caroline 0 1 2/pause 1250/speak Caroline \"Pierre... we... we need to talk.$2\"/pause 1000/move Pierre 0 -1 0/pause 1000/move Pierre 0 0 3/pause 1300/move Pierre 0 0 0/pause 1000/speak Pierre \"...!?$4\"/pause 1250/move Abigail 0 2 3/pause 350/move Pierre 0 0 1/pause 800/speak Abigail \"...$2\"/pause 1500/move Pierre 0 0 0/pause 1000/speak Pierre \"Talk about... what? What is this, Caroline? Why are you and Abigail here!?$4\"/pause 1500/emote Caroline 28/pause 1000/speak Caroline \"Pierre... honey...$2\"/pause 2000/speak Caroline \"Abigail isn't...$2\"/pause 1500/shake Caroline 999999/pause 2000/speak Caroline \"Abigail isn't your daughter...$2\"/shake Caroline 500/pause 300/emote Pierre 16/pause 400/speak Pierre \"!!?...$4#$b#W-what do you mean she isn't MY daughter!?$4\"/pause 500/move Pierre 0 0 1/pause 400/speak Pierre \"Abigail!?$4\"/pause 1000/emote Abigail 28/pause 500/speak Abigail \"...Dad It's true.$2#$b#Umm... there's no easy way to say this.$2\"/pause 1000/speak Caroline \"...$2\"/pause 1250/move Pierre 0 0 0/pause 500/speak Pierre \"I... I don't understand ANY of this!$4#$b#EXPLAIN!!!$3\"/pause 400/shake Caroline 1000/pause 1500/speak Caroline \"Honey... do you remember back when we... broke up?$2\"/pause 2500/speak Caroline \"I... I saw someone else before we got back together. That... that person was Magnus Rasmodius...$2\"/pause 500/speak Wizard \"Pierre, it wa-\"/pause 100/move Pierre 0 0 3/pause 100/shake Pierre 2000/speak Pierre \"YOU!!!$3\"/speed Pierre 4/move Pierre -2 0 3/move Caroline 0 0 3/animate Pierre true true 999999 17/pause 400/animate Pierre true true 999999 18/pause 400/stopAnimation Pierre/playSound healSound/screenFlash 3/showFrame Wizard 16/warp Wizard 7 16/pause 600/move Pierre 0 0 0/pause 300/showFrame Wizard 0/pause 100/move Caroline 0 0 0/pause 100/move Abigail 0 0 0/pause 1000/move Caroline 0 0 3/pause 400/speak Caroline \"PIERRE! STOP!!$3\"/pause 100/move Abigail 0 0 3/pause 250/move Pierre 0 0 1/pause 500/speak Caroline \"I know you're confused and hurt right now. But please, please let us explain. Please...$2\"/pause 2000/speed Pierre 2/move Pierre 0 -1 1/pause 1500/textAboveHead Pierre \"...Okay, Caroline.\"/pause 1000/move Caroline -1 0 3/pause 750/shake Caroline 800/pause 2250/speak Caroline \"When you were... when I found out you were with that girl in Grampleton... it... it hurt me so much.$2\"/pause 300/shake Pierre 700/emote Pierre 28/pause 1250/speak Caroline \"I reacted poorly to that by... doing the same thing.$2\"/pause 2500/speak Caroline \"...$2\"/pause 650/move Abigail -2 0 0/pause 700/move Abigail 0 0 3/pause 500/speak Caroline \"I... I thought Abigail was your child. After all these years I trusted-$2\"/pause 200/shake Caroline 1200/textAboveHead Caroline \"*sniff*...\"/pause 2000/speak Caroline \"I... I...$2\"/pause 500/shake Caroline 800/pause 1250/speak Caroline \"...I only recently figured it out when... when Abigail started developing special... powers.$2#$b#Abigail's purple hair, her interest in monsters and magic, and now her ability to see forest spirits...$2\"/pause 1500/speak Caroline \"Surely you noticed too, honey... $2#$b#I remember when you said you caught Abigail practicing sword stances in the graveyard late at night with @...$2#$b#We've also talked about her hair a few times...$2\"/pause 1500/shake Pierre 800/pause 1250/textAboveHead Pierre \"...Yes, that's true.\"/pause 3000/move Pierre 0 0 0/pause 500/emote Pierre 28/pause 1200/move Abigail -1 0 0/pause 1000/move Pierre 0 0 2/pause 2000/move Pierre 0 0 0/pause 1000/emote Pierre 28/pause 1000/speak Pierre \"M. Rasmodius, I'm... I'm sorry I attacked you. I... I let my anger get the best of me...$2\"/pause 1000/move Pierre 0 0 1/pause 1250/speak Pierre \"...$2\"/pause 1000/move Pierre 0 0 2/pause 1500/speak Pierre \"Is... is this your first-time hearing this, Abigail?$2\"/pause 1400/speak Abigail \"...No. The... three of us have already talked about it.$2\"/pause 1500/speak Abigail \"Dad... sometimes I suspected but to find out for sure... it... it was shocking to me too. I can imagine how hurt you feel.$2#$b#...But please. Don't put this all on Mom... it was a long time ago, and she doesn't deserve that...$2\"/pause 1750/speed Pierre 2/move Pierre -1 0 3/pause 150/move Abigail 0 0 3/pause 1100/shake Pierre 2000/pause 1000/emote Caroline 28/pause 600/emote Pierre 12/pause 3250/speak Pierre \"This... this is all my fault.$2#$b#I was so... stupid and young. I shouldn't have... I shouldn't have done what I did to you, Caroline.$2\"/pause 2000/speak Pierre \"I was a fool...$2\"/pause 1500/move Caroline -1 0 3/pause 750/move Pierre 0 0 1/pause 1500/speak Caroline \"Honey... we can't change the past...$2#$b#What we can do is make a brighter future. Together.$0\"/pause 1500/speak Pierre \"...$2\"/pause 1250/speak Pierre \"...$0\"/pause 1500/move Abigail -1 0 0/pause 750/move Pierre 0 0 2/pause 1500/move Wizard -1 0 2/move Wizard 0 1 2/pause 500/speak Wizard \"May I speak?$0\"/pause 600/move Caroline 0 0 0/pause 250/move Pierre 0 0 0/pause 1000/speak Pierre \"Yes, Magnus.$2#$b#I cut you off earlier... I apologize for that.$2\"/pause 1250/speak Wizard \"That's quite all right, Pierre. It's not surprising you'd be overcomed by your emotions.$0#$b#I don't blame you for your outburst. Thank you for your apologizing.$0\"/pause 1500/showFrame Wizard 18/pause 1250/speak Wizard \"Now, Pierre...$0#$b#I want you to understand that I may be Abigail's biological father, but I'm not her dad. You raised her, and you'll always be her dad.$0\"/pause 750/move Pierre 0 0 2/pause 1250/move Pierre 0 0 0/speak Wizard \"You and Caroline have done a wonderful job. She's grown up into a beautiful, kind person.#0#$b#Her compassion and curiosity is due to your efforts, not mine.$0\"/pause 1000/showFrame Wizard 0/pause 1250/speak Wizard \"I... I always had a feeling that I had a connection with someone in the valley. I could never explain it...$0#$b#Now I realize it's because of Abigail.$0\"/pause 750/move Abigail 2 0 0/move Abigail 0 -1 0/pause 1000/speak Wizard \"Abigail possesses the ability to see forest spirits called 'Junimos'. These spirits uniquely reside in the valley. They are completely harmless.$0#$b#Abigail also has a keen knack for swordsmanship and shows promise in arcane abilities.$0\"/pause 1500/move Abigail 0 0 3/pause 750/move Abigail 0 0 0/pause 500/speak Wizard \"Pierre, I understand this may be overwhelming and you may resent me...$0#$b#I'm sorry this is the way you had to find out.$0#$b#I hope you understand that we had to tell you. Once we knew, your family didn't want to deceive you.$0\"/pause 2000/speak Wizard \"And it's better to hear it from the people you love the most than to stumble on it by yourself.$0\"/pause 1500/move Caroline 0 0 3/pause 1000/speak Pierre \"...It sure is a lot to take in all at once.$2\"/pause 500/move Pierre 0 0 1/pause 300/move Abigail 0 0 3/pause 300/speak Caroline \"Honey... I want you to know that I love you and that will never change. We will get through this together, as a family.$0\"/pause 1000/speak Abigail \"Dad, I know we may not always get along... but I love you. You're one of the strongest people I know.$0\"/pause 1500/move Pierre 0 0 0/pause 1000/move Pierre 0 0 1/pause 1500/speak Pierre \"I don't know what to say.$2#$b#I... I have so many questions, and I don't know if there are any answers...$2\"/pause 1500/move Pierre 0 -2 1/move Wizard 0 0 3/pause 150/move Caroline 0 0 0/pause 300/move Abigail 0 0 0/pause 350/speak Pierre \"I want to make it clear to all of you that Abigail will always be my daughter in my eyes.$3\"/pause 500/speak Wizard \"Good. I wouldn't have it any other way, Pierre.$0\"/pause 500/move Abigail 0 -1 3/pause 400/move Wizard 0 0 2/pause 300/speak Abigail \"Dad, I want to learn how to use my magic. Magnus said that he would tutor me.$0\"/pause 100/emote Pierre 16/pause 200/speak Caroline \"Abigail! We talked about this. Now isn't the time to ask that!$3\"/pause 200/move Abigail 0 0 2/pause 350/speak Abigail \"But Mom, I feel like this is my DESTINY and it's calling to me. I wou-$2\"/speak Pierre \"Of course you can, Abigail.$0\"/pause 300/move Abigail 0 0 3/emote Caroline 16/emote Abigail 20/pause 350/speak Pierre \"I realize I need to... let go and let you decide what you want to do. You're an adult now.$2\"/pause 750/emote Pierre 40/pause 500/speak Pierre \"Your ability to do magic changes everything.$2\"/pause 500/move Pierre 0 0 1/pause 300/move Wizard 0 0 3/pause 500/speak Pierre \"We need discuss what happens next, Magnus. I want to know what to expect from Abigail's abilities.$2\"/pause 1000/textAboveHead Wizard \"Yes, I agree.\"/pause 800/move Wizard 3 0 1/move Abigail 0 0 1/pause 150/move Caroline 0 0 1/pause 300/move Wizard 0 1 3/pause 500/move Pierre 2 0 1/pause 150/move Caroline 1 0 1/pause 850/speak Wizard \"It's paramount we don't tell anybody about anything spoken here tonight, especially what I am about to tell you three.$0\"/pause 2000/speak Wizard \"It is imperative I introduce the Merlin Arcandium Laws and the Ze-\"/pause 200/playSound stoneStep/pause 100/emote Wizard 16/pause 500/speak Wizard \"A moment please. It seems we have a visitor.$0\"/pause 500/playSound healSound/screenFlash 3/showFrame Wizard 16/warp Wizard -700 -700/pause 300/move Caroline 0 0 1/pause 200/move Abigail 0 0 3/pause 150/move Pierre 0 0 0/pause 300/move Caroline 0 0 3/pause 200/move Pierre 0 0 2/pause 100/move Abigail -1 0 2/pause 250/move Pierre 1 0 3/pause 300/move Pierre 0 0 2/move Abigail 0 0 3/pause 250/move Caroline 0 0 1/pause 300/move Abigail 0 0 0/pause 300/move Pierre 0 0 2/pause 300/move Caroline 0 0 3/pause 400/move Abigail 0 0 1/pause 100/globalFade/viewport -5000 -5000/changeLocation Forest/pause 500/playMusic spring_night_ambient/pause 300/warp Caroline -200 -200/warp Pierre -205 -205/warp Abigail -210 -210/warp farmer 3 17/move farmer 0 0 1/pause 500/viewport 14 20 true/pause 700/emote farmer 16/speed farmer 4/move farmer 0 2 1/speed farmer 4/move farmer 2 0 2/speed farmer 4/move farmer 0 2 2/pause 100/startJittering/playSound healSound/screenFlash 3/showFrame Wizard 16/warp Wizard 5 23/pause 800/showFrame Wizard 0/move Wizard 0 0 0/pause 500/speak Wizard \"Spying, are we?$1\"/pause 1000/emote farmer 60/pause 2000/speak Wizard \"How long have you been standing out here, @?$0\"/pause 600/stopJittering/pause 600/emote farmer 40/emote farmer 40/pause 1000/speak Wizard \"Je vois... tu as tout entendu.$0\"/pause 1500/speak Wizard \"As I understand, you are very close friends with Caroline and Pierre.$0#$b#Abigail is especially close to you. She has talked about you many times.$0\"/pause 750/emote Wizard 40/pause 750/speak Wizard \"I should cast a seal of promise on you, but I trust that you won't tell anyone anything you've heard here tonight, @.\"/pause 1000/speak Wizard \"There is much unfinished business we need to discuss.$0#$b#I'm sending you back to the town, @.$0#$b#Don't return here tonight.$0\"/pause 750/showFrame Wizard 17/pause 600/playSound healSound/screenFlash 3/warp farmer -200 -230/pause 700/showFrame Wizard 8/pause 1750/move Wizard 0 -5 0/pause 750/playSound doorCreak/pause 500/textAboveHead Wizard \"Sorry. Raccoons...\"/pause 2000/warp Wizard -300 -300/playSound doorClose/pause 1800/globalFade/viewport -1000 -1000/pause 700/end dialogue Pierre \"Sorry, @. I'm a bit out of it today. I am utterly emotionally exhausted.$2#$b#I would talk about it but... I can't. I hope you understand.$2\""
       },
       "When": {
         "MatureEvents": true
@@ -7240,7 +7240,7 @@
       "Action": "EditData",
       "Target": "data/events/town",
       "Entries": {
-        "1000015/m 60000/w sunny/z winter/z fall/z spring/t 900 1700": "springtown/-500 -500/farmer 19 39 0 Demetrius 27 29 0 Jodi 21 24 1 Caroline 23 24 3 Penny 47 33 2/skippable/showFrame Penny 18/pause 600/viewport 26 29 true/pause 250/textAboveHead Demetrius \"The fountain is stunning today.\"/move farmer 0 -10 1/move farmer 1 0 1/emote farmer 8/pause 800/move Demetrius 0 0 3/pause 300/textAboveHead Demetrius \"Hello!\"/pause 1000/move farmer 5 0 1/pause 300/speak Demetrius \"Hi, @!$1#$b#The weather is astonishing, wouldn't you say?$0\"/pause 800/move Demetrius 0 0 0/pause 1200/speak Demetrius \"Did you know this fountain is thirty years old?$0#$b#It's maintained and repaired by a technician from Grampleton.$1\"/pause 500/move Demetrius 0 0 3/pause 500/speak Demetrius \"Are you making progress cultivating your farm?$1#$b#I haven't visited it since you allowed me to set up my experiment in the cave, which I'm still thankful for!$0\"/pause 200/speak Demetrius \"$q -1 null#(What should I say)#$r -1 0 demetrius_event1#Robin constructed buildings on my farm!#$r -1 0 demetrius_event2#I'm looking into crafting sprinklers to automate watering.#$r -1 0 demetrius_event3#I've been focusing on honing my combat skills and fishing.\"/pause 1100/speak Demetrius \"Glad you're doing fine here in Stardew Valley. Owning a farm is a lot of work and may be overwhelming at times.$0\"/pause 800/speak Demetrius \"Speaking of Stardew Valley...$0\"/pause 200/speak Demetrius \"$q -1 null#Do you know where our valley gets its name?#$r -1 0 demetrius_event4#Does our valley get its name from space stuff?#$r -1 0 demetrius_event5#Because star... dew? Something? I don't know.#$r -1 0 demetrius_event6#Where does the name come from?\"/pause 800/speak Demetrius \"A thousand years ago, a huge meteor shower periodically bombarded this specific area of the Ferngill Republic.$0#$b#Of course, back then, the Republic didn't exist yet.$3#$b#The meteors were so plentiful that their trails looked like fibers stretched across the sky.$0#$b#The meteorites looked like tiny drops on the trails, like morning dew on a spiderweb. So our ancestors called these showers the 'Silk Dew of The Stars'.$0#$b#When the Ferngill Republic was first established 150 years ago, the Admission Union named this valley 'Stardew' in honor of our ancestors.$0#$b#Have you ever wondered why your crops are always healthy? Or why they so easily bear high-quality produce?$0#$b#That's because of the meteor shower! The soil in the valley is extremely fertile. It has an abundance of nutrients such as nitrogen, phosphorus and potassium!$1#$b#There's also a high concentration of minerals present in the soil, including zinc, manganese, boron, iron, sulfur, cobalt, copper, magnesium and so on.$0#$b#You can grow just about anything with ease thanks to the fertile soil. It's the reason so many farmers have established their livelihood in Stardew Valley!$1\"/pause 100/emote Demetrius 32/pause 100/question fork0 \"#I learned something new! Thanks!#You talk way too much.\"/fork 1000015_InformativeConversation/stopMusic/pause 500/emote Demetrius 28/pause 1000/speak Demetrius \"I apologize, @. It wasn't my intention to ramble like that...$2#$b#I get excited when presented the opportunity to teach someone new things.$2\"/pause 700/emote Demetrius 28/pause 1000/speak Demetrius \"Well... it's always a pleasure talking to you, @.$2\"/pause 200/globalFade/viewport -1000 -1000/pause 700/friendship Demetrius -375/end dialogue Demetrius \"I'm sorry I took up so much of your day at the fountain, @. That won't happen again.$2#$e#%Demetrius looks sad.\"",
+        "1000015/m 60000/w sunny/z winter/z fall/z spring/t 900 1700": "springtown/-500 -500/farmer 19 39 0 Demetrius 27 29 0 Jodi 21 24 1 Caroline 23 24 3 Penny 47 33 2/skippable/showFrame Penny 18/pause 600/viewport 26 29 true/pause 250/textAboveHead Demetrius \"The fountain is stunning today.\"/move farmer 0 -10 1/move farmer 1 0 1/emote farmer 8/pause 800/move Demetrius 0 0 3/pause 300/textAboveHead Demetrius \"Hello!\"/pause 1000/move farmer 5 0 1/pause 300/speak Demetrius \"Hi, @!$1#$b#The weather is astonishing, wouldn't you say?$0\"/pause 800/move Demetrius 0 0 0/pause 1200/speak Demetrius \"Did you know this fountain is thirty years old?$0#$b#It's maintained and repaired by a technician from Grampleton.$1\"/pause 500/move Demetrius 0 0 3/pause 500/speak Demetrius \"Are you making progress cultivating your farm?$1#$b#I haven't visited it since you allowed me to set up my experiment in the cave, which I'm still thankful for!$0\"/pause 200/speak Demetrius \"$q -1 null#(What should I say)#$r -1 0 demetrius_event1#Robin constructed buildings on my farm!#$r -1 0 demetrius_event2#I'm looking into crafting sprinklers to automate watering.#$r -1 0 demetrius_event3#I've been focusing on honing my combat skills and fishing.\"/pause 1100/speak Demetrius \"Glad you're doing fine here in Stardew Valley. Owning a farm is a lot of work and may be overwhelming at times.$0\"/pause 800/speak Demetrius \"Speaking of Stardew Valley...$0\"/pause 200/speak Demetrius \"$q -1 null#Do you know where our valley gets its name?#$r -1 0 demetrius_event4#Does our valley get its name from space stuff?#$r -1 0 demetrius_event5#Because star... dew? Something? I don't know.#$r -1 0 demetrius_event6#Where does the name come from?\"/pause 800/speak Demetrius \"A thousand years ago, a huge meteor shower periodically bombarded this specific area of the Ferngill Republic.$0#$b#Of course, back then, the Republic didn't exist yet.$3#$b#The meteors were so plentiful that their trails looked like fibers stretched across the sky.$0#$b#The meteorites looked like tiny drops on the trails, like morning dew on a spiderweb. So our ancestors called these showers the 'Silk Dew of The Stars'.$0#$b#When the Ferngill Republic was first established 150 years ago, the Admission Union named this valley 'Stardew' in honor of our ancestors.$0#$b#Have you ever wondered why your crops are always healthy? Or why they so easily bear high-quality produce?$0#$b#That's because of the meteor shower! The soil in the valley is extremely fertile. It has an abundance of nutrients such as nitrogen, phosphorus and potassium!$1#$b#There's also a high concentration of minerals present in the soil, including zinc, manganese, boron, iron, sulfur, cobalt, copper, magnesium and so on.$0#$b#You can grow just about anything with ease thanks to the fertile soil. It's the reason so many farmers have established their livelihood in Stardew Valley!$1\"/pause 100/emote Demetrius 32/pause 100/question fork0 \"#I learned something new! Thanks!#You talk way too much.\"/fork 1000015_InformativeConversation/stopMusic/pause 500/emote Demetrius 28/pause 1000/speak Demetrius \"Excuse-moi @. Ce n'était pas mon intention de divaguer comme ça...$2#$b#I get excited when presented the opportunity to teach someone new things.$2\"/pause 700/emote Demetrius 28/pause 1000/speak Demetrius \"Well... it's always a pleasure talking to you, @.$2\"/pause 200/globalFade/viewport -1000 -1000/pause 700/friendship Demetrius -375/end dialogue Demetrius \"I'm sorry I took up so much of your day at the fountain, @. That won't happen again.$2#$e#%Demetrius looks sad.\"",
         "1000015_InformativeConversation": "pause 750/speak Demetrius \"I'm happy you know more about the valley and where you live!$1#$b#The combined effects of science and history have made Stardew Valley a fascinating place!$1\"/pause 200/emote Demetrius 16/speak Demetrius \"Oh, look at the time! I didn't mean to keep you so long!$6#$b#I'll let you get back to whatever errands you were running. Have a fantastic day, @!$1\"/pause 200/globalFade/viewport -1000 -1000/pause 700/friendship Demetrius 50/end dialogue Demetrius \"I hope our conversation about the valley was informative for you!$1#$b#There are so many wonderous things to disover here.$0#$b#That's why this is where I do my research!$1\""
       }
     },
@@ -7367,7 +7367,7 @@
       }
     },
     {
-      "_SECTION_COMMENT": "Why are you looking through here still!?",
+      "_SECTION_COMMENT": "Why are you looking through here still !?",
       "_COMMENT": "ENTER LOST WOODS",
       "Action": "EditData",
       "Target": "data/events/lostwoods",
@@ -7519,9 +7519,9 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Alex",
       "Entries": {
-        "alex_event1": "Nice! The sauna is relaxing this time of year.$1",
-        "alex_event2": "I sometimes run into her when I come to use the gym and sauna. She's always productive and busy.$1",
-        "alex_event3": "Awesome! That sounds like a heck of a leg day!$1"
+        "alex_event1": "Oh ouais ! Le sauna est relaxant à cette période de l'année.$1",
+        "alex_event2": "Je la rencontre parfois quand je viens utiliser la salle de muscu et le sauna. Elle est toujours productive et occupé.$1",
+        "alex_event3": "Incoyable ! C'est vraiment une bonne journée pour faire les jambes !$1"
       }
     },
     {
@@ -7531,9 +7531,9 @@
       "Entries": {
         "elliott_event1": "Merveilleuse nouvelle !$1",
         "elliott_event2": "Ah, Je vois ! J'espère que que ça mord bien !$1",
-        "elliott_event3": "We've all had those days, @. Spend some time in the sun and perhaps it will bring your mood up.$2",
-        "elliott_event4": "Fantastique ! It'll surely be a splendid time.$1",
-        "elliott_event5": "Ce n'est pas un problème @ ! La vie en mer ce n'est pas pour tout le monde. Peut-etre que nous pourrions plus tard passer du bon temps ensemble sur la terre ferme.$1"
+        "elliott_event3": "Nous sommes tous passés par là, @. Passe un peu de temps au soleil ça rechargera sûrement ton moral.$2",
+        "elliott_event4": "Fantastique ! Ce sera sûrement un moment splendide.$1",
+        "elliott_event5": "Ce n'est pas un problème @ ! La vie en mer ce n'est pas fait pour tout le monde. Peut-etre que nous pourrions plus tard passer du bon temps ensemble sur la terre ferme.$1"
       }
     },
     {
@@ -7562,7 +7562,7 @@
       "Entries": {
         "shane_event1": "J'imagine je suis resté debout ici pendant un bon moment, j'y pense.$3",
         "shane_event2": "Qu'est-ce que je fais sur ces rails de train ? J'y pense...$3",
-        "shane_event3": "Heh, nothing gets past you, does it ?$3"
+        "shane_event3": "Heh, rien ne te dépasse, n'est-ce pas ?$3"
       }
     },
     {
@@ -7572,18 +7572,18 @@
       "Entries": {
         "abigail_event1": "Je pensais que j'étais le seul à pouvoir les voir! C'est dingue !$7",
         "abigail_event2": "Je pensais que j'étais le seul à pouvoir les voir! C'est dingue !$7",
-        "abigail_event3": "That's... that's a good idea.$2#$b#Sorry, I'm still trying to calm down. Ummm... let me think of a question.$0",
-        "abigail_event4": "Umm... I do. laisse-moi réflechir... oh, donc...$6",
+        "abigail_event3": "C'est... c'est une bonne idée.$2#$b#Désolée, J'essaye toujours de me calmer. Hummm... laisse moi réfléchir à la question.$0",
+        "abigail_event4": "Umm... oui. laisse-moi réflechir... oh, donc...$6",
         "abigail_event5": "Le magicien t'as dit ? Que je ne l'ai jamais rencontré...$9",
-        "abigail_event6": "je vois. Maybe I could look at that book sometime too.$0",
-        "abigail_event7": "She is! Apples is very vocal. She's always excited to see me when I visit the forest.$1",
-        "abigail_event8": "Umm... about a year ago, I think? I came to the forest to practice a song I was learning, and these little spirits confronted me.$6#$b#At first, I was scared. I thought they were going to hurt me... but Apples was the first Junimo to convey to me that they're peaceful.$0",
-        "abigail_event9": "That's funny, you thought they were rats! I saw them as walking apples, which is how Apples got her nickname.$1",
-        "abigail_event10": "Oh, that was a long time ago. It makes me wonder if I stumbled across them when I was younger too.$9#$b#Maybe I did... mais je ne m'en souviens plus.$2",
-        "abigail_event11": "I can't read the language...$2#$b#I've seen it, though.$6#$b#Apples has drawn symbols on the ground and pointed to stone slabs written in it.$0#$b#I knew she was trying to tell me something, but I couldn't understand...$2",
-        "abigail_event12": "I did tell my mom and she was... shocked?$2#$b#She told me I have an overactive imagination and that I'm just seeing things. She doesn't take me seriously$9#$b#I also told Sebastian. He laughed at me.$3",
-        "abigail_event13": "The Wizard? Interesting... I don't know that much about him.$6#$b#My mom always told me to not talk to him. She even forbids me to go near his tower. I never understood why...$2",
-        "abigail_event14": "The Wizard? Interesting... I don't know that much about him.$6#$b#My mom always told me to not talk to him. She even forbids me to go near his tower. I never understood why...$2"
+        "abigail_event6": "je vois. Je pourrais peut-être jeter un coup d'oeil à ce livre quand j'en aurai le temps.$0",
+        "abigail_event7": "Elle l'est ! Apples est très bavarde. Elle est toujours excitée à l'idée de me voir quand je me promène dans la forêt.$1",
+        "abigail_event8": "Umm... ça doit faire un an environ je pense ? Je suis venue à la forêt pour m'entraîner à une chanson que j'apprenais, et ces petits esprits m'ont encerclée.$6#$b#Au début, J'étais effrayée. Je pensais qu'ils voulaient m'attaquer... mais Apples est le premier Junimo à m'avoir fait comprendre qu'ils sont inoffensifs.$0",
+        "abigail_event9": "C'est marrant, tu croyais que c'était des rats ! Moi je les vois comme des pommes qui marchent, c'est comme ça que Apples a eu ce surnom.$1",
+        "abigail_event10": "Oh, C'était il y a longtemps. Ça me fait me demander si je suis déjà tombée dessus aussi quand j'étais plus jeune.$9#$b#Peut-être que oui... mais je ne m'en souviens plus.$2",
+        "abigail_event11": "Je ne sais pas lire ce langage...$2#$b#Il m'est familier cependant.$6#$b#Apples a dessiné des symbols au sol puis elle a attiré mon attention vers des tablettes de pierre avec un message écrit dessus.$0#$b#Je sais qu'elle essayait de me dire quelque chose mais je ne pouvais pas comprendre...$2",
+        "abigail_event12": "J'en ai parlé à ma mère et elle était... choquée ?$2#$b#Elle m'a dit que j'ai une imagination débordante, que ce ne sont que des hallucinations. Elle ne me prend pas au sérieux$9#$b#J'en ai aussi parlé à Sebastian. Il s'est moqué de moi.$3",
+        "abigail_event13": "Le sorcier ? Intéressant... Je ne sais pas grand chose de lui.$6#$b#Ma mère m'a toujours dit de ne pas lui adresser la parole. Elle m'interdit même de m'approcher de sa tour. Je n'ai jamais compris pourquoi...$2",
+        "abigail_event14": "Le sorcier ? Intéressant... Je ne sais pas grand chose de lui.$6#$b#Ma mère m'a toujours  dit de ne pas lui adresser la parole. Elle m'interdit même de m'approcher de sa tour. Je n'ai jamais compris pourquoi...$2"
       }
     },
     {
@@ -7630,8 +7630,8 @@
       "Target": "characters/dialogue/Clint",
       "Entries": {
         "clint_event1": "J'admire les membres de la guilde des aventuriers. Vous éloignez les gens du danger des montres.$0",
-        "clint_event2": "...Ouais. J'en connaissais deux. Beaux aventuriers aux compétences incroyables.$2",
-        "clint_event3": "I've hiked up there myself. Some of those adventurers had quite the kill count on their tombstones. They were fine people.$0"
+        "clint_event2": "...Oui. J'en connaissais quelques uns d'entre eux. De grands aventuriers aux compétences incroyables.$2",
+        "clint_event3": "J'ai moi-même fait une randonnée là-haut. Certains de ces aventuriers se faisaient graver un compteur de monstres éliminés sur leur pierres tombales. C'étaient des gens bien.$0"
       }
     },
     {
@@ -7665,10 +7665,10 @@
       "Entries": {
         "evelyn_event1": "Je passe une bonne journée. Même si il fait un peu froid.$0",
         "evelyn_event2": "Assures-toi de porter un bon manteau chéri ! Je ne voudrais pas que tu attrapes froid.$0",
-        "evelyn_event3": "That's unfortunate to hear, dear. I'm optimistic your day will brighten up.$0",
-        "evelyn_event4": "Oh dear... you don't know?$2",
-        "evelyn_event5": "Oh dear... you don't know?$2",
-        "evelyn_event6": "Oh dear... you don't know?$2"
+        "evelyn_event3": "Je suis désolée de l'entendre. Je suis optimiste néanmoins que ta journée s'éclaircira.$0",
+        "evelyn_event4": "Oh... Tu n'es pas au courant ?$2",
+        "evelyn_event5": "Oh... Tu n'es pas au courant ?$2",
+        "evelyn_event6": "Oh... Tu n'es pas au courant ?$2"
       }
     },
     {
@@ -7679,8 +7679,8 @@
         "gus_event1": "Elle était ici il n'y a pas longtemps. Elle est partie faire ses courses.$0",
         "gus_event2": "Je vois ! J'étais juste là. Willy pêche sur le quai en ce moment.$1",
         "gus_event3": "En admirant la vue sur la Mer Diamantée, bien sûr !$1",
-        "gus_event4": "I always make the effort to visit Sophia when I have free time. She really appreciates it.$2",
-        "gus_event5": "Hmm... that's why Sophia hates Joja.$2#$b#She... blames them for the death of her parents.$2"
+        "gus_event4": "Je fais toujours l'effort d'aller visiter Sophia quand j'ai du temps libre. Elle aime beaucoup les visites.$2",
+        "gus_event5": "Hmm... C'est pour ça que Sophia déteste Joja.$2#$b#She... Elle les blâme pour la mort de ses parents.$2"
       }
     },
     {
@@ -7688,8 +7688,8 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Jodi",
       "Entries": {
-        "jodi_event1": "...Oui. Tu as raison.$2#$b#I need to be supportive for Kent. We're in this together, and I need to do everything I can to help him.$2",
-        "jodi_event2": "Thank you for the idea, @.$2#$b#J'en parlerai à Harvey. I'm sure he'll be happy to refer us to someone.$2",
+        "jodi_event1": "...Oui. Tu as raison.$2#$b#I need to be supportive for Kent. We're in this together, et je dois faire tout ce que je peux pour l'aider.$2",
+        "jodi_event2": "Merci pour l'idée, @.$2#$b#J'en parlerai à Harvey. Je suis sûr qu'il sera ravi de nous référer à quelqu'un.$2",
         "jodi_event3": "!!!$0",
         "jodi_event4": "!!!$0"
       }
@@ -7702,10 +7702,10 @@
         "kent_event1": "Hmm...$2",
         "kent_event2": "Hmm...$2",
         "kent_event3": "Hmm...$2",
-        "kent_event4": "NOTRE NATION A COMMIT DES ATROCITES SANS NOM! NOUS EN AVONS TUE DES MILLIERS !$3",
-        "kent_event5": "NOTRE NATION A COMMIT DES ATROCITES SANS NOM! NOUS EN AVONS TUE DES MILLIERS !$3",
-        "kent_event6": "MY PLATOON WAS DECIMATED IN AN AMBUSH! I WAS A COWARD!!!$3",
-        "kent_event7": "MY PLATOON WAS DECIMATED IN AN AMBUSH! I WAS A COWARD!!!$3"
+        "kent_event4": "NOTRE NATION A COMMIT DES ATTROCITÉS SANS NOM ! NOUS AVONS TUÉ DES MILLIERS !$3",
+        "kent_event5": "NOTRE NATION A COMMIT DES ATTROCITÉS SANS NOM ! NOUS AVONS TUÉ DES MILLIERS !$3",
+        "kent_event6": "MON ÉQUIPE A ÉTÉ DÉCIMÉE DANS UNE AMBUSCADE ! JE SUIS UN LÂCHE !!!$3",
+        "kent_event7": "MON ÉQUIPE A ÉTÉ DÉCIMÉE DANS UNE AMBUSCADE ! JE SUIS UN LÂCHE !!!$3"
       }
     },
     {
@@ -7723,8 +7723,8 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Lewis",
       "Entries": {
-        "lewis_event1": "bien !$1#$b#Les résidents de Pélican Ville apprécierait vraiment ça.$0#$b#You can get right to work on the field. I'll move these barrels and boxes out of the way soon.$1",
-        "lewis_event2": "That's fine, @. My offer still stands if you feel differently at a later time.$0#$b#If you do have a change in mind, you can get right to work on the field.$0"
+        "lewis_event1": "bien !$1#$b#Les résidents de Pélican Ville apprécierait vraiment ça.$0#$b#You can get right to work sur le champ. Je débarasserai le chemin de ces boîtes et des ces barils bientôt.$1",
+        "lewis_event2": "C'est bon @. Mon offre tient toujours si jamais vous réflechissez à la question.$0#$b#S'il vous vient un changement d'avis, vous pouvez commencer à travailler sur le champ.$0"
       }
     },
     {
@@ -7744,7 +7744,7 @@
       "Entries": {
         "marnie_event1": "C'est une super nouvelle ! J'achète aussi mes graines chez Pierre.$1",
         "marnie_event2": "Awwn, c'est adorable, @. Je suis contente que t'en occupes bien.$1",
-        "marnie_event3": "Oh, wow! Ca à l'air d'être du sacré gros boulot, @!$1"
+        "marnie_event3": "Oh, wow! Ca à l'air d'être un sacré gros boulot, @!$1"
       }
     },
     {
@@ -7761,18 +7761,18 @@
       "Action": "EditData",
       "Target": "characters/dialogue/Vincent",
       "Entries": {
-        "vincent_event1": "They do! I sometimes find some myself and sell 'em to Willy.$0#$b#He gives me enough to buy some ice cream or some games of Prairie King at the arcade.$1",
-        "vincent_event2": "I like ocean creatures a lot! These tide pools allow me to get a good close look of all sorts of them!$0"
+        "vincent_event1": "They do ! Il m'arrive quelques fois d'en trouver moi-même et de les vendre à Willy.$0#$b#Il me donne assez pour acheter des glaces ou faire des parties de Prairie King à la salle d'arcade.$1",
+        "vincent_event2": "J'adore les créatures aquatiques ! Ces bassins de marée me permettent de bien voir de près des poissons de toutes sortes !$0"
       }
     },
     {
-      "_COMMENT": "WILLY EVENT DIALOGUE ADDITIONS",
+      "_COMMENT": "WILLY EVENT DIALOGUE ADDITIONS - fr",
       "Action": "EditData",
       "Target": "characters/dialogue/Willy",
       "Entries": {
-        "willy_event1": "Good to hear you're still enjoying fishing, @.$0#$b#I'm happy I gave you my old  rod to get you started!$1",
-        "willy_event2": "That is marvelous to hear, @! I'm happy I gave you my old fishing rod to get you started!$1#$b#I never imagined you’d turn out to be such a skilled angler.$1",
-        "willy_event3": "Sorry to hear it, @. Hopefully you'll pick up fishing again soon!$0"
+        "willy_event1": "Content de savoir que tu aimes toujours pêcher, @.$0#$b#Je suis vraiment content de t'avoir donné ma vieille canne à pêche pour débuter !$1",
+        "willy_event2": "C'est merveilleux @ ! Je suis content de t'avoir donné ma vieille canne à pêche pour commencer !$1#$b#Je n'aurais jamais imaginé que tu deviendrais un pêcheur aussi habile.$1",
+        "willy_event3": "Désolé d'entendre ça @. J'espère que tu reprendras la pêche bientôt !$0"
       }
     },
     {
@@ -7922,7 +7922,7 @@
       "Target": "Data/ObjectInformation",
       "Fields": {
         "191": {
-          "5": "A fancy necklace given to me by a Junimo. A girl dropped it?"
+          "5": "Un collier fantaisie offert par un Junimo. Une fille l'a peut-être fait tomber ?"
         }
       }
     },
@@ -7932,7 +7932,7 @@
       "Target": "Data/SecretNotes",
       "Fields": {
         "25": {
-          "0": "^^ I find necklace! Come to home in forest! I think necklace belong to her!"
+          "0": "^^ J'ai trouvé le collier ! Viens à la maison dans la forêt !Je pense que ce collier lui appartient !"
         }
       }
     },
@@ -7967,7 +7967,7 @@
       "Action": "EditData",
       "Target": "data/events/woods",
       "Entries": {
-        "2120303/S 23/i 724/t 600 1900": "nightTime/-1000 -1000/farmer 25 17 3/removeQuest 29/removeItem 724/addTemporaryActor Bear 32 32 11 17 2 true character/faceDirection Bear 1/viewport 11 17 clamp true/move farmer -6 0 3/pause 1000/startJittering/emote farmer 28/pause 1000/stopJittering/pause 500/animate Bear false true 500 16 17/pause 500/playSound rabbit/pause 1000/playSound rabbit/pause 500/stopAnimation Bear/speak Bear \"That smell... come closer...$2\"/pause 1000/move farmer -5 0 3/pause 1000/faceDirection Bear 2/pause 1000/speak Bear \"Heh... It's not every day I get to speak to a human. Looks like you've got a little 'forest magic' in you...$3\"/pause 100/jump Bear/pause 1000/faceDirection Bear 1/speak Bear \"Now... about my note... Did you bring the good stuff?\"/pause 1000/animate farmer true true 100 35/playSound coin/addObject 13 17 724/pause 500/animate Bear false true 500 16 17/pause 500/stopAnimation farmer/playSound rabbit/pause 1000/playSound rabbit/pause 500/stopAnimation Bear/shake Bear 2000/pause 500/removeTemporarySprites/speak Bear \"HOoOoOoooh... that smell... this is really sweet stuff!$h#$b#...it's my favorite sauce... it makes me very happy.$h\"/pause 1000/emote Bear 20/animate Bear false true 200 4 5 6 7/pause 50/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/stopAnimation Bear/pause 500/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/stopAnimation farmer/pause 1000/speak Bear \"...You've made a friend today, @.\"/pause 1000/animate Bear false true 200 4 5 6 7/pause 50/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/stopAnimation Bear/pause 250/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/stopAnimation farmer/pause 1000/speak Bear \"Come visit my home sometime. I live near that abandoned vineyard.#$b#Oh. I also got something special I want to show you...$3\"/pause 500/animate Bear false true 400 8 9 10 11/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/stopAnimation Bear/fade/viewport -1000 -1000/pause 2000/message \"The bear left you with his special knowledge...\"/pause 1000/playSound reward/message \"Salmonberries and Blackberries are now worth 3x the gold!\"/end"
+        "2120303/S 23/i 724/t 600 1900": "nightTime/-1000 -1000/farmer 25 17 3/removeQuest 29/removeItem 724/addTemporaryActor Bear 32 32 11 17 2 true character/faceDirection Bear 1/viewport 11 17 clamp true/move farmer -6 0 3/pause 1000/startJittering/emote farmer 28/pause 1000/stopJittering/pause 500/animate Bear false true 500 16 17/pause 500/playSound rabbit/pause 1000/playSound rabbit/pause 500/stopAnimation Bear/speak Bear \"That smell... come closer...$2\"/pause 1000/move farmer -5 0 3/pause 1000/faceDirection Bear 2/pause 1000/speak Bear \"Heh... It's not every day I get to speak to a human. Looks like you've got a little 'forest magic' in you...$3\"/pause 100/jump Bear/pause 1000/faceDirection Bear 1/speak Bear \"Now... about my note... Did you bring the good stuff?\"/pause 1000/animate farmer true true 100 35/playSound coin/addObject 13 17 724/pause 500/animate Bear false true 500 16 17/pause 500/stopAnimation farmer/playSound rabbit/pause 1000/playSound rabbit/pause 500/stopAnimation Bear/shake Bear 2000/pause 500/removeTemporarySprites/speak Bear \"HOoOoOoooh... cette odeur... this is really sweet stuff!$h#$b#...it's my favorite sauce... it makes me very happy.$h\"/pause 1000/emote Bear 20/animate Bear false true 200 4 5 6 7/pause 50/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/stopAnimation Bear/pause 500/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/stopAnimation farmer/pause 1000/speak Bear \"...You've made a friend today, @.\"/pause 1000/animate Bear false true 200 4 5 6 7/pause 50/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/pause 100/positionOffset Bear 4 0/stopAnimation Bear/pause 250/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 6/pause 100/positionOffset farmer 2 0/playSound dwop/animate farmer true true 100 7/pause 100/positionOffset farmer 2 0/stopAnimation farmer/pause 1000/speak Bear \"Come visit my home sometime. I live near that abandoned vineyard.#$b#Oh. I also got something special I want to show you...$3\"/pause 500/animate Bear false true 400 8 9 10 11/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/playSound grassyStep/pause 400/stopAnimation Bear/fade/viewport -1000 -1000/pause 2000/message \"The bear left you with his special knowledge...\"/pause 1000/playSound reward/message \"Salmonberries and Blackberries are now worth 3x the gold!\"/end"
       }
     },
     {
@@ -7983,7 +7983,7 @@
       "Action": "EditData",
       "Target": "data/events/SeedShop",
       "Entries": {
-        "17/f Caroline 1500/p Caroline/p Abigail": "50s/35 9/farmer 31 13 0 Abigail 34 9 1 Caroline 35 9 3/skippable/move farmer 0 -1 0/pause 500/faceDirection farmer 0/speak Abigail \"Arrête de me dire comment je dois vivre ma vie !$a\"/pause 500/speak Caroline \"Hey, cut it out! We're letting you live here free of charge until you finish school. It seems like you don't appreciate that at all!$u\"/emote Abigail 12/speak Abigail \"Arrête d'essayer de me culpabiliser.$a#$b#I appreciate that you and Dad are helping me out, but expecting me to dress the way you want is ridiculous.$a#$b#I'm not a little girl anymore, Mom.$u\"/faceDirection Caroline 1/pause 1500/faceDirection Caroline 3/speak Caroline \"...You're right. I'm sorry.$s\"/pause 500/faceDirection farmer 2/playSound woodyStep/faceDirection Abigail 2 true/faceDirection Caroline 2/speak Abigail \"Is someone there?$7\"/faceDirection farmer 0/speed farmer 4/move farmer 0 1 3/speed farmer 4/move farmer -2 0 2 true/move Abigail -3 0 2 false/emote Abigail 8/speak Abigail \"I swear, this house is haunted.\"/emote Caroline 40/pause 500/end dialogue Abigail \"Urgghh...$a#$b#Sorry... I was fighting with my Mom earlier.$s\""
+        "17/f Caroline 1500/p Caroline/p Abigail": "50s/35 9/farmer 31 13 0 Abigail 34 9 1 Caroline 35 9 3/skippable/move farmer 0 -1 0/pause 500/faceDirection farmer 0/speak Abigail \"Arrête de me dire comment je dois vivre ma vie !$a\"/pause 500/speak Caroline \"Hey, cut it out! We're letting you live here free of charge until you finish school. It seems like you don't appreciate that at all!$u\"/emote Abigail 12/speak Abigail \"Arrête d'essayer de me culpabiliser.$a#$b#I appreciate that you and Dad are helping me out, but expecting me to dress the way you want is ridiculous.$a#$b#I'm not a little girl anymore, Mom.$u\"/faceDirection Caroline 1/pause 1500/faceDirection Caroline 3/speak Caroline \"...You're right. I'm sorry.$s\"/pause 500/faceDirection farmer 2/playSound woodyStep/faceDirection Abigail 2 true/faceDirection Caroline 2/speak Abigail \"Is someone there?$7\"/faceDirection farmer 0/speed farmer 4/move farmer 0 1 3/speed farmer 4/move farmer -2 0 2 true/move Abigail -3 0 2 false/emote Abigail 8/speak Abigail \"I swear, this house is haunted.\"/emote Caroline 40/pause 500/end dialogue Abigail \"Urgghh...$a#$b#Désolée... I was fighting with my Mom earlier.$s\""
       }
     },
     {
@@ -7991,7 +7991,7 @@
       "Action": "EditData",
       "Target": "data/events/Town",
       "Entries": {
-        "53/e 55/w sunny/t 1500 1700": "none/-100 -100/farmer 28 57 1 Sophia 34 66 0 Andy 37 60 3 Olivia 30 65 0 Victor 29 65 0 Susan 27 63 1 Evelyn 37 58 3 Gus 30 56 2 Pam 31 56 2 Vincent 27 55 2 Jas 26 55 2 George 37 59 3 Leah 32 61 1 Shane 34 61 3 Robin 27 61 1 Demetrius 28 61 3 Emily 30 58 2 Clint 31 59 3 Harvey 34 57 2 Lewis 35 59 3 Marnie 35 58 3 Elliott 31 63 3 Maru 33 57 2 Sebastian 35 62 1 Abigail 35 63 1 Sam 36 61 2 Penny 37 62 3 Pierre 32 65 1 Caroline 33 65 3 Haley 28 59 1 Alex 28 58 1/specificTemporarySprite leahShow/skippable/animate LeahEx false true 100 4 5/viewport 33 60 true/move farmer 1 0 1/faceDirection Sebastian 2 true/faceDirection Alex 0 true/move farmer 1 0 1/faceDirection Sebastian 1 true/faceDirection Maru 3 true/move farmer 2 0 1/faceDirection Alex 1 true/faceDirection Maru 2 true/move farmer 0 1 2/faceDirection Shane 0 true/faceDirection Emily 2 true/move farmer 0 1 2/faceDirection Shane 3 true/move farmer 0 1 2/faceDirection Emily 0/move Shane 1 0 2/faceDirection Leah 0/speak Leah \"@ ! T'es là !$h#$b#Okay... I guess I'd better introduce my pieces. Wish me luck!$l\"/pause 300/faceDirection Leah 2/pause 800/faceDirection Leah 1/faceDirection Leah 2/faceDirection Leah 3/faceDirection Leah 2/speak Leah \"Umm... Okay everyone!\"/faceDirection Sebastian 3 true/faceDirection Emily 1/faceDirection Demetrius 1 true/faceDirection Elliott 0/faceDirection Pierre 0 true/faceDirection Caroline 0 true/faceDirection Shane 3/faceDirection Sam 3 true/faceDirection Abigail 3/speak Leah \"Thanks for coming to my art show.$l\"/faceDirection Leah 1/speak Leah \"As some of you know, I came to this town because I wanted to draw inspiration from the beautiful surroundings.\"/faceDirection Leah 3/speak Leah \"This place really feels like home now.$h#$b#Okay. I'm going to introduce my sculptures now.\"/playMusic jaunty/move Leah -3 0 0/faceDirection farmer 3 true/faceDirection Marnie 3 true/faceDirection Emily 3 true/faceDirection Demetrius 0/move Leah 0 -1 0/speak Leah \"I haven't named this one, yet. She started out as an exercise in human anatomy, but I ended up seeing her through to completion.#$b#Her expression is intentionally unclear... is she embarrassed, amused, pained? I'll leave that for you to decide.\"/pause 1500/move Leah 0 1 2/faceDirection Demetrius 2 true/faceDirection Haley 2 true/faceDirection farmer 2/faceDirection Emily 2 true/faceDirection Clint 2 true/pause 500/speak Leah \"This one's called 'Post-Dimensional Nullspace'. It represents the boundary of human imagination.$u#$b#The shape and color came to me vividly when I was in a 'trance state'.\"/pause 1500/move Leah 3 0 2/faceDirection Demetrius 1 true/move Leah 0 1 1/faceDirection Haley 1/speak Leah \"I've been calling this one 'Egg Heads'. I wanted to create an animatronic humanoid statue to toy with the viewer's ability to properly attribute personhood to a physical entity. \"/pause 1500/move Leah 0 -1 0/pause 300/faceDirection Leah 2/speak Leah \"And the last one is called 'Wood Sculpture 3'. It's a celebration of my favorite sculpting material... wood.\"/faceDirection Leah 3/faceDirection Leah 1/faceDirection Leah 2/speak Leah \"Well, those are my sculptures!$l#$b#Oh! One last thing.\"/faceDirection Leah 0/speak Leah \"I'd like to say thanks to my special friend, @.#$b#He gave me the idea for this show and the courage to go through with it. I know that sounds cheesy, but it's true.^She gave me the idea for this show and the courage to go through with it. I know that sounds cheesy, but it's true.\"/faceDirection Emily 1/faceDirection Shane 3 true/faceDirection Haley 1/faceDirection Elliott 3/pause 400/speak Lewis \"I'm proud of you, Leah! Events like this really breathe life into our little town!$h\"/pause 100/textAboveHead Gus \"Great stuff!\"/faceDirection Leah 3/speak Demetrius \"I love your art, Leah! 'Post-Dimensional Nullspace' is my favorite.$h\"/textAboveHead Robin \"Great use of wood!\"/speak Penny \"Thanks for doing this!$h\"/faceDirection Leah 1/emote Leah 32/faceDirection Leah 2/pause 600/speak Olivia \"Exquisite art, Leah!$3\"/pause 200/speak Leah \"Merci tout le monde !$h\"/faceDirection Leah 0/emote Leah 20/pause 500/speak Lewis \"Now let's start the bidding on these wonderful art pieces... A marvelous addition to your home!$h#$b#Do I hear 5000g for the pink one?\"/jump Demetrius/mail afterArtShow/viewport move 2 0 8000/pause 5000/globalFade/viewport -1000 -1000/end dialogue Leah \"Wow! I'm exhausted.#$b#My show was a real success, wasn't it?$h\""
+        "53/e 55/w sunny/t 1500 1700": "none/-100 -100/farmer 28 57 1 Sophia 34 66 0 Andy 37 60 3 Olivia 30 65 0 Victor 29 65 0 Susan 27 63 1 Evelyn 37 58 3 Gus 30 56 2 Pam 31 56 2 Vincent 27 55 2 Jas 26 55 2 George 37 59 3 Leah 32 61 1 Shane 34 61 3 Robin 27 61 1 Demetrius 28 61 3 Emily 30 58 2 Clint 31 59 3 Harvey 34 57 2 Lewis 35 59 3 Marnie 35 58 3 Elliott 31 63 3 Maru 33 57 2 Sebastian 35 62 1 Abigail 35 63 1 Sam 36 61 2 Penny 37 62 3 Pierre 32 65 1 Caroline 33 65 3 Haley 28 59 1 Alex 28 58 1/specificTemporarySprite leahShow/skippable/animate LeahEx false true 100 4 5/viewport 33 60 true/move farmer 1 0 1/faceDirection Sebastian 2 true/faceDirection Alex 0 true/move farmer 1 0 1/faceDirection Sebastian 1 true/faceDirection Maru 3 true/move farmer 2 0 1/faceDirection Alex 1 true/faceDirection Maru 2 true/move farmer 0 1 2/faceDirection Shane 0 true/faceDirection Emily 2 true/move farmer 0 1 2/faceDirection Shane 3 true/move farmer 0 1 2/faceDirection Emily 0/move Shane 1 0 2/faceDirection Leah 0/speak Leah \"@ ! T'es là !$h#$b#Okay... I guess I'd better introduce my pieces. Wish me luck!$l\"/pause 300/faceDirection Leah 2/pause 800/faceDirection Leah 1/faceDirection Leah 2/faceDirection Leah 3/faceDirection Leah 2/speak Leah \"Umm... Okay everyone!\"/faceDirection Sebastian 3 true/faceDirection Emily 1/faceDirection Demetrius 1 true/faceDirection Elliott 0/faceDirection Pierre 0 true/faceDirection Caroline 0 true/faceDirection Shane 3/faceDirection Sam 3 true/faceDirection Abigail 3/speak Leah \"Thanks for coming to my art show.$l\"/faceDirection Leah 1/speak Leah \"As some of you know, I came to this town because I wanted to draw inspiration from the beautiful surroundings.\"/faceDirection Leah 3/speak Leah \"This place really feels like home now.$h#$b#Okay. I'm going to introduce my sculptures now.\"/playMusic jaunty/move Leah -3 0 0/faceDirection farmer 3 true/faceDirection Marnie 3 true/faceDirection Emily 3 true/faceDirection Demetrius 0/move Leah 0 -1 0/speak Leah \"I haven't named this one, yet. She started out as an exercise in human anatomy, but I ended up seeing her through to completion.#$b#Her expression is intentionally unclear... is she embarrassed, amused, pained? I'll leave that for you to decide.\"/pause 1500/move Leah 0 1 2/faceDirection Demetrius 2 true/faceDirection Haley 2 true/faceDirection farmer 2/faceDirection Emily 2 true/faceDirection Clint 2 true/pause 500/speak Leah \"This one's called 'Post-Dimensional Nullspace'. It represents the boundary of human imagination.$u#$b#The shape and color came to me vividly when I was in a 'trance state'.\"/pause 1500/move Leah 3 0 2/faceDirection Demetrius 1 true/move Leah 0 1 1/faceDirection Haley 1/speak Leah \"I've been calling this one 'Egg Heads'. I wanted to create an animatronic humanoid statue to toy with the viewer's ability to properly attribute personhood to a physical entity. \"/pause 1500/move Leah 0 -1 0/pause 300/faceDirection Leah 2/speak Leah \"And the last one is called 'Wood Sculpture 3'. It's a celebration of my favorite sculpting material... wood.\"/faceDirection Leah 3/faceDirection Leah 1/faceDirection Leah 2/speak Leah \"Well, those are my sculptures!$l#$b#Oh! One last thing.\"/faceDirection Leah 0/speak Leah \"I'd like to say thanks to my special friend, @.#$b#He gave me the idea for this show and the courage to go through with it. I know that sounds cheesy, but it's true.^She gave me the idea for this show and the courage to go through with it. I know that sounds cheesy, but it's true.\"/faceDirection Emily 1/faceDirection Shane 3 true/faceDirection Haley 1/faceDirection Elliott 3/pause 400/speak Lewis \"I'm proud of you, Leah! Events like this really breathe life into our little town!$h\"/pause 100/textAboveHead Gus \"Great stuff!\"/faceDirection Leah 3/speak Demetrius \"I love your art, Leah! 'Post-Dimensional Nullspace' is my favorite.$h\"/textAboveHead Robin \"Belle utilisation du bois !\"/speak Penny \"Thanks for doing this!$h\"/faceDirection Leah 1/emote Leah 32/faceDirection Leah 2/pause 600/speak Olivia \"Exquisite art, Leah!$3\"/pause 200/speak Leah \"Merci tout le monde !$h\"/faceDirection Leah 0/emote Leah 20/pause 500/speak Lewis \"Now let's start the bidding on these wonderful art pieces... A marvelous addition to your home!$h#$b#Do I hear 5000PO for the pink one?\"/jump Demetrius/mail afterArtShow/viewport move 2 0 8000/pause 5000/globalFade/viewport -1000 -1000/end dialogue Leah \"Wow! I'm exhausted.#$b#My show was a real success, wasn't it?$h\""
       }
     },
     {
@@ -8003,7 +8003,7 @@
       }
     },
     {
-      "_COMMENT": "Penny Heart Event Pathing Fix - Trailer",
+      "_COMMENT": "Penny Heart Event Pathing Fix - Trailer - fr",
       "Action": "EditData",
       "Target": "data/events/Trailer",
       "Entries": {
@@ -8174,7 +8174,7 @@
         "RailRoad.22": "Susan utilise un engrais maison unique.",
         "RailRoad.23": "C'est un seau d'engrais.",
         "RailRoad.24": "This grave is being swallowed by the mountain.",
-        "Summit.1": "-En hommage à Isabelle-^^\"Beloved wife, mentor, and adventurer\"^\"May you rest in peace, my flower.\"",
+        "Summit.1": "-En hommage à Isabelle-^^\"Femme bien-aimée, mentor, et aventurière\"^\"Puisses tu reposer en paix, ma douce fleur.\"",
         "Summit.2": "Quelle vue spectaculaire sur Stardew Valley.",
         "Summit.3": "C'est un... truc ! Ouais! Un truc !",
         "Summit.4": "Vous voulez vous asseoir sur ce banc et profiter de la vue imprenable mais votre personnage ne dispose pas d'une animation lui permettant de s'asseoir.",
@@ -8222,7 +8222,7 @@
         "LostWoods.17": "Des plants de fruits anciens poussent ici avec facilité.",
         "LostWoods.18": "C'est définitivement magique. Vous en êtes certain.",
         "LostWoods.19": "Vous regardez à travers le lac et apercevez une dizaine de huttes Junimo.",
-        "TownEast.1": "@ Pélican Ville^> Shearwater Bridge",
+        "TownEast.1": "@ Pélican Ville^> Pont de Shearwater",
         "TownEast.2": "Vous pouvez voir la ville de Grampleton de l'autre côté du pont. Malheureusement, l'auteur du Mod n'a pas encore fait cet endroit vous ne pouvez donc pas visiter la ville...",
         "TownEast.3": "Vous voulez vous asseoir sur ce banc et profiter de la vue imprenable mais votre personnage ne dispose pas d'une animation lui permettant de s'asseoir.",
         "TownEast.4": "Cet arbre doit avoir au minimum plus de 100 ans.",
@@ -8247,7 +8247,7 @@
         "MarnieShed.10": "C'est le plan de travail de Marnie.",
         "MarnieShed.11": "C'est une sorte de machine utilisée pour le traitement du bois.",
         "SophiaHouse.1": "Est-ce que se sont des cartons de déménagement ?",
-        "SophiaHouse.2": "'STEVEN GALAXY: VOLUME 5'",
+        "SophiaHouse.2": "'MONSTER X HUNTER: VOLUME 5'",
         "SophiaHouse.3": "Vous regardez dans le frigo... Wow, il y a beaucoup de poulet à l'orange là-dedans. Sophia doit beaucoup aimer ça.",
         "SophiaHouse.4": "Ce micro-ondes est étonnamment propre.",
         "SophiaHouse.5": "L'évier a une assiette avec des restes de sauce au poulet à l'orange dessus. Ca n'a pas été nettoyé depuis.",
@@ -8296,7 +8296,7 @@
         "SophiaHouse.47": "\"BON DE COMMANDE - VIGNES BLUE MOON - N°518.16.02-83\"^^\"DÉPENSES: 284,416PO\"^\"LE REVENU: 414,728PO\"^\"PROFITS DU 83E TRIMESTRE: 130,312PO\"",
         "SophiaHouse.48": "C'est un cosplay de First Slash L'Aventurière.",
         "SophiaHouse.49": "'My Super Villain School - VOL III'",
-        "SophiaHouse.50": "'Pink Princess Crusaders - VOL IX'",
+        "SophiaHouse.50": "'One Peace - VOL IX'",
         "SophiaHouse.51": "'Papa'",
         "SophiaHouse.52": "'Maman'",
         "SophiaHouse.53": "La statue de poulet a une petite gravure:^^'Robin'",
@@ -8384,7 +8384,7 @@
         "AndyHouseClean.21": "La cheminée est bien entretenue.",
         "AndyHouseClean.22": "C'est une poubelle. Il n'y a rien dedans.",
         "AndyHouseClean.23": "Le repas de Andy est prêt. Ça sent super bon",
-        "AndyHouseClean.24": "The plant has grown into something greater after all this time. Knowing that it'll continue to grow fills you with happiness.",
+        "AndyHouseClean.24": "Vootre plante a continué de grandir et a atteint une taille conséquente après tout ce temps. Savoir qu'elle va continuer de grandir vous remplit de determination.",
         "AndyHouseClean.25": "Le réfrigérateur est rempli de fourrage frais et de courses du magasin général de Pierre.",
         "AndyHouseClean.26": "La cuisinière de Andy est super clean.",
         "AndyHouseClean.27": "Vous jetez un œil dans la commode d'Andy:^^Il a dix paires de salopettes bleues de fermier.",
@@ -8406,23 +8406,23 @@
         "JenkinsHouse.16": "\"Amener la Nature dans votre maison - Comment Vivre Durablement\"",
         "JenkinsHouse.17": "\"Stardew Valley - Top Tourist Locations\"^^This cover art is of the summit here in the valley!",
         "JenkinsHouse.18": "\"Mer Diamantée - Une Vie Océanique\"",
-        "JenkinsHouse.19": "\"The Magestic Archipelago of the Fern Islands\"",
-        "JenkinsHouse.20": "\"La Légende Des Monstres - Récits de Castle Village\"^^This book in particular interests you. You take a peek at several pages... Hmm. It talks about many adventurers and their feats in slaying monsters, keeping the desert sands safe.",
+        "JenkinsHouse.19": "\"L'archipel magique des îles Fougères\"",
+        "JenkinsHouse.20": "\"La Légende Des Monstres - Récits de Castle Village\"^^Ce livre en particulier vous intéresse. Vous survolez plusieurs pages... Hmm. Ca parle de nombreux aventuriers et de leurs exploits en tuant des monstres, protégeant les sables du désert.",
         "JenkinsHouse.21": "\"Almanac Des Monstres - Edition III\"^^Vous ouvrez le livre et voyez de nombreuses photos de slimes, de brutes des ombres, de serpents, de chauves-souris, de squelettes et d'autres monstres.",
         "JenkinsHouse.22": "\"S'aventurer Dans La Montagne De Corneal - by Marlon Fay\"",
         "JenkinsHouse.23": "\"Sin (A) Angle B à 140 degrés\"^\"Cos (A) Angle Z à 120 degrés\"^\"Angle C est tangeant au Cercle Z aux coordonnées 14.01.4\"^\"csc(x) est égal à -csc(x)cot(x)\"^^... Victor doit travailler sur... quelque chose. Oui. Quelque chose.",
-        "JenkinsHouse.24": "What a lovely table by this window.",
+        "JenkinsHouse.24": "Quelle vue imprenable par la fenêtre.",
         "JenkinsHouse.25": "\"Stocks Joja - Le Guide De L'initié Au Trading !\"^^Olivia a de nombreux marque-pages dans ce livre.",
         "JenkinsHouse.26": "\"53 Raisons d'acheter des produits Joja\"",
         "JenkinsHouse.27": "\"Comment faire de l'argent dans les actions -Un système gagnant dans les bons ou les mauvais moments!\"",
         "JenkinsHouse.28": "\"Stock Market Investing for Experts\"",
-        "JenkinsHouse.29": "\"Trading stratégique d'actions - Laissez votre argent travailler pour vous!\"",
+        "JenkinsHouse.29": "\"Trading : Stratégique d'actions - Laissez votre argent travailler pour vous!\"",
         "JenkinsHouse.30": "\"Le Guide Des Grands Amateurs De Vin\"",
         "JenkinsHouse.31": "\"Vignes Abeja - Le Vocabulaire Du Vin\"",
         "JenkinsHouse.32": "\"Gérer du vin de qualité Iridium dans votre cave\"^^Il y a quelques pages déchirées dans ce livre.",
         "JenkinsHouse.33": "\"Le Succès des Vignes Blue Moon - De Jason Taylor\"",
-        "JenkinsHouse.34": "\"Elfs, Dwarves, Goblins, and Monsters - Arcane Studies VOL XII\"",
-        "JenkinsHouse.35": "\"History of the Shadow People - A Monster Hunter's Story\"",
+        "JenkinsHouse.34": "\"Elfes, Nains, Gobelins et Monstres - Etudes des Arcanes VOL XII\"",
+        "JenkinsHouse.35": "\"Histoire du peuple des ombres -L'histoire d'un chasseur de monstres\"",
         "JenkinsHouse.36": "(You notice a ripped piece of paper wedged between two books):^^\"Secret Wine Fermentation of the Gotoro Empire\"",
         "JenkinsHouse.37": "\"Créatures Mystiques de Stardew Valley - Première Edition\"",
         "JenkinsHouse.38": "\"Grampleton - Guide de voyage\"^^(Ce livre vous intéresse. Vous survolez les pages)^^Hmm... Il y a beaucoup d'images champs de blé d'or, de moulins à vent, d'artisans et une grande communauté de gens heureux. Les arbres qui entourent la ville sont énormes.",
@@ -8440,9 +8440,9 @@
         "JenkinsHouse.50": "Il y a un morceau de papier avec des notes dessus:^^\"COMMANDE DE STOCKS DATE: 04.24.1998-01.5 14:30\"^\"CONTACT: BARBARA RUSH - (624) 520-10532\"^\"CONVERSION DE DEVISES: 1PO --- 0.845Z\"",
         "JenkinsHouse.51": "L'ordinateur d'Olivia est protégé par mot de passe.",
         "JenkinsHouse.52": "\"Game of Prunes - by C.C. Marton\"",
-        "JenkinsHouse.53": "Vous alliez jeter un coup d'oeil dans la commode d'Olivia, enfin, vous savez mieux.",
+        "JenkinsHouse.53": "Vous alliez jeter un coup d'oeil dans la commode d'Olivia, enfin... vous savez mieux.",
         "JenkinsHouse.54": "Les draps sont fabriqués en soie de l'Empire Gotoro .",
-        "JenkinsHouse.55": "\"Un autre merveilleux jour à Pélican Ville! La bourse a été de mon côté ces derniers temps. J'ai gagné 40,000PO à partir de placements dans des actions que j'ai fait aujourd'hui! Je dépenserai mon argent dans du vin de la plus haute qualité pour l'ajouter à ma collection ! Ou peut-être que j'ajouterai ça à mes millions dans mon compte. Tellement de question. Et un temps si court !\"",
+        "JenkinsHouse.55": "\"Un autre merveilleux jour à Pélican Ville ! La bourse a été de mon côté ces derniers temps. J'ai gagné 40,000PO à partir de placements d'actions que j'ai fait aujourd'hui ! Je dépenserai mon argent dans du vin de la plus haute qualité pour l'ajouter à ma collection ! Ou peut-être que j'ajouterai ça à mes millions dans mon compte. Tellement de question. Et une vie si courte !\"",
         "JenkinsHouse.56": "Il y a de l'encens, des bougies, des serviettes brodées de qualité prémium et divers articles de toilette.",
         "JenkinsHouse.57": "Vous respirez la beauté aujourd'hui.",
         "JenkinsHouse.58": "Ces toilettes sont très propres.",
@@ -8508,7 +8508,7 @@
         "AuroraVineyard.22": "L'écran du téléviseur est brisé.",
         "AuroraVineyard.23": "Il y a des araignées qui vivent ici.",
         "OliviaCellar.1": "Cette radio joue de la musique classique. La mélodie du violon est magnifique.",
-        "OliviaCellar.2": "There are pins locating every vineyard in the Ferngill Republic.  Blue Moon Vineyard is on here too.",
+        "OliviaCellar.2": "Il y a des épingles localisant chaque vignoble de la République de Ferngill. Celle de Blue Moon y est aussi.",
         "OliviaCellar.3": "Ces fûts abritent du vin étranger de haute qualité.",
         "OliviaCellar.4": "Ces boîtes sont remplies de verres à vin super chers.",
         "OliviaCellar.5": "Ce sont des assiettes de l'ampire Gotoro. Ils ont l'air d'être fabriqués main.",
@@ -8523,8 +8523,8 @@
         "Egg-Festival.1": "Vous remplissez votre assiette de jambon, d'oeufs, de légumes verts et de quelques petits pains ! Vous engoutissez tout avec un grand verre de jus d'orange. C'était délicieux.",
         "Egg-Festival.2": "C'est mignon!",
         "Beach-Luau.1": "Vous connaissez cette chanson. Et vous voulez chanter les paroles, mais le volume de la musique vous a rendu pratiquement sourd.",
-        "Beach-Luau.2": "Vous vous servez dU jambon glacé, de la salade de radis et des petits pains. Vous arrosez le tout avec du vin artisanal qualité iridium provenant des vignes de Blue Moon ! C'est trop bon !",
-        "Beach-Luau.3": "Linus sait sûrement comment cuire jambon rôti à feu doux.",
+        "Beach-Luau.2": "Vous vous servez du jambon glacé, de la salade de radis et des petits pains. Vous arrosez le tout avec du vin artisanal qualité iridium provenant des vignes de Blue Moon ! C'est trop bon !",
+        "Beach-Luau.3": "Linus sait sûrement comment cuire un jambon rôti à feu doux.",
         "Beach-Luau.4": "Ces statues parlent de la culture des Tiki, l'un des peuples autochtones des îles Fougères.",
         "Beach-Luau.5": "Vous voyez quelque chose bouger dans l'eau.^^Hmm, quoi qu'il en soit, c'est parti. Ce doit être ton imagination.",
         "Town-Fair.1": "TOURIST: \"Je crois que j'ai mangé environ 4000 calories... Ca. Vaut. Carrément. Le coup. Cette sauce BBQ est bonne à en mourrir mec !\"",
@@ -8558,20 +8558,20 @@
         "Town-Fair.29": "Ce couple assis à côté de la rivière font une sacré scène de ménage... Ce serait mieux de les laisser seuls.",
         "Town-Fair.30": "Elle essaie d'utiliser la balançoire. Vous feriez mieux de vous écarter de sa trajectoire si vous ne voulez pas faire un vol plané.",
         "Town-Fair.31": "TOURIST: \"Yo! Je vais grimper ça avec une seule main!\"",
-        "Town-Fair.32": "C'est la moto de Sebastian. Il a conduit avec jusqu'ici ? Sa maison n'est pas si loin pourtant.",
-        "Town-Fair.33": "Quelqu'un jouait au kick-ball ici récemment.",
+        "Town-Fair.32": "C'est la moto de Sebastian. Il a conduit avec jusqu'ici ? Sa maison n'est pas si loin que ça pourtant.",
+        "Town-Fair.33": "Quelqu'un a joué au kick-ball ici récemment.",
         "Town-Fair.34": "Clint expose des barres de bronze, de fer et d'or de haute qualité. Il y a aussi certaines armes qu'il a forgées, en plus d'un bouclier ! C'est superbe !",
         "Town-Fair.35": "CREEPY MAN: \"Tu as triché pour venir me parler, Pas vrai ? Bon, si tu croyais qu'en allant me parler tu allais trouver un secret, eh bien dommage.\"",
         "Town-Fair.36": "La grange d'Andy est remplie de fourrage, de miel, et elle est productive.",
         "Town-Fair.37": "C'est l'épée de Marlon.",
         "Town-Fair.38": "Susan présente ses produits et son jus !",
         "Town-Fair.39": "TOURIST: \"Bonjour mon cher. C'est une ville bien aimable vous ne trouvez pas ?'.\"",
-        "Town-Fair.42": "Sophia's displaying aged Blue Moon Vineyard wine.",
+        "Town-Fair.42": "Sophia présente le vin vieilli des vignes de Blue Moon.",
         "Town-Fair.43": "FREYA: \"Ah! C'est si bon de visiter Stardew Valley une nouvelle fois. Comment se porte la guilde ces jours-ci?\"",
         "Town-Fair.44": "RICKEN: \"Hmm? Je peux t'aider ?\"",
         "Spirits-Eve-Festival.1": "Ce coffre est faux. Vous vous êtes fait embobiné.",
-        "Spirits-Eve-Festival.2": "You walked past these scary spiders only to find a fake treasure chest. Now you have to walk past the scary spiders again.",
-        "Spirits-Eve-Festival.3": "X X X ATTENTION!!! X X X MONSTRES DROIT DEVANT!!! X X X^^\"Please be wary of deadly monsters in this part of the maze. Si vous choisissez d'aller de l'avant, vous êtes responsable de votre vie et de votre santé mentale.\"^^-M. Rasmodius^^",
+        "Spirits-Eve-Festival.2": "Vous êtes passé devant ces araignées effrayantes pour trouver un faux coffre au trésor. Vous réalisez que vous devez les franchir de nouveau.",
+        "Spirits-Eve-Festival.3": "X X X ATTENTION!!! X X X MONSTRES DROIT DEVANT!!! X X X^^\"S'il vous plaît, méfiez-vous des des monstres tueurs dans cette partie du labyrinthe. Si vous choisissez d'aller de l'avant, vous êtes le seul responsable de votre vie et de votre santé mentale.\"^^-M. Rasmodius^^",
         "Spirits-Eve-Festival.5": "Cette maison a des pieds bizarres...",
         "Spirits-Eve-Festival.6": "Vous pouvez dire que le coffre derrière les tombes est faux.",
         "Spirits-Eve-Festival.7": "Ce chaudron sent la barbe à papa.",
@@ -8583,11 +8583,11 @@
         "Spirits-Eve-Festival.13": "Il y a un monstre qui bloque le chemin.",
         "Spirits-Eve-Festival.14": "Ces squelettes ont l'air menaçants. S'il n'y avait pas cette cage en métal, ils auraient pris le dessus sur nous en un instant.",
         "Spirits-Eve-Festival.15": "Cette citrouille bloque le chemin, and it's not like you can simply walk around it. Best to turn around.",
-        "Spirits-Eve-Festival.16": "These pumpkins were grown by Pierre, Marnie, Susan, and in Pélican Ville's community garden. Emily carved all of them herself.",
+        "Spirits-Eve-Festival.16": "Ces citrouilles ont été cultivées par Pierre, Marnie, Susan et dans le Jardin Communautaire de Pélican Ville. Emily les a toutes sculptées elle même.",
         "Spirits-Eve-Festival.17": "Vous ouvrez le coffre et trouvez une note. Vous la lisez :^^\"Vous avez non seulement triché dans le jeu, mais vous vous êtes trahi vous même . Vous n'avez pas mûri. Vous n'avez pas progressé. Vous avez pris un raccourci et n'avez rien gagné. Vous avez juste fait l'expérience d'une victoire sans goût. Rien n'a été risqué et rien n'a été gagné. C'est triste que vous ne ressentiez pas la différence.\"",
         "Spirits-Eve-Festival.18": "C'est l'épée de Marlon. La finition de cette épée est vraiment superbe.",
-        "Spirits-Eve-Festival.19": "Gil's sword is leaning against the Mullners' mailbox.",
-        "Spirits-Eve-Festival.20": "GIL: \"Marlon and adventurers from Castle Village caught these monsters. Don't get too close to the cages.\"",
+        "Spirits-Eve-Festival.19": "L'épée de Gil est posée contre la boîte aux lettres des Mullner.",
+        "Spirits-Eve-Festival.20": "GIL: \"Marlon et les aventuriers de Castle Village ont attrapé ces monstres. Ne vous approchez pas trop des cages.\"",
         "Spirits-Eve-Festival.21": "LE ROI CITROUILLE: \"Salut. Merci de prendre le temps discuter. Tu es quelqu'un de bien. Joyeuse fête des Esprits!\"",
         "Spirits-Eve-Festival.22": "AAAAAHHHHHHH!!!^^...^^Oh, c'est juste Dusty. C'est qui le bon chien-chien !? C'est toi !",
         "Spirits-Eve-Festival.26": "L'aventurier de Castle Village vous ignore...",
@@ -8601,14 +8601,14 @@
         "Ice-Festival.8": "Robin a construit un château de glace.",
         "Ice-Festival.9": "Cette statue de glace ressemble à une poire.",
         "Ice-Festival.10": "Le Festival des Glaces a lieu à plusieurs kilomètres dans la forêt de Cindersap.",
-        "Ice-Festival.11": "A tent all the way out here in the forest? Linus must have come out here in advance and set his tent up.",
+        "Ice-Festival.11": "Une tente posée à cet endroit de la forêt ? Linus doit être arrivé en avance et a du installer sa tente.",
         "Ice-Festival.12": "Willy a déjà attrapé plusieurs poissons. Il a du s'échauffer.",
         "Town-Winter-Star.1": "Linus a construit un igloo.",
-        "Town-Winter-Star.2": "Vous emballez votre assiette pleine de dinde, de purée de pommes de terre, de légumes verts et quelques makis.Vous mangez tout d'une seule traite, Et arrosez le tout avec du bon cidre. Délicieux! Gus s'est vraiment surpassé!",
+        "Town-Winter-Star.2": "Vous emballez votre assiette pleine de dinde, de purée de pommes de terre, de légumes verts et quelques makis. Vous mangez tout d'une seule traite, Et arrosez le tout avec du bon cidre. Délicieux ! Gus s'est vraiment surpassé !",
         "Town-Winter-Star.3": "Vous voulez lécher la canne à sucre... et vous le faites. ^^ Beurk! C'est du plastique. On vous a pourtant prévenu.",
         "Town-Winter-Star.4": "Ces cadeaux sont magnifiquement emballés. Vous vous demandez lequel est le vôtre. ^^ Oh, aucun d'eux n'a de porte-nom. Vous devriez attendre et voir qui vous en apportera un.",
         "FarmMod.1": "-AMY-^^\"Épouse et mère bien-aimée\"^\"Yoba a décidé que tu devais me quitter, mais tu n'es pas parti seul. Une partie de moi est partie avec toi. Repose en paix, mon lis tigre.\"",
-        "AdventurerGuildGuest.1": "SAWYER: \"Hmph? Que veux-tu, gamin?\"",
+        "AdventurerGuildGuest.1": "SAWYER: \"Hmph? Que veux-tu, gaminv?\"",
         "AdventurerGuildGuest.2": "BRIANNA: \"Cet endroit n'a pas changé depuis des années. C'est bon de voir que Marlon est à la hauteur.\"",
         "AdventurerGuildGuest.3": "DRAKE: \"Aucun monstre venimeux ne se trouve ici. Nous combattons des hordes de méduses vénéneuses appelées «Zines» sur les îles.\"",
         "AdventurerGuildGuest.4": "EKON: \"Marlon et moi partons en expédition aujourd'hui. Les mines de la montagne de Corneal sont périlleuses.\"",
@@ -8616,11 +8616,11 @@
         "AdventurerGuildGuest.6": "GERTRUDE: \"Je pourrais m'habituer au beau temps ici. Mais la chaleur sèche du désert me manque.\"",
         "AdventurerGuildGuest.7": "BROCK: \"Gil vérifie la documentation importante concernant le cache d'armes de Castle Village.\"",
         "AdventurerGuildGuest.8": "CORDELIA: \"Camilla, notre sorcière, m'a envoyé ici pour avoir une audience avec Marlon. Vous savez, d'où je viens, il est une légende.\"",
-        "AdventurerGuildGuest.9": "FREYA: \"Salut mon amour. Nous devrions aller à l'aventure ensemble un jour.\"",
+        "AdventurerGuildGuest.9": "FREYA: \"Salut mon amour. On devrait aller à l'aventure ensemble un jour.\"",
         "AdventurerGuildGuest.10": "CASSANDRA: \"Hmm? Oh. Salut. Je suis occupé.\"",
         "AdventurerGuildGuest.11": "JERAD: \"Eh. Les monstres ici ne sont rien par rapport à ceux que nous avons rencontrés dans le désert. C'est facile ici, gamin.\"",
-        "CrimsonBadlands.1": "SENTINELLE DU VILLAGE CHÂTEAU : \"Comment êtes-vous arrivé ici!?\"",
-        "CrimsonBadlands.2": "SENTINELLE DU VILLAGE CHÂTEAU : \"Castle Village est interdit aux étrangers. Je vous suggère de faire demi-tour.\"",
+        "CrimsonBadlands.1": "SENTINELLE DE CASTLE VILLAGE : \"Comment êtes-vous arrivé ici !?\"",
+        "CrimsonBadlands.2": "SENTINELLE DE CASTLE VILLAGE : \"Castle Village est interdit aux étrangers. Je vous suggère de faire demi-tour.\"",
         "CrimsonBadlands.3": "L'épée d'un aventurier vaincu se trouve ici ...",
         "CrimsonBadlands.4": "Ce sont les restes d'un aventurier de Castle Village ...",
         "CrimsonBadlands.5": "ALESIA: \"Qu-quoi au nom de Yoba!? Êtes-vous un sorcier ?\"",
@@ -8751,7 +8751,7 @@
         "WizardHouseBasementSVE.3": "'Le compendium du magicien'",
         "WizardHouseBasementSVE.4": "'Grimoire'",
         "WizardHouseBasementSVE.5": "'Manuscrit du mage de la République de Ferngill'",
-        "WizardHouseBasementSVE.6": "'Flamebound'",
+        "WizardHouseBasementSVE.6": "'Enflammé'",
         "WizardHouseBasementSVE.7": "'Fabrication de tombeaux et de totems'",
         "WizardHouseBasementSVE.8": "'Parchemin Junimo'^^Il y a des symboles Junimo que vous n'avez jamais vus auparavant.",
         "WizardHouseBasementSVE.9": "'Berceuse des chuchoteurs'",
@@ -8776,7 +8776,7 @@
         "WizardHouseBasementSVE.28": "'À: Ministère de la magie de la République de Ferngill'",
         "WizardHouseBasementSVE.29": "'À: Salle des guildes de Bellow Hearts'",
         "WizardHouseBasementSVE.30": "'À: ---n-r--t-e- -i--h H--'^^Les symboles sont rayés.",
-        "WizardHouseBasementSVE.31": "I was told not to come near this...",
+        "WizardHouseBasementSVE.31": "On m'a dit de ne pas s'approcher de ça...",
         "ApplesRoom.1": "La cabane sent le fruit étoilé.",
         "ApplesRoom.2": "'La mère des fruits étoilés'",
         "ApplesRoom.3": "'Ander'",
